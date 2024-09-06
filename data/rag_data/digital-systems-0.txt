@@ -1,0 +1,4 @@
+COMPSCI 350L: digital-systems-0
+Design and implementation of combinational and sequential digital systems with special attention to digital computers. The use of computer-aided design tools, hardware description languages, and programmable logic chips to facilitate larger and higher performance designs will be stressed. Laboratory exercises and group design projects will reinforce the various design techniques discussed in class. Prerequisite: Electrical and Computer Engineering 250D or Computer Science 250.
+Prerequisites
+Prereq: ECE 250D or COMPSCI 250D

@@ -1,0 +1,2 @@
+COMPSCI 555: probability-electrical-and-computer-engineers-0
+Basic concepts and techniques used stochastic modeling of systems with applications to performance and reliability of computer and communications system. Elements of probability, random variables (discrete and continuous), expectation, conditional distributions, stochastic processes, discrete and continuous time Markov chains, introduction to queuing systems and networks. Prerequisite: Mathematics 216.

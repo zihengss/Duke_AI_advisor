@@ -1,0 +1,4 @@
+COMPSCI 243: programming-interview-skills-and-practice-0
+Techniques and best practices for solving the kind of programming and algorithmic problems typically part of technical interviews. Common genres of problems, methods for solving them, engaging peers and interviewers in the process of solving problems. Students will be expected to participate in leetcode, hackerrank, and APT problems, with role-playing and discussion of what works and does not work. Prerequisite: Computer Science 201.
+Prerequisites
+Prerequisite: Computer Science 201 or equivalent

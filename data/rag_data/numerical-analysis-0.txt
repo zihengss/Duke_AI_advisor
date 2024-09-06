@@ -1,0 +1,2 @@
+COMPSCI 520D: numerical-analysis-0
+Error analysis, interpolation and spline approximation, numerical differentiation and integration, solutions of linear systems, nonlinear equations, and ordinary differential equations. Prerequisites: knowledge of an algorithmic programming language, intermediate calculus including some differential equations, and Mathematics 221.

@@ -1,0 +1,2 @@
+COMPSCI 584: foundations-blockchains
+** available as of 2024-08-15

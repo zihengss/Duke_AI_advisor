@@ -1,0 +1,4 @@
+COMPSCI 676: advanced-topics-deep-learning
+Focus on advanced topics in deep learning, particularly methodological methods. This includes discriminative models (e.g., infinite/infinitesimal/physics-informed neural networks), generative models (normalizing flows, graphical models, Bayesian Neural Networks, non-parametric approaches), and topics on inference (e.g., exact and approximate inference methods). Assignments will provide an opportunity to implement techniques. Prerequisite: ECE 685D.
+Prerequisites
+Prerequisite: ECE 685D

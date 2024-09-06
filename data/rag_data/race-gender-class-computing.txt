@@ -1,0 +1,2 @@
+COMPSCI 240: race-gender-class-computing
+This course explores the diversity, equity, and inclusion (DEI) challenges in computing through an introduction to and analysis of identity as a social construct, its impact on computing departments and organizations, and the resulting impact of technology on various identities.

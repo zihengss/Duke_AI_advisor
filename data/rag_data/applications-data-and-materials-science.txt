@@ -1,0 +1,4 @@
+COMPSCI 583: applications-data-and-materials-science
+AI principles will be applied to a series of materials science example problems, each taught in a module by an expert in materials science or data science. Each module will span 2-3 weeks, demonstrating an array of data science/AI methods in unique materials case studies in advancing discovery or design principles. Prerequisites: ME 221 or equivalent, introductory machine learning course.
+Prerequisites
+Prerequisite: Mechanical Engineering 221L

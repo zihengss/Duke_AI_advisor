@@ -1,0 +1,4 @@
+COMPSCI 207: introduction-mobile-application-development-ios
+This class explores the world of mobile applications development based on Apple's iOS operating system and Swift programming language. The class will work on Mac computers running Xcode, the integrated development environment, to develop applications for iPhone/iPad devices. The class covers fundamentals essential to understanding all aspects of app development from concept to deployment on the App Store. Students required to present their project proposals and deliver a fully functional mobile application as a final project. Prerequisite: Computer Science 201. Computer Science 250 preferred. Instructor Thomas
+Prerequisites
+Prerequisite: Computer Science 201 or equivalent

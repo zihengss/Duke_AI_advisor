@@ -1,0 +1,2 @@
+COMPSCI 216: everything-data-0
+Study of data and its acquisition, integration, querying, analysis, and visualization. Concepts and computational tools for working with unstructured, semi-structured, and structured data and databases. Interdisciplinary perspectives of data and its impact crossing science, humanities, policy, and social science. Culminating team project applied to real datasets. Prerequisite: 200-level computer science OR 100-level Statistics OR 200-level Math course, or permission of instructor.

@@ -1,0 +1,2 @@
+COMPSCI 590: advanced-topics-computer-science
+CS 590.01 on Generative Models will be offered in Fall 2023, and taught by Bhuwan Dhingra, Assistant Professor of Computer Science. Generative Models is a special topics course, so it will not be offered every year.

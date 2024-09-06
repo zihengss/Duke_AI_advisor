@@ -1,0 +1,4 @@
+COMPSCI 323D: computational-microeconomics-0
+Use of computational techniques to operationalize basic concepts from economics. Expressive marketplaces: combinatorial auctions and exchanges, winner determination problem. Game theory: normal and extensive-form games, equilibrium notions, computing equilibria. Mechanism design: auction theory, automated mechanism design. Prerequisite: at least one of the following: Computer Science 230, 200-level Mathematics course, or 200-level Statistical Science course.
+Prerequisites
+Prerequisite: one of the following: Computer Science 230, 200-level Mathematics course, or 200-level Statistical Science course

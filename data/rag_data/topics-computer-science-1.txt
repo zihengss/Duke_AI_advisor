@@ -1,0 +1,2 @@
+COMPSCI 390: topics-computer-science-1
+Topics from various areas of computer science, changing each year. Includes research intensive work exposing the student to computer science research methodology and resulting in a major document or project. Prerequisite: Computer Science 201.

@@ -1,0 +1,2 @@
+COMPSCI 408: delivering-software-concept-client-0
+Development of software in teams that benefits a real-world client in the client's area of expertise. Meet client demands and needs including technology management skills such as feasibility assessment, project planning, project implementation, usability testing, documentation, marketing, and roll-out. Create significant software product, understand software development cycle at scale, create written work to accompany software. Recommended prerequisite: Computer Science 308 or similar team programming experience.

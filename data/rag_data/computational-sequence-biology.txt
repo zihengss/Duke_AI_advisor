@@ -1,0 +1,4 @@
+COMPSCI 561: computational-sequence-biology
+Introduction to algorithmic and computational issues in analysis of biological sequences: DNA, RNA, and protein. Emphasizes probabilistic approaches and machine learning methods, e.g. Hidden Markov models. Explores applications in genome sequence assembly, protein and DNA homology detection, gene and promoter finding, motif identification, models of regulatory regions, comparative genomics and phylogenetics, RNA structure prediction, post-transcriptional regulation. Prerequisites: basic knowledge algorithmic design (Computer Science 532 or equivalent), probability and statistics (Statistical Science 611 or equivalent), molecular biology (Biology 118 or equivalent). Alternatively, consent of instructor.
+Enroll Consent
+Instructor Consent Required

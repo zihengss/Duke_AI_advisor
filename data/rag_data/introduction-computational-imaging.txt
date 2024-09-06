@@ -1,0 +1,4 @@
+COMPSCI 362: introduction-computational-imaging
+Computational imaging refers to the process of forming images from data where computation and algorithms play an integral role. This course will cover basic principles of image formation, denoising, classification, and inverse problems used in applications ranging from computational photography to biomedical and molecular imaging and vision science. Programming strategies to accelerate calculations and the fundamentals of modern imaging tools based on deep neural-networks will also be covered. Prerequisite: CompSci 230, Programming experience.
+Prerequisites
+Prerequisite: Computer Science 230

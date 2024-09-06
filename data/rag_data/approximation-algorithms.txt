@@ -1,0 +1,2 @@
+COMPSCI 632: approximation-algorithms
+Cover traditional approximation algorithms with combinatorial and linear programming techniques; extended survey of cut problems and metric embeddings; embeddings, dimensionality reduction, locality sensitive hashing, and game theory.

@@ -1,0 +1,2 @@
+COMPSCI 515: wireless-networking-and-mobile-computing-0
+Theory, design, and implementation of mobile wireless networking systems. Fundamentals of wireless networking and key research challenges. Students review pertinent journal papers. Significant, semester-long research project. Networking protocols (Physical and MAC, multi-hop routing, wireless TCP, applications), mobility management, security, and sensor networking. Prerequisites: Electrical and Computer Engineering 356 or Computer Science 310.

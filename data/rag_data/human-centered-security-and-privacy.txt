@@ -1,0 +1,4 @@
+COMPSCI 586: human-centered-security-and-privacy
+This course will introduce several security and privacy topics that have strong human factors component. Some of the themes that we cover throughout this course include overview of User Research Methods and Ethics, Equity and Inclusivity in Security and Privacy, Challenges In Designing Usable Security and Privacy Tools, Security and Privacy Education and Awareness, and Human-Centered Security and Privacy in Emerging Technologies. This course includes weekly reading commentaries, a midterm exam, and a final group research project. Recommended prerequisite: user research methods and CompSci 201 or equivalent programming experience.
+Prerequisites
+Prerequisite: Computer Science 201 or graduate student standing
