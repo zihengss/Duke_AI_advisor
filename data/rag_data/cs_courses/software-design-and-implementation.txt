@@ -1,0 +1,4 @@
+COMPSCI  307D
+Techniques for design and construction of reliable, maintainable and useful software systems development in teams. Programming paradigms and tools for small to medium projects: revision control, GUI, software engineering, testing, documentation. Prerequisite: Computer Science 201. Not open to students who have taken Computer Science 308.
+Prerequisites
+Prerequisite: Computer Science 201 or equivalent

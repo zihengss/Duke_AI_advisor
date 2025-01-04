@@ -1,0 +1,47 @@
+Name: Pardis Emami-Naeini
+Department: Computer Science
+Short Description: Assistant Professor of Computer Science
+
+Research Interests:
+
+
+Bio:
+My research is broadly at the intersection of security, privacy, and human-computer interaction. My work has been published at flagship venues in security (IEEE S&P, SOUPS) and human-computer interaction and social sciences (CHI, CSCW) and covered by multiple outlets, including Wired and the Wall Street Journal. On the policy and advocacy front, I have been working closely with the National Institute of Standards and Technology (NIST), Consumer Reports, and the World Economic Forum to inform their efforts toward designing usable and informative security and privacy tools for consumers.
+
+Education:
+Ph.D. Carnegie Mellon University, 2020
+
+Positions:
+Assistant Professor of Computer Science
+Assistant Professor in the Sanford School of Public Policy
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+PUBPOL 590: Advanced Topics in Public Policy
+PUBPOL 586: Human-Centered Security and Privacy
+PUBPOL 290: Selected Public Policy Topics
+ISS 590: Special Topics in Information Science + Studies
+ISS 586: Human-Centered Security and Privacy
+ISS 290: Special Topics in Information Science + Studies
+ISS 266: User Research Methods in Human-Centered Computing
+ECE 657: Human-Centered Security and Privacy
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 290: Special Topics in Electrical and Computer Engineering
+ECE 253: User Research Methods in Human-Centered Computing
+COMPSCI 590: Advanced Topics in Computer Science
+COMPSCI 586: Human-Centered Security and Privacy
+COMPSCI 394: Research Independent Study
+COMPSCI 393: Research Independent Study
+COMPSCI 391: Independent Study
+COMPSCI 290: Topics in Computer Science
+COMPSCI 226: User Research Methods in Human-Centered Computing
+
+Publications:
+Cao J, Laabadli H, Mathis C, Stern R, Emami-Naeini P.“I Deleted It Afer the Overturn of Roe v. Wade”: Understanding Women's Privacy Concerns Toward Period-Tracking Apps in the Post Roe v. Wade Era. In: Conference on Human Factors in Computing Systems - Proceedings. 2024.
+Cao J, Abhinaya SB, Das A, Emami-Naeini P.Understanding Parents' Perceptions and Practices Toward Children's Security and Privacy in Virtual Reality. In: Proceedings - IEEE Symposium on Security and Privacy. 2024. p. 1554–72.
+Park S, He W, Deldari E, Emami-Naeini P, Huang DY, Vitak J, et al.Well-intended but half-hearted: Hosts' consideration of guests' privacy using smart devices on rental properties. In: Proceedings of the 20th Symposium on Usable Privacy and Security, SOUPS 2024. 2024. p. 179–98.
+Stangl A, Sadjo E, Emami-Naeini P, Wang Y, Gurari D, Findlater L."dump it, Destroy it, Send it to Data Heaven": Blind People's Expectations for Visual Privacy in Visual Assistance Technologies. In: ACM International Conference Proceeding Series. 2023. p. 134–47.
+Emami-Naeini P, Breda J, Dai W, Kohno T, Laine K, Patel S, et al.Understanding People's Concerns and Attitudes Toward Smart Cities. In: Conference on Human Factors in Computing Systems - Proceedings. 2023.

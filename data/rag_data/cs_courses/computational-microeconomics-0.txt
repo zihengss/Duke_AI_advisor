@@ -1,0 +1,4 @@
+COMPSCI  323D
+Use of computational techniques to operationalize basic concepts from economics. Expressive marketplaces: combinatorial auctions and exchanges, winner determination problem. Game theory: normal and extensive-form games, equilibrium notions, computing equilibria. Mechanism design: auction theory, automated mechanism design.
+Prerequisites
+Prerequisite: CompSci 230, CompSci 232, 200-level Mathematics, or 200-level Statistical Science

@@ -1,0 +1,5 @@
+Course Code: ECE 564
+Course Name: Mobile Application Development
+
+Description:
+Explores mobile application development in the Apple Development Environment. Uses core software engineering pillars of Swift, Xcode, iOS & Xcode Cloud to learn how to create apps for Apple products. Focuses on iOS/iPhone, but Xcode also allows for exploration into the VisionPro, the Apple Watch, the iPad, and Apple TV. Real world context focused on common programming patterns for engineers in academia or business - standalone apps, apps connected to other systems, apps connected to the cloud. Covers software engineering fundamentals essential to understanding all aspects of app development. Each team will deliver a fully functioning app. Recommended prerequisite: CompSci 307D or CompSci 308 or ECE 651.

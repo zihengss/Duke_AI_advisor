@@ -1,0 +1,5 @@
+Course Code: ECE 621
+Course Name: Quantum Error Correction
+
+Description:
+In this course, we cover two related topics: quantum error correction and quantum computer architectures. In the beginning of the course, we will cover the basics of quantum error correction and develop the tools needed to understand modern methods of fault-tolerant quantum computation. In the end of the course, we will discuss how quantum error correction influences the design of a large-scale quantum computer. Prerequisite: ECE 523/PHYSICS 627 or ECE 420 or ECE 520.

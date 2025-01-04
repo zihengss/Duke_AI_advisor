@@ -1,0 +1,11 @@
+Name: Natalia Litchinitser
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Nanophotonics
+Photonic Metamaterials
+Nonlinear Optics
+Fiber Optics
+Photonic Crystal Fibers
+

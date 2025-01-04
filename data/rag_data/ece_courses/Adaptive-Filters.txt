@@ -1,0 +1,5 @@
+Course Code: ECE 686
+Course Name: Adaptive Filters
+
+Description:
+Adaptive digital signal processing with emphasis on the theory and design of finite-impulse response adaptive filters. Stationary discrete-time stochastic processes, Wiener filter theory, the method of steepest descent, adaptive transverse filters using gradient-vector estimation, analysis of the LMS algorithm, least-squares methods, recursive least squares and least squares lattice adaptive filters. Application examples in noise canceling, channel equalization, and array processing. Prerequisites: Electrical and Computer Engineering 581 and 582 or consent of instructor. Instructor: Krolik

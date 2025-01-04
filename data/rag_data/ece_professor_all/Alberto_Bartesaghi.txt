@@ -1,0 +1,39 @@
+Name: Alberto Bartesaghi
+Department: Computer Science
+Short Description: Associate Professor of Computer Science
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+D.Phil. University of Minnesota, Twin Cities, 2005
+
+Positions:
+Associate Professor of Computer Science
+Associate Professor of Biochemistry
+Associate Professor in the Department of Electrical and Computer Engineering
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+
+
+Courses Taught:
+COMPSCI 562: High-Resolution Cryo-Electron Microscopy Image Analysis
+COMPSCI 393: Research Independent Study
+COMPSCI 362: Introduction to Computational Imaging
+COMPSCI 290: Topics in Computer Science
+CBB 562: High-Resolution Cryo-Electron Microscopy Image Analysis
+BIOCHEM 700: Graduate Training Internship
+BIOCHEM 593: Research Independent Study
+BIOCHEM 562: High-Resolution Cryo-Electron Microscopy Image Analysis
+BIOCHEM 393: Research Independent Study
+
+Publications:
+Sokratian A, Zhou Y, Tatli M, Burbidge KJ, Xu E, Viverette E, et al.Mouse α-synuclein fibrils are structurally and functionally distinct from human fibrils associated with Lewy body diseases.Sci Adv. 2024 Nov;10(44):eadq3539.
+Huang Q, Zhou Y, Bartesaghi A.MiLoPYP: self-supervised molecular pattern mining and particle localization in situ.Nature methods. 2024 Oct;21(10):1863–72.
+Washington EJ, Zhou Y, Hsu AL, Petrovich M, Tenor JL, Toffaletti DL, et al.Structures of trehalose-6-phosphate synthase, Tps1, from the fungal pathogen Cryptococcus neoformans: A target for antifungals.Proc Natl Acad Sci U S A. 2024 Aug 6;121(32):e2314087121.
+Watson AJI, Bartesaghi A.Advances in cryo-ET data processing: meeting the demands of visual proteomics.Current opinion in structural biology. 2024 Aug;87:102861.
+Washington EJ, Zhou Y, Hsu AL, Petrovich M, Tenor JL, Toffaletti DL, et al.Structures of trehalose-6-phosphate synthase, Tps1, from the fungal pathogen Cryptococcus neoformans : a target for novel antifungals.2024.

@@ -1,0 +1,5 @@
+Course Code: ECE 573
+Course Name: Optical Communication Systems
+
+Description:
+Mathematical methods, physical ideas, and device concepts of optoelectronics. Maxwell's equations, and definitions of energy density and power flow. Transmission and reflection of plane waves at interfaces. Optical resonators, waveguides, fibers, and detectors are also presented. Prerequisite: Electrical and Computer Engineering 270DL or equivalent.

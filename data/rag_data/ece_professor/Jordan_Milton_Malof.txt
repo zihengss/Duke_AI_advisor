@@ -1,0 +1,7 @@
+Name: Jordan Milton Malof
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Application of advanced machine learning and computer vision techniques to real-world problems
+

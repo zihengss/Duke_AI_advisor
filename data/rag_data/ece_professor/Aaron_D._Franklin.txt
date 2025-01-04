@@ -1,0 +1,7 @@
+Name: Aaron D. Franklin
+Department: Electrical and Computer Engineering
+Short Description: Associate Dean for Faculty Affairs, Addy Professor of ECE
+
+Research Interests:
+Nanomaterials in electronic devices, nanofabrication, printed electronics and internet of things (IoT), biosensing
+

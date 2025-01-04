@@ -1,0 +1,2 @@
+Overview of professor Carlo Tomasi: 
+Tomasi's research is at the intersection of computer vision, machine learning, and applied mathematics. Tomasi's current projects include image motion analysis (funded by NSF), satellite image interpretation (funded by IARPA), computer-assisted diagnosis, and object recognition (funded by Amazon). He is an ACM Fellow and has won the IEEE Computer Society Helmholtz Prize twice.

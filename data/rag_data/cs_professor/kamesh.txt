@@ -1,0 +1,2 @@
+Overview of professor Kamesh Munagala: 
+My research is in the general area of theoretical computer science, particularly the areas of Approximation Algorithms, Online Algorithms, and Computational Economics.  I work on developing models, algorithms, and markets for resource allocation, decision making, and provisioning problems.

@@ -1,0 +1,4 @@
+COMPSCI  210D
+This course provides a programmer's view of how computer systems execute programs and store information. It examines key computational abstraction levels below modern high-level languages; introduction to C, number and data representations, computer memory, assembly language, memory management, the operating-system process model, high-level machine architecture including the memory hierarchy, and introduction to concurrency. Prerequisite: Computer Science 201. Not open to students who have taken Computer Science 250D. Insructor: Lebeck, Chase, Zhou, Fain, Wills
+Prerequisites
+Prerequisite: Computer Science 201. Not open to students who have taken Computer Science 250D.

@@ -1,0 +1,32 @@
+Name: Maciej A Mazurowski
+Department: Biostatistics & Bioinformatics, Division of Translational Biomedical
+Short Description: Associate Professor of Biostatistics & Bioinformatics
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. University of Louisville, 2008
+
+Positions:
+Associate Professor of Biostatistics & Bioinformatics
+Associate Professor of Computer Science
+Associate Professor in the Department of Electrical and Computer Engineering
+Member of the Duke Cancer Institute
+
+Awards:
+
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+COMPSCI 393: Research Independent Study
+
+Publications:
+Miller CM, Zhu Z, Mazurowski MA, Bashir MR, Wiggins WF.Automated selection of abdominal MRI series using a DICOM metadata classifier and selective use of a pixel-based classifier.Abdom Radiol (NY). 2024 Oct;49(10):3735–46.
+Lew CO, Harouni M, Kirksey ER, Kang EJ, Dong H, Gu H, et al.A publicly available deep learning model and dataset for segmentation of breast, fibroglandular tissue, and vessels in breast MRI.Sci Rep. 2024 Mar 5;14(1):5383.
+Zhang Y, Mazurowski MA.Convolutional neural networks rarely learn shape for semantic segmentation. Pattern Recognition. 2024 Feb 1;146.
+Prabhu NK, Wong MK, Klapper JA, Haney JC, Mazurowski MA, Mammarappallil JG, et al.Computed Tomography Volumetrics for Size Matching in Lung Transplantation for Restrictive Disease.Ann Thorac Surg. 2024 Feb;117(2):413–21.
+Dong H, Konz N, Gu H, Mazurowski MA.Medical Image Segmentation with InTEnt: Integrated Entropy Weighting for Single Image Test-Time Adaptation. In: IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops. 2024. p. 5046–55.

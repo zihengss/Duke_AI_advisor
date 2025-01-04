@@ -1,0 +1,7 @@
+Name: Jessilyn Dunn
+Department: Biomedical Engineering
+Short Description: Assistant Professor of Biomedical Engineering
+
+Research Interests:
+Use of large-scale biomedical datasets to model and guide personalized therapies.
+

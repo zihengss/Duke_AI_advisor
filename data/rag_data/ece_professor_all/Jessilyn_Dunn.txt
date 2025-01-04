@@ -1,0 +1,49 @@
+Name: Jessilyn Dunn
+Department: Biomedical Engineering
+Short Description: Assistant Professor of Biomedical Engineering
+
+Research Interests:
+Use of large-scale biomedical datasets to model and guide personalized therapies.
+
+Bio:
+Developing new tools and infrastructure for multi-modal biomedical data integration to drive precision/personalized methods for early detection, intervention, and prevention of disease.
+
+Education:
+Ph.D. Georgia Institute of Technology, 2015
+
+Positions:
+Assistant Professor of Biomedical Engineering
+Assistant Professor of Biostatistics & Bioinformatics
+Assistant Professor in the Department of Electrical and Computer Engineering
+Member in the Duke Clinical Research Institute
+
+Awards:
+
+
+Courses Taught:
+ISS 796T: Bass Connections Information, Society & Culture Research Team
+ISS 795T: Bass Connections Information, Society & Culture Research Team
+ISS 396T: Bass Connections Information, Society & Culture Research Team
+ISS 395T: Bass Connections Information, Society & Culture Research Team
+ISS 290S: Special Topics in Information Science + Studies
+HLTHPOL 796T: Bass Connections Health Policy & Innovation Research Team
+HLTHPOL 795T: Bass Connections Health Policy & Innovation Research Team
+HLTHPOL 396T: Bass Connections Health Policy & Innovation Research Team
+HLTHPOL 395T: Health Policy & Innovation Research Team
+EGR 393: Research Projects in Engineering
+BME 899: Special Readings in Biomedical Engineering
+BME 792: Continuation of Graduate Independent Study
+BME 791: Graduate Independent Study
+BME 590: Special Topics in Biomedical Engineering
+BME 580: An Introduction to Biomedical Data Science (GE)
+BME 494: Projects in Biomedical Engineering (GE)
+BME 493: Projects in Biomedical Engineering (GE)
+BME 290: Intermediate Topics (GE)
+BIOSTAT 707: Statistical Methods for Learning and Discovery
+
+Publications:
+Wang WK, Jeong H, Hershkovich L, Cho P, Singh K, Lederer L, et al.Tree-based classification model for Long-COVID infection prediction with age stratification using data from the National COVID Cohort Collaborative.JAMIA Open. 2024 Dec;7(4):ooae111.
+Cunningham JW, Abraham WT, Bhatt AS, Dunn J, Felker GM, Jain SS, et al.Artificial Intelligence in Cardiovascular Clinical Trials.J Am Coll Cardiol. 2024 Nov 12;84(20):2051–62.
+Shin S, Kowahl N, Hansen T, Ling AY, Barman P, Cauwenberghs N, et al.Real-world walking behaviors are associated with early-stage heart failure: a Project Baseline Health Study.J Card Fail. 2024 Nov;30(11):1423–33.
+Jiang S, Ashar P, Shandhi MMH, Dunn J.Demographic reporting in biosignal datasets: a comprehensive analysis of the PhysioNet open access database.The Lancet Digital health. 2024 Nov;6(11):e871–8.
+Armoundas AA, Ahmad FS, Bennett DA, Chung MK, Davis LL, Dunn J, et al.Data Interoperability for Ambulatory Monitoring of Cardiovascular Disease: A Scientific Statement From the American Heart Association.Circulation Genomic and precision medicine. 2024 Jun;17(3):e000095.

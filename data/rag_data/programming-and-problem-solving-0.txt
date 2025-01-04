@@ -1,4 +1,0 @@
-COMPSCI 94: programming-and-problem-solving-0
-Programming and problem solving in a specific domain such as robotics, virtual worlds, web programming, biology, genomics, or computer science. Students learn the basics of programming by studying problems in one application area. Not open to students who have taken Computer Science 101, 102, 116, Engineering 103 or Computer Science 201.
-Prerequisites
-Not open to students who have taken Computer Science 101, 102, 116, Engineering 103 or Computer Science 201

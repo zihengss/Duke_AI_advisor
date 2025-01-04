@@ -1,0 +1,5 @@
+Course Code: ECE 581K
+Course Name: Random Signals and Noise
+
+Description:
+Introduction to mathematical methods of describing and analyzing random signals and noise. Review of basic probability theory; joint, conditional, and marginal distributions; random processes. Time and ensemble averages, correlation, and power spectra. Optimum linear smoothing and predicting filters. Introduction to optimum signal detection, parameter estimation, and statistical signal processing. Taught at Duke Kunshan University in Kunshan, China.

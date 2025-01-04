@@ -1,0 +1,4 @@
+COMPSCI  334
+An introduction to theoretical computer science including studies of abstract machines, the language hierarchy from regular sets to recursively enumerable sets, noncomputability, and complexity theory. Prerequisites: Computer Science 201 and 230.
+Prerequisites
+Prerequisite: CompSci 201 and (CompSci 230 or CompSci 232)

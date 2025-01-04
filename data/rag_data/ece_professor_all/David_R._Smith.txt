@@ -1,0 +1,50 @@
+Name: David R. Smith
+Department: Electrical and Computer Engineering
+Short Description: Associate Chair, James B. Duke Distinguished Professor of ECE
+
+Research Interests:
+Theory, simulation and demonstration of novel electromagnetic metamaterials across the spectrum, from microwave through optical. Applications of metamaterials for antennas and imaging devices, with a focus on security imaging and satellite imaging. General studies on advanced metamaterials and plasmonics, including nonlinear optics, enhanced spontaneous emission, negative refraction, transformation optics, electromagnetic cloaking, and many other topics
+
+Bio:
+Dr. David R. Smith is currently the James B. Duke Professor of Electrical and Computer Engineering Department at Duke University. He is also Director of the Center for Metamaterials and Integrated Plasmonics at Duke and holds the positions of Adjunct Associate Professor in the Physics Department at the University of California, San Diego, and Visiting Professor of Physics at Imperial College, London. Dr. Smith received his Ph.D. in 1994 in Physics from the University of California, San Diego (UCSD). Dr. Smith's research interests include the theory, simulation and characterization of unique electromagnetic structures, including photonic crystals and metamaterials.Smith is best known for his theoretical and experimental work on electromagnetic metamaterials. Metamaterials are artificially structured materials, whose electromagnetic properties can be tailored and tuned in ways not easily accomplished with conventional materials. Smith has been at the forefront in the development of numerical methods to design and characterize metamaterials, and has also provided many of the key experiments that have helped to illustrate the potential that metamaterials offer. Smith and his colleagues at UCSD demonstrated the first left-handed (or negative index) metamaterial at microwave frequencies in 2000--a material that had been predicted theoretically more than thirty years prior by Russian physicist Victor Veselago. No naturally occurring material or compound with a negative index-of-refraction had ever been reported until this experiment. In 2001, Smith and colleagues followed up with a second experiment confirming one of Veselago's key conjectures: the 'reversal' of Snell's law. These two papers--the first published in Physical Review Letters and the second in Science--generated enormous interest throughout the community in the possibility of metamaterials to extend and augment the properties of conventional materials. Both papers have now been cited more than 3,000 times each.Since those first metamaterial experiments, Smith has continued to study the fundamentals and potential applications of negative index media and metamaterials. In 2004, Smith began studying the potential of metamaterials as a means to produce novel gradient index media. By varying the index-of-refraction throughout a material, an entire class of optical elements (such as lenses) can be formed. Smith showed that metamaterials could access a much larger range of design space, since both the magnetic and the electric properties could be graded independently. Smith and colleagues demonstrated several versions of gradient index optics, an activity that continues in his lab today. The introduction of controlled spatial gradients in the electromagnetic properties of a metamaterial flows naturally into the broad concept of transformation optics - a new electromagnetic design approach proposed by Sir John Pendry in 2006. To illustrate of the novelty of this design approach, Pendry, Schurig and Smith suggested in 2006 that an 'invisibility cloak' could be realized by a metamaterial implementation of a transformation optical design. Later that same year, Smith's group at Duke University reported the demonstration of a transformation optical designed 'invisibility cloak' at microwave frequencies. The concept of transformation optics has since attracted the attention of the scientific community, and is now a rapidly emerging sub-discipline in the field.Smith's work on transformation optics has been featured in nearly every major newspaper, including a cover story in USA Today, The New York Times, The Chicago Tribune, The Wall Street Journal, The Washington Post and many more. Smith and his work on cloaking have also been featured on television news programs inlcuding The Today Show, Countdown with Keith Olbermann, Fox News, CNN and MSNBC. Smith's work has also been highlighted in documentary programs on The History Channel, The Discovery Channel, The Science Channel, the BBC and others.Please also see Prof. Smith's personal website at http://people.ee.duke.edu/~drsmith for the most frequent updates.
+
+Education:
+B.S. University of California, San Diego, 1988
+Ph.D. University of California, San Diego, 1994
+
+Positions:
+James B. Duke Distinguished Professor of Electrical and Computer Engineering
+Associate Chair in the Department of Electrical and Computer Engineering
+Professor of Electrical and Computer Engineering
+Professor of Physics
+
+Awards:
+Fellow (NAI). National Academy of Inventors. 2016
+Highly Cited Researcher. Thomson Reuters. 2014
+Fellow. Optical Society of America. 2013
+Top Ten Breakthroughs for 2006. Science Magazine (Cloaking). 2008
+Top Ten Breakthroughs for 2003. Science Magazine (Negative Index Materials). 2008
+Top 50 Researchers. Scientific American. 2008
+Top 100 Science Accomplishments for 2006. Discover Magazine (Cloaking). 2008
+Descartes Prize for Research. European Union. 2008
+Fellows. Institute for Electrical and Electronics Engineers. 1986
+
+Courses Taught:
+ME 391: Undergraduate Projects in Mechanical Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 575: Microwave Electronic Circuits
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 291: Projects in Electrical and Computer Engineering
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Publications:
+Nadeera Hemamali GM, Smith DR, Hobson PR, Fern G, Ireland T.Europium doped Gd2O3and GdBO3scintillators for thermal neutron detection. Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment. 2023 Mar 1;1048.
+Nadeera Hemamali GM, Smith DR, Hobson PR.Determination of Energy Resolution for YSO:Ce Detector Modelled with FLUKA Code. In: 2022 IEEE NSS/MIC RTSD - IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference. 2022.
+Suthakar U, Magnoni L, Smith DR, Khan A.Optimised Lambda Architecture for Monitoring Scientific Infrastructure. IEEE Transactions on Parallel and Distributed Systems. 2021 Jun 1;32(6):1395–408.
+Fern GR, Hobson PR, Metcalfe A, Smith DR.Performance of four CVD diamond radiation sensors at high temperature. Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment. 2020 Apr 1;958.
+Ruiz JR, Guttenfelder W, White AE, Howard NT, Candy J, Ren Y, et al.Validation of gyrokinetic simulations of a National Spherical Torus eXperiment H-mode plasma and comparisons with a high-k scattering synthetic diagnostic. Plasma Physics and Controlled Fusion. 2019 Oct 15;61(11).

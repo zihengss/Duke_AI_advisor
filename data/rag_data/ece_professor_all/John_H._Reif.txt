@@ -1,0 +1,42 @@
+Name: John H. Reif
+Department: Computer Science
+Short Description: A. Hollis Edens Distinguished Professor of Computer Science
+
+Research Interests:
+
+
+Bio:
+Molecular assembly, DNA computing, robot motion planning, parallel algorithms, randomized algorithms, graph algorithms, algebraic computation, data compression, optical computation, and quantum computation.
+
+Education:
+B.S. Tufts University, 1973
+M.S. Harvard University, 1975
+Ph.D. Harvard University, 1977
+
+Positions:
+A. Hollis Edens Distinguished Professor of Computer Science
+Professor of Computer Science
+Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Awards:
+Tufts Notable. Tufts University. 2010
+AAAS Fellow. American Association for the Advancement of Science. 2003
+Highly Cited Researcher. Thomson Reuters. 2001
+Fellow. Association for Computing Machinery. 1997
+Fellows. Institute for Electrical and Electronics Engineers. 1993
+
+Courses Taught:
+ECE 891: Internship
+COMPSCI 93: History of Computing, Cryptography, and Robotic Devices
+COMPSCI 891: Special Readings in Computer Science
+COMPSCI 590D: Advanced Topics in Computer Science
+COMPSCI 590: Advanced Topics in Computer Science
+COMPSCI 534: Computational Complexity
+COMPSCI 531D: Introduction to Algorithms
+
+Publications:
+Fu D, Reif J.A biomimetic branching signal-passing tile assembly model with dynamic growth and disassembly.Journal of the Royal Society, Interface. 2024 Aug;21(217):20230755.
+Nagipogu RT, Reif JH.Leak-resilient enzyme-free nucleic acid dynamical systems through shadow cancellation. Journal of the Royal Society Interface. 2024 Jun 19;21(215).
+Nagipogu RT, Fu D, Reif JH.A survey on molecular-scale learning systems with relevance to DNA computing.Nanoscale. 2023 May;15(17):7676–94.
+Yang M, Reif J.Social DNA Nanorobots. In: Natural Computing Series. 2023. p. 371–96.
+Fu D, Pradeep Narayanan R, Prasad A, Zhang F, Williams D, Schreck JS, et al.Automated design of 3D DNA origami with non-rasterized 2D curvature.Science advances. 2022 Dec;8(51):eade4455.

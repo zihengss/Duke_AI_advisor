@@ -1,0 +1,47 @@
+Name: Adrienne Stiff-Roberts
+Department: Electrical and Computer Engineering
+Short Description: Associate Dean for Community-Based Innovation, Professor of ECE
+
+Research Interests:
+Thin-film deposition, MAPLE, hybrid perovskites, hybrid nanocomposites, organic thin films
+
+Bio:
+Dr. Stiff-Roberts received both the B.S. degree in physics from Spelman College and the B.E.E. degree in electrical engineering from the Georgia Institute of Technology in 1999. She received an M.S.E. in electrical engineering and a Ph.D. in applied physics in 2001 and 2004, respectively, from the University of Michigan, AArbor, where she investigated high-temperature quantum dot infrared photodetectors grown by molecular beam epitaxy. Dr. Stiff-Roberts joined Duke University in August 2004, and she is a Professor of Electrical and Computer Engineering.Dr. Stiff-Roberts' research interests include the synthesis of multi-component and hybrid (organic-inorganic) materials using a novel approach for organic-based thin film deposition that combines solution and vacuum-processing. Known as emulsion-based, resonant infrared matrix-assisted pulsed laser evaporation (RIR-MAPLE), this technique offers a completely new way to integrate novel functions into organic-based films and devices that are difficult, if not impossible, to achieve otherwise. Research efforts include materials synthesis and characterization to investigate the fundamental mechanisms of thin-film growth using RIR-MAPLE, as well as device fabrication and characterization for a broad range of applications (especially optoelectronic and energy devices).
+
+Education:
+B.S.E.E. Georgia Institute of Technology, 1999
+B.S. Spelman College, 1999
+M.Sc.Eng. University of Michigan, Ann Arbor, 2001
+Ph.D. University of Michigan, Ann Arbor, 2004
+
+Positions:
+Professor of Electrical and Computer Engineering
+Associate Dean for Community Based Innovation in the Pratt School of Engineering
+Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Awards:
+Lois and John L. Imhoff Distinguished Teaching Award. Pratt School of Engineering. 2021
+Faculty Honoree. Duke University Senior Honors. 2017
+Julian Abele Award for Graduate Mentor of the Year. Mary Lou Williams Center, Black Student Alliance, and Black Graduate and Professional Student Association. 2016
+Invited Speaker. National Academy of Engineering (NAE), EU-US Frontiers of Engineering Symposium, Finland. 2016
+IEEE Early Career Award in Nanotechnology for u201ccontributions to the development of nanoscale quantum dots for infrared detectionu201d. IEEE Nanotechnology Council. 2009
+Senior Member. IEEE. 2009
+Presidential Early Career Award for Scientists and Engineers. Department of Defense, Office of Naval Research. 2008
+Young Investigator Award. Office of Naval Research. 2007
+NSF CAREER AWARD. National Science Foundation. 2006
+Inducted. Sigma Pi Sigma Physics Honor Society. 1998
+Inducted. Phi Beta Kappa Society. 1998
+Inducted. Golden Key Honor Society. 1996
+
+Courses Taught:
+MSEG 891: Internship
+ME 591: Research Independent Study in Mechanical Engineering or Material Science
+ECE 891: Internship
+ECE 521: Quantum Mechanics
+
+Publications:
+Zhang B, Pinky SK, Kwansa AL, Ferguson S, Yingling YG, Stiff-Roberts AD.Correlation of Emulsion Chemistry, Film Morphology, and Device Performance in Polyfluorene LEDs Deposited by RIR-MAPLE.ACS applied materials & interfaces. 2023 Apr;15(14):18153–65.
+Pinky SK, Kwansa AL, Zhang B, Stiff-Roberts AD, Yingling YG.Effect of solvent on the emulsion and morphology of polyfluorene films: all-atom molecular dynamics approach.Soft matter. 2023 Mar;19(9):1782–90.
+Wright NE, Qin X, Xu J, Kelly LL, Harvey SP, Toney MF, et al.Influence of Annealing and Composition on the Crystal Structure of Mixed-Halide, Ruddlesden-Popper Perovskites. Chemistry of Materials. 2022 Apr 12;34(7):3109–22.
+Barraza ET, Stiff-Roberts AD.RIR-MAPLE: Deposition of Hybrid Organic-Inorganic Perovskite Thin Films. In: Materials and Energy. 2022. p. 115–52.
+Barraza ET, Stiff-Roberts AD.Phenomenological mechanisms of hybrid organic-inorganic perovskite thin film deposition by RIR-MAPLE. Journal of Applied Physics. 2020 Sep 14;128(10).

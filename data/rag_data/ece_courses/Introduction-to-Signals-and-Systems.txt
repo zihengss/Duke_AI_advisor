@@ -1,0 +1,5 @@
+Course Code: ECE 280L
+Course Name: Introduction to Signals and Systems
+
+Description:
+Introduction to signals, signal properties, systems, and system properties. Time and frequency domain analysis of signals and systems. Exploration of filtering, sampling, communication systems, image processing, and other real-world applications. Laboratory projects using signal processing tools to investigate real world scenarios. Computational analysis of one and two dimensional signals and systems. Prerequisite: (Engineering 103L or Computer Science 201) and Electrical and Computer Engineering 110L.

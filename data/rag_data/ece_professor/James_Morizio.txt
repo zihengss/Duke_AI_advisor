@@ -1,0 +1,7 @@
+Name: James Morizio
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Mixed-Signal CMOS circuit design, layout and testingrnBioelectronic circuits for wireless neural interfaces: Recording and StimulationrnSigma Delta ADC and DACs architecture and circuit designrnUltrasound Pre-Amplifier and multiplexingrnLiquid Crystal on Silicon (LCOS) Pixel driver and interfacernBroadband Phase Lock Loop Design and ModelingrnUltra Wide Band (Ghz) Transceiver Design: VCOs, PLLs, Antenna Drivers, Buffers
+

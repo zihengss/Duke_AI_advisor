@@ -1,0 +1,39 @@
+Name: Sina Farsiu
+Department: Biomedical Engineering
+Short Description: Director of Master's Studies, Anderson-Rupp Professor of BME
+
+Research Interests:
+Focused on medical imaging and machine learning to improve the overall health and vision outcome of patients with ocular and neurological diseases (e.g., age-related macular degeneration, diabetic retinopathy, Alzheimer, and ALS) through earlier and personalized therapy.
+
+Bio:
+I am the director of the Vision and Image Processing (VIP) Laboratory. Along with my colleagues, we investigate how to improve early diagnostic methods and find new imaging biomarkers of ocular and neurological diseases in adults (e.g. age-related macular degeneration, diabetic retinopathy, Glaucoma, Alzheimer) and children (e.g. retinopathy or prematurity). We also develop automatic artificial intelligence machine learning and deep learning algorithms to detect/segment/quantify anatomical/pathological structures seen on medical images.On another front, we study efficient signal processing based methods to overcome the theoretical and practical limitations that constrain the achievable resolution of any imaging device. Our approach, which is based on adaptive extraction and robust fusion of relevant information from the expensive and sophisticated as well as simple and cheap sensors, has found wide applications in improving the quality of imaging systems such as ophthalmic SD-OCT, digital X-ray mammography, electronic and optical microscopes, and commercial digital camcorders. We are also interested in pursuing statistical signal processing based projects, including super-resolution, demosaicing, deblurring, denoising, motion estimation, compressive sensing/adaptive sampling, and sensor fusion.
+
+Education:
+B.S. Sharif University of Technology (Iran), 1999
+M.S. University of Tehran (Iran), 2001
+
+Positions:
+Anderson-Rupp Professor of Biomedical Engineering
+Professor in the Department of Biomedical Engineering
+Professor in the Department of Electrical and Computer Engineering
+Professor in Computer Science
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+BME 792: Continuation of Graduate Independent Study
+BME 791: Graduate Independent Study
+BME 789: Internship in Biomedical Engineering
+BME 544: Digital Image Processing (GE, IM)
+BME 494: Projects in Biomedical Engineering (GE)
+BME 493: Projects in Biomedical Engineering (GE)
+
+Publications:
+Taha AT, Shen LL, Diaz A, Chahal N, Saroya J, Sun M, et al.Association of Hyperautofluorescence Signals with Geographic Atrophy Progression in the METformin for the MINimization of Geographic Atrophy Progression Trial.Ophthalmol Sci. 2025;5(1):100620.
+Soltanian-Zadeh S, Kovalick K, Aghayee S, Miller DT, Liu Z, Hammer DX, et al.Identifying retinal pigment epithelium cells in adaptive optics-optical coherence tomography images with partial annotations and superhuman accuracy.Biomed Opt Express. 2024 Dec 1;15(12):6922–39.
+Ruiz-Lozano RE, Soifer M, Zemborain ZZ, Azar NS, Quiroga-Garza ME, Murillo S, et al.Deep-learning based analysis of in-vivo confocal microscopy images of the subbasal corneal nerve plexus' inferior whorl in patients with neuropathic corneal pain and dry eye disease.The ocular surface. 2024 Aug;34:241–6.
+Zhang F, Kovalick K, Raghavendra A, Soltanian-Zadeh S, Farsiu S, Hammer DX, et al.In vivoimaging of human retinal ganglion cells using optical coherence tomography without adaptive optics.Biomedical optics express. 2024 Aug;15(8):4675–88.
+Li G, van Batenburg-Sherwood J, Safa BN, Fraticelli Guzmán NS, Wilson A, Bahrani Fard MR, et al.Aging and intraocular pressure homeostasis in mice.Aging Cell. 2024 Jul;23(7):e14160.

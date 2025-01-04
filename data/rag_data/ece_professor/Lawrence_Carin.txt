@@ -1,0 +1,7 @@
+Name: Lawrence Carin
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Applied statistics and machine learning
+

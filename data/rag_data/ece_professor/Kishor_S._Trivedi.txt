@@ -1,0 +1,7 @@
+Name: Kishor S. Trivedi
+Department: Electrical and Computer Engineering
+Short Description: Hudson Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+Markov models, Fault trees, Stochastic Petri nets, Reliability Modeling, Availability Modeling, Performability modeling, Survivability modeling, Cyber Security, Software reliability, Software Fault Tolerance, Software Aging and Rejuvenation
+

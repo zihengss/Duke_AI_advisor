@@ -1,0 +1,5 @@
+Course Code: ECE 449
+Course Name: Sensors and Sensor Interface Design
+
+Description:
+Teams design board-level sensing system that achieves stated specifications. Analog, digital, wireless, optical & fluidic components. Resource planning/management, project budgeting, study of component specs & characteristics, vendor interaction, circuit schematic design & simulation, board layout, submission to foundry, component solder assembly, system test, comparison to design specs. Cost, economic viability, ethical & environmental issues, manufacturability considered. Prerequisite: ECE 230L, 250D, 270DL, and 280L & MATH 353 & (MATH 230 or ECE 555 or ECE 380 or STA 240L or EGR 238L or MATH 238L or MATH 340) & PHYS 152L & CHEM 101DL & one of (ECE 330L or ECE 331L or ECE 340L or ECE 350L).

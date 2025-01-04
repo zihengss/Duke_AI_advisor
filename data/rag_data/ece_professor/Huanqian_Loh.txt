@@ -1,0 +1,7 @@
+Name: Huanqian Loh
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+Quantum information science, quantum simulation, neutral atom arrays
+

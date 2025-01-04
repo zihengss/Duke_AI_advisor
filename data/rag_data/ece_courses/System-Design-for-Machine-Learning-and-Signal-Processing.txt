@@ -1,0 +1,5 @@
+Course Code: ECE 487
+Course Name: System Design for Machine Learning and Signal Processing
+
+Description:
+Small groups work through design process for a machine learning &/or signal processing system. Brainstorming ideas, reviewing modern techniques in ML & SP, choosing & implementing projects. Use of modern collaboration tools & techniques that allow agile collaborative group design & development, consideration of resources, delivery of written & oral presentations, consideration of appropriate engineering standards & realistic constraints. Prerequisites: ECE 230L & 250D & 270DL & 280L & (MATH 353 or 356) & (STA 130 or 240L, MATH 230, 238L or 340, ECE 380 or 555 or EGR 238L) & (PHYSICS 26 or 152L) & (CHEM 101DL, 20 or 21) & two of (ECE 381,382L,383,480,483,485,488,580,588,681,682D,685D or 687D).

@@ -1,0 +1,28 @@
+Name: Jason Amsden
+Department: Electrical and Computer Engineering
+Short Description: Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+My area of interest is in the application of computational and compressive techniques to improve spectroscopic instrument design. Spectroscopic measurements are a convolution of the instrument response and the desired spectrum. Conventional spectroscopic instruments are designed such that the instrument response is a delta function and the measurements are essentially the desired spectrum. However, this design approach can limit the spectrometer performance. I use a different approach by designing the system response to maximize parameters of interest such as throughput and resolution, and then computationally deconvolve the system response from the measurements to achieve a spectrum – thus improving instrument performance.
+
+Bio:
+N/A
+
+Education:
+Ph.D. Boston University, 2008
+
+Positions:
+Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+
+
+Publications:
+Aloui T, Serpa RB, Ross D, Francini S, Wu C, Lee K, et al.A super-resolution coded aperture miniature mass spectrometer proof-of-concept for planetary science (Accepted). International Journal of Mass Spectrometry. 2025 Jan 1;507.
+Aloui T, Vyas R, Francini S, Serpa RB, Horvath KL, Keogh J, et al.Spectral Reconstruction Improvement in a Cycloidal Coded-Aperture Mass Spectrometer.Journal of the American Society for Mass Spectrometry. 2024 May;35(5):855–61.
+von Windheim T, Gilchrist KH, Parker CB, Hall S, Carlson JB, Stokes D, et al.Proof-of-Concept Vacuum Microelectronic NOR Gate Fabricated Using Microelectromechanical Systems and Carbon Nanotube Field Emitters.Micromachines. 2023 Apr;14(5):973.
+Aloui T, Serpa RB, Abboud N, Horvath KL, Keogh J, Parker CB, et al.A super-resolution proof of concept in a cycloidal coded aperture miniature mass spectrometer.Rapid communications in mass spectrometry : RCM. 2023 Jan;e9477.
+Horvath KL, Piacentino EL, Serpa RB, Aloui T, Vyas R, Zhilichev Y, et al.Design considerations for a cycloidal mass analyzer using a focal plane array detector.Journal of mass spectrometry : JMS. 2022 Jul;57(7):e4874.

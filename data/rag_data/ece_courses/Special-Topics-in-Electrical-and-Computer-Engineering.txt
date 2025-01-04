@@ -1,0 +1,5 @@
+Course Code: ECE 496
+Course Name: Special Topics in Electrical and Computer Engineering
+
+Description:
+Study of selected topics in electrical engineering tailored to fit the requirements of a small group. Consent of instructor and director of undergraduate studies required.

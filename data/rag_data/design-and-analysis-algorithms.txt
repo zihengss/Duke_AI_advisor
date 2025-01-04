@@ -1,2 +1,0 @@
-COMPSCI 532: design-and-analysis-algorithms
-Design and analysis of efficient algorithms. Algorithmic paradigms. Applications include sorting, searching, dynamic structures, graph algorithms, randomized algorithms. Computationally hard problems. NP completeness. Prerequisites: Computer Science 201 and 330 or equivalent.

@@ -1,0 +1,4 @@
+COMPSCI  371
+Fundamental concepts of supervised machine learning, with sample algorithms and applications. Focuses on how to think about machine learning problems and solutions, rather than on a systematic coverage of techniques. Serves as an introduction to the methods of machine learning. Prerequisite: Computer Science 201. Recommended Prerequisites: Mathematics 221, 218, or 216 or equivalent; Mathematics 212 or equivalent; and Mathematics 230, Statistical Science 230 or equivalent.
+Prerequisites
+Prerequisite: Computer Science 201 or equivalent

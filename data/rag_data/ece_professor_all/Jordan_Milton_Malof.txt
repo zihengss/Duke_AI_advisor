@@ -1,0 +1,32 @@
+Name: Jordan Milton Malof
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Application of advanced machine learning and computer vision techniques to real-world problems
+
+Bio:
+I work with domain experts across different fields to solve challenging real-world problems through the application or development of advanced signal processing, computer vision, machine learning (especially deep learning) methods to real-world problems.  Recently, my work has spanned topics such as remote sensing, energy systems, and materials science.   My work has recently been featured in premiere machine learning conferences (e.g., NeurIps, ICLR) and computer vision conferences (e.g., WACV).
+
+Education:
+Ph.D. Duke University, 2015
+
+Positions:
+Adjunct Assistant Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+Bass Connections Award for Outstanding Leadership. Duke University. 2022
+
+Courses Taught:
+ENERGY 795T: Bass Connections Energy & Environment Research Team
+ENERGY 395T: Bass Connections Energy & Environment Research Team
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 292: Projects in Electrical and Computer Engineering
+
+Publications:
+Yaras C, Kassaw K, Huang B, Bradbury K, Malof JM.Randomized Histogram Matching: A Simple Augmentation for Unsupervised Domain Adaptation in Overhead Imagery. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2024 Jan 1;17:1988–98.
+Spell GP, Ren S, Collins LM, Malof JM.Mixture Manifold Networks: A Computationally Efficient Baseline for
+  Inverse Modeling. 2022.
+Calhoun ZD, Lahrichi S, Ren S, Malof JM, Bradbury K.Self-Supervised Encoders Are Better Transfer Learners in Remote Sensing Applications. Remote Sensing. 2022 Nov 1;14(21).
+Khatib O, Ren S, Malof J, Padilla WJ.Learning the Physics of All-Dielectric Metamaterials with Deep Lorentz Neural Networks. Advanced Optical Materials. 2022 Jul 1;10(13).
+Ren S, Malof J, Fetter R, Beach R, Rineer J, Bradbury K.Utilizing Geospatial Data for Assessing Energy Security: Mapping Small Solar Home Systems Using Unmanned Aerial Vehicles and Deep Learning. ISPRS International Journal of Geo-Information. 2022 Apr 1;11(4).

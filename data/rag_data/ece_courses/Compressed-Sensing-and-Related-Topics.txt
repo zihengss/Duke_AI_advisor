@@ -1,0 +1,5 @@
+Course Code: ECE 741
+Course Name: Compressed Sensing and Related Topics
+
+Description:
+Introduction to the basic compressed sensing problems and methodologies, including the recovery of sparse vectors and low-rank matrices using methods based on convex optimization and approximate message passing. Unified theoretical framework for the analysis of certain CS problems, drawing upon ideas from statistical decision theory, high-dimensional convex geometry, information theory, convex optimization, message passing and variational inference with graphical models, and the replica method from statistical physics.

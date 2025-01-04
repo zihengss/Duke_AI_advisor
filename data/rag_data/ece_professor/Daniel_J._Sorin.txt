@@ -1,0 +1,7 @@
+Name: Daniel J. Sorin
+Department: Electrical and Computer Engineering
+Short Description: Associate Chair, Professor of ECE
+
+Research Interests:
+Computer architecture, designing microarchitectures so that they are easier to verify, improving computer system fault tolerance, developing memory systems for multicore processors, and designing special-purpose accelerators
+

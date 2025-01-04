@@ -1,0 +1,7 @@
+Name: Pan Xu
+Department: Biostatistics & Bioinformatics, Division of Integrative Genomics
+Short Description: Assistant Professor of Biostatistics & Bioinformatics
+
+Research Interests:
+Artificial Intelligence, Data Science, Optimization, Reinforcement Learning, and High Dimensional Statistics
+

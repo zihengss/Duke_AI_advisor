@@ -1,0 +1,31 @@
+Name: Paolo F Maccarini
+Department: Electrical and Computer Engineering
+Short Description: Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. University of California, Santa Barbara, 2002
+Ph.D. University of California, Santa Barbara, 2002
+
+Positions:
+Associate Research Professor in the Department of Electrical and Computer Engineering
+Assistant Professor in the Department of Anesthesiology
+
+Awards:
+
+
+Courses Taught:
+ECE 391: Projects in Electrical and Computer Engineering
+BME 394: Projects in Biomedical Engineering (GE)
+
+Publications:
+Hobbie HA, Doherty JL, Smith BN, Maccarini P, Franklin AD.Conformal printed electronics on flexible substrates and inflatable catheters using lathe-based aerosol jet printing.Npj flexible electronics. 2024 Jan;8(1):54.
+Srinivasan ES, Liu Y, Odion RA, Chongsathidkiet P, Wachsmuth LP, Haskell-Mendoza AP, et al.Gold Nanostars Obviate Limitations to Laser Interstitial Thermal Therapy (LITT) for the Treatment of Intracranial Tumors.Clin Cancer Res. 2023 Aug 15;29(16):3214–24.
+Chorniak E, Liu Y, Odion R, Etienne W, Canning A, Nair SK, et al.Intravital optical imaging for immune cell tracking after photoimmunotherapy with plasmonic gold nanostars.Nanotechnology. 2022 Aug 31;33(47).
+Liu Y, Chorniak E, Odion R, Etienne W, Nair SK, Maccarini P, et al.Plasmonic gold nanostars for synergistic photoimmunotherapy to treat cancer.Nanophotonics. 2021 Sep;10(12):3295–302.
+Tan WP, Chang A, Brousell SC, Grimberg DC, Fantony JJ, Longo TA, et al.Safety and efficacy of intravesical chemotherapy and hyperthermia in the bladder: results of a porcine study.Int J Hyperthermia. 2020;37(1):854–60.

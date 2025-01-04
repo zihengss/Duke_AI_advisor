@@ -1,0 +1,41 @@
+Name: Kyle Jon Lafata
+Department: Radiation Oncology
+Short Description: Thaddeus V. Samulski Associate Professor of Radiation Oncology
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Duke University, 2018
+C. Duke University, 2018
+
+Positions:
+Thaddeus V. Samulski Associate Professor of Radiation Oncology
+Associate Professor of Radiation Oncology
+Associate Professor in Radiology
+Associate Professor in the Department of Electrical and Computer Engineering
+Assistant Professor of Pathology
+Member of the Duke Cancer Institute
+
+Awards:
+
+
+Courses Taught:
+MEDPHY 791: Independent Study in Medical Physics
+MEDPHY 507: Radiation Biology
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+
+Publications:
+Zhao J, Vaios E, Wang Y, Yang Z, Cui Y, Reitman ZJ, et al.Dose-Incorporated Deep Ensemble Learning for Improving Brain Metastasis Stereotactic Radiosurgery Outcome Prediction.Int J Radiat Oncol Biol Phys. 2024 Oct 1;120(2):603–13.
+Domanski P, Ray A, Lafata K, Firouzi F, Chakrabarty K, Pflüger D.Advancing blood glucose prediction with neural architecture search and deep reinforcement learning for type 1 diabetics. Biocybernetics and Biomedical Engineering. 2024 Jul 1;44(3):481–500.
+Lafata KJ, Read C, Tong BC, Akinyemiju T, Wang C, Cerullo M, et al.Lung Cancer Screening in Clinical Practice: A 5-Year Review of Frequency and Predictors of Lung Cancer in the Screened Population.J Am Coll Radiol. 2024 May;21(5):767–77.
+Stevens JB, Riley BA, Je J, Gao Y, Wang C, Mowery YM, et al.Radiomics on spatial-temporal manifolds via Fokker-Planck dynamics.In: Med Phys. 2024. p. 3334–47.
+Yang Z, Lafata K, Vaios E, Hu Z, Mullikin T, Yin F-F, et al.Quantifying U-Net uncertainty in multi-parametric MRI-based glioma segmentation by spherical image projection.Med Phys. 2024 Mar;51(3):1931–43.

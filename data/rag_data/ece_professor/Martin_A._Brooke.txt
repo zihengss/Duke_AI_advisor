@@ -1,0 +1,7 @@
+Name: Martin A. Brooke
+Department: Electrical and Computer Engineering
+Short Description: Associate Professor of Electrical and Computer Engineering
+
+Research Interests:
+Analog, RF, and optoelectronic circuits. Sensor interface circuits. Deployable sensor systems
+

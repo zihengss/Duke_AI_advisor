@@ -1,0 +1,5 @@
+Course Code: ECE 370D
+Course Name: Intermediate Electromagnetic Theory
+
+Description:
+Fundamentals of electrostatic and magnetostatic fields, including fields in matter, and magnetostatic forces. Boundary value problems, Maxwell’s Equations, and propagation of electromagnetic waves. Fundamentals and application of transmission lines, waveguides, and antennas. Prerequisite: Electrical and Computer Engineering 270DL.

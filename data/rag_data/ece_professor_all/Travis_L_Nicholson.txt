@@ -1,0 +1,31 @@
+Name: Travis L Nicholson
+Department: Physics
+Short Description: Assistant Professor of Physics
+
+Research Interests:
+My research focuses on quantum science experiments with ultracold gases of neutral atoms. My team has pioneered ultracold physics with Main Group III (Group 13) atoms. We were the first to laser cool a Group III atom to near absolute zero, as well as the first to prepare these atoms in pure quantum states and optically trap them. I occasionally do theoretical physics research, and some of my work includes proposals for novel lasers and new quantum sensor designs.
+
+Bio:
+Travis is an experimental physicist who studies quantum phenomena with ultracold atoms. His work involves cooling atoms to temperatures near absolute zero, trapping them in optical potentials, and using them to study fundamental physics, quantum information science, and quantum metrology. Specific areas of interest include realizing novel quantum many-body states with exotic phases, developing new quantum computing architectures, and designing highly precise and accurate atomic clocks.Travis pioneered ultracold physics with triel elements, which are atoms in Group 13 of the Periodic Table. These elements offer unique quantum interactions and a high degree of control, enabling new directions in quantum science.
+
+Education:
+M.S. University of Colorado, Boulder, 2011
+Ph.D. University of Colorado, Boulder, 2015
+
+Positions:
+Assistant Professor of Physics
+Assistant Professor in the Department of Electrical and Computer Engineering
+Member of the Duke Quantum Center
+
+Awards:
+
+
+Courses Taught:
+PHYSICS 152L9D: Introductory Electricity, Magnetism, and Optics (Discussion Component)
+
+Publications:
+Yu X, Mo J, Lu T, Tan TY, Nicholson TL.Magneto-optical trapping of a group- iii atom. Physical Review A. 2022 Jun 1;105(6).
+Yu X, Mo J, Lu T, Tan TY, Nicholson TL.Zeeman slowing of a group-III atom. Physical Review Research. 2022 Mar 1;4(1).
+Jäger SB, Liu H, Cooper J, Nicholson TL, Holland MJ.Superradiant emission of a thermal atomic beam into an optical cavity. Physical Review A. 2021 Sep 1;104(3).
+Liu H, Jäger SB, Yu X, Touzard S, Shankar A, Holland MJ, et al.Rugged mHz-Linewidth Superradiant Laser Driven by a Hot Atomic Beam.Physical review letters. 2020 Dec;125(25):253602.
+Liang Q-Y, Venkatramani AV, Cantu SH, Nicholson TL, Gullans MJ, Gorshkov AV, et al.Observation of three-photon bound states in a quantum nonlinear medium.Science (New York, NY). 2018 Feb;359(6377):783–6.

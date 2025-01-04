@@ -1,0 +1,5 @@
+Course Code: ECE 577
+Course Name: Computational Electromagnetics
+
+Description:
+N/A

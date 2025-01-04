@@ -1,0 +1,28 @@
+Name: Jeffrey Derby
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Professor of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+Dr. Jeff Derby received his Ph.D. in electrical engineering from Columbia University in 1975. He joined IBM in Research Triangle Park, NC, in 1982 after spending seven years with Bell Laboratories in Whippany, NJ. He is currently a Senior Technical Staff Member in the PowerPC Technology Development area in the IBM Microelectronics Division. His work is focused on analog and digital signal processing subsystems with application to telecommunications. He is listed as an inventor or co-inventor on 22 US patents. Dr. Derby has been an adjunct faculty member at Duke since 1984.
+
+Education:
+Ph.D. Columbia University, 1975
+
+Positions:
+Adjunct Professor of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 651: Software Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 559: Advanced Digital System Design
+
+Publications:
+Moreno JH, Zyuban V, Shvadron U, Neeser FD, Derby JH, Ware MS, et al.An innovative low-power high-performance programmable signal processor for digital communications. IBM J Res Dev (USA). 2003;47(2–3):299–326.
+Derby JH.Comments on “On the design of pole-zero approximations using a logarithmic error measure”. IEEE Trans Signal Process (USA). 1996;44(7):1811–3.
+Derby JH, Galand CR.Multirate subband coding applied to digital speech interpolation. IEEE Trans Acoust Speech Signal Process (USA). 1987;ASSP-35(12):1684–98.

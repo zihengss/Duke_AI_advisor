@@ -1,0 +1,35 @@
+Name: Tony Jun Huang
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: William Bevan Distinguished Professor of Mechanical Engineering and Materials Science
+
+Research Interests:
+Acoustofluidics, microfluidics, lab-on-a-chip, biomedical micro-electro-mechanical systems (BioMEMS), optofluidics, plasmofluidics.
+
+Bio:
+Tony Jun Huang received his Ph.D. degree in Mechanical and Aerospace Engineering from the University of California, Los Angeles (UCLA) in 2005. His research interests are in the fields of acoustofluidics, optofluidics, and micro/nano systems for biomedical diagnostics and therapeutics. He has authored/co-authored over 290 peer-reviewed journal publications in these fields. His journal articles have been cited more than 29,000 times, as documented at Google Scholar (h-index: 91).He also has 30 issued or pending US/international patents.Prof. Huang was elected a fellow (member) of the National Academy of Inventors (USA) and the European Academy of Sciences and Arts. He was also a fellow of the following six professional societies: the American Association for the Advancement of Science (AAAS), the American Institute for Medical and Biological Engineering (AIMBE), the American Society of Mechanical Engineers (ASME), the Institute of Electrical and Electronics Engineers (IEEE), the Institute of Physics (UK), and the Royal Society of Chemistry (UK).Huang's research has gained international recognition through numerous prestigious awards and honors including a 2010 National Institutes of Health (NIH) Director's New Innovator Award, a 2011 JALA Top Ten Breakthroughs of the Year Award, a 2012 Outstanding Young Manufacturing Engineer Award from the Society for Manufacturing Engineering, a 2013 Faculty Scholar Medal from The Pennsylvania State University, a 2013 American Asthma Foundation (AAF) Scholar Award, the 2014 IEEE Sensors Council Technical Achievement Award from the Institute of Electrical and Electronics Engineers (IEEE), the 2017 Analytical Chemistry Young Innovator Award from the American Chemical Society (ACS), the 2019 Van C. Mow Medal from the American Society of Mechanical Engineers (ASME), and the 2019 Technical Achievement Award from the IEEE Engineering in Medicine and Biology Society (EMBS).
+
+Education:
+Ph.D. University of California, Los Angeles, 2005
+
+Positions:
+William Bevan Distinguished Professor of Mechanical Engineering and Materials Science
+Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+Professor of Biomedical Engineering
+
+Awards:
+Fellow (NAI). National Academy of Inventors. 2020
+
+Courses Taught:
+ME 591: Research Independent Study in Mechanical Engineering or Material Science
+ME 535: Biomedical Microsystems
+EGR 393: Research Projects in Engineering
+BME 791: Graduate Independent Study
+BME 494: Projects in Biomedical Engineering (GE)
+BME 493: Projects in Biomedical Engineering (GE)
+
+Publications:
+Tian Z, Yang S, Huang P-H, Wang Z, Zhang P, Gu Y, et al.Wave number-spiral acoustic tweezers for dynamic and reconfigurable manipulation of particles and cells.Science advances. 2019 May;5(5):eaau6062.
+Chen C, Zhang SP, Mao Z, Nama N, Gu Y, Huang P-H, et al.Three-dimensional numerical simulation and experimental investigation of boundary-driven streaming in surface acoustic wave microfluidics.Lab on a chip. 2018 Dec;18(23):3645–54.
+Ozcelik A, Rufo J, Guo F, Gu Y, Li P, Lata J, et al.Acoustic tweezers for the life sciences.Nature methods. 2018 Dec;15(12):1021–8.
+Wu M, Chen K, Yang S, Wang Z, Huang P-H, Mai J, et al.High-throughput cell focusing and separation via acoustofluidic tweezers.Lab on a chip. 2018 Sep;18(19):3003–10.
+Zhang SP, Lata J, Chen C, Mai J, Guo F, Tian Z, et al.Digital acoustofluidics enables contactless and programmable liquid handling.Nature communications. 2018 Jul;9(1):2928.

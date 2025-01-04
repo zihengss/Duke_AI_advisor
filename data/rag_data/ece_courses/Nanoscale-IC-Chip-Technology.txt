@@ -1,0 +1,5 @@
+Course Code: ECE 528
+Course Name: Nanoscale IC Chip Technology
+
+Description:
+Key processing technologies for integrated circuits with an emphasis on the fundamentals of process scaling to fabricate nanoscale IC chips. Photolithographic scaling methods, modern photoresists, anti-reflection coatings, and optical and EUV exposure systems. Scaled pn junction formation with ion implantation and rapid thermal annealing, ultrathin gate dielectrics, silicon gate and metal gate technologies. Fundamentals of deposited metal and dielectric films driven by requirements for chip interconnections and wafer planarity. Prerequisite: ECE 230L and Chem 101DL, or graduate student standing.

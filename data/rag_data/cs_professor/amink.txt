@@ -1,0 +1,2 @@
+Overview of professor Alexander J. Hartemink: 
+Computational biology, machine learning, Bayesian statistics, transcriptional regulation, genomics and epigenomics, graphical models, Bayesian networks, hidden Markov models, systems biology, computational neurobiology, classification, feature selection

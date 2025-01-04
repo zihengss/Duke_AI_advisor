@@ -1,0 +1,5 @@
+Course Code: ECE 494
+Course Name: Projects in Electrical and Computer Engineering
+
+Description:
+Project arranged on a special topic by an instructor with related interests and expertise. For senior students. Consent of instructor and director of undergraduate studies required.

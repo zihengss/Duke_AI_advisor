@@ -1,0 +1,5 @@
+Course Code: ECE 663
+Course Name: Machine Learning in Adversarial Settings
+
+Description:
+Machine learning is being widely deployed in many aspects of our society. Our vision is that machine learning systems will become a new attack surface and attackers will exploit the vulnerabilities in machine learning algorithms and systems to subvert their security and privacy. In this course, we will discuss security and privacy attacks to machine learning systems and state-of-the-art defenses against them. Prerequisite: ECE 580 or 687D or Computer Science 371 or graduate standing

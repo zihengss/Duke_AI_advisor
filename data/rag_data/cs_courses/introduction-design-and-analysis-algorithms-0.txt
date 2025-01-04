@@ -1,0 +1,4 @@
+COMPSCI  330
+Design and analysis of efficient algorithms including sorting, searching, dynamic programming, graph algorithms, fast multiplication, and others; nondeterministic algorithms and computationally hard problems. Prerequisites: Computer Science 201 and 230.
+Prerequisites
+Prerequisite: CompSci 201 and (CompSci 230 or CompSci 232)

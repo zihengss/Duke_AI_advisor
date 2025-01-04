@@ -1,0 +1,5 @@
+Course Code: ECE 899
+Course Name: Special Readings in Electrical Engineering
+
+Description:
+Special individual readings in a specified area of study in electrical engineering. Approval of director of graduate studies required.

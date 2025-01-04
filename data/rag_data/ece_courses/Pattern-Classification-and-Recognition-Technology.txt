@@ -1,0 +1,5 @@
+Course Code: ECE 681
+Course Name: Pattern Classification and Recognition Technology
+
+Description:
+Theory and practice of recognition technology: pattern classification, pattern recognition, automatic computer decision-making algorithms. Applications covered include medical diseases, severe weather, industrial parts, biometrics, bioinformation, animal behavior patterns, image processing, and human visual systems. Perception as an integral component of intelligent systems. This course prepares students for advanced study of data fusion, data mining, knowledge base construction, problem-solving methodologies of "intelligent agents" and the design of intelligent control systems. Prerequisites: Mathematics 216, Statistical Science 130 or Mathematics 230, Computer Science 101, or consent of instructor. Instructor: Collins or Tantum

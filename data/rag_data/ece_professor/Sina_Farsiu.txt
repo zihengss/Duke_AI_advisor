@@ -1,0 +1,7 @@
+Name: Sina Farsiu
+Department: Biomedical Engineering
+Short Description: Director of Master's Studies, Anderson-Rupp Professor of BME
+
+Research Interests:
+Focused on medical imaging and machine learning to improve the overall health and vision outcome of patients with ocular and neurological diseases (e.g., age-related macular degeneration, diabetic retinopathy, Alzheimer, and ALS) through earlier and personalized therapy.
+

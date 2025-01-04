@@ -1,0 +1,27 @@
+Name: Andrew Rindos
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.S. University of Maryland, College Park, 1978
+M.S. University of Maryland, College Park, 1982
+Ph.D. University of Maryland, College Park, 1988
+
+Positions:
+Adjunct Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ME 344L: Control of Dynamic Systems
+ECE 382L: Control of Dynamic Systems
+
+Publications:
+

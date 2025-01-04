@@ -1,0 +1,7 @@
+Name: Stacy L. Tantum
+Department: Electrical and Computer Engineering
+Short Description: Bell-Rhodes Associate Professor of the Practice of Electrical and Computer Engineering
+
+Research Interests:
+Physics-based statistical signal processing • Context-aware machine learning • Domain-informed data scienceExplainable/interpretable machine learning • Privacy-aware machine learning • Bias in machine learningNeuroscience-informed teaching • Metacognition • Cognitive load theory • Mindset-aware learning
+

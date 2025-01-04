@@ -1,0 +1,47 @@
+Name: Angel V Peterchev
+Department: Psychiatry & Behavioral Sciences, Behavioral Medicine & Neurosciences
+Short Description: Professor in Psychiatry and Behavioral Sciences
+
+Research Interests:
+
+
+Bio:
+I direct the Brain Stimulation Engineering Lab (BSEL) which focuses on the development, modeling, and application of devices and paradigms for transcranial brain stimulation. Transcranial brain stimulation involves non-invasive delivery of fields (e.g., electric and magnetic) to the brain that modulate neural activity. It is widely used as a tool for research and a therapeutic intervention in neurology and psychiatry, including several FDA-cleared indications. BSEL develops devices for transcranial magnetic stimulation (TMS) and other forms of magnetic stimulation such as magnetogenetics that leverage design techniques from power electronics and computational electromagnetics to enable more flexible stimulus control, focal stimulation, and quiet operation. We also deploy these devices in experimental studies to characterize and optimize the brain response to TMS. Another line of work is multi-scale computational models that couple simulations of the electromagnetic fields, single neuron responses, and neural population modulation induced by electric and magnetic brain stimulation. These models are calibrated and validated with experimental neural recordings through various collaborations. Apart from understanding of mechanisms, we develop modeling, algorithmic, and targeting tools for response estimation, dose individualization, and precise localization of transcranial brain stimulation using advanced techniques such as artificial neural networks and machine learning. Moreover, BSEL is involved in the integration of transcranial brain stimulation with robotics, neuronavigation, intracranial electrophysiology recordings, and imaging modalities such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG), as well as the evaluation of the safety of device–device interactions, for example between transcranial stimulators and implants. Importantly, we collaborate widely with neuroscientists and clinicians at Duke and other institutions to translate developments from the lab to research and clinical applications. For over 17 years, BSEL has been continuously supported with multiple NIH grants as well as funding by DARPA, NSF, Brain & Behavior Research Foundation, Coulter Foundation, Duke Institute for Brain Sciences, MEDx, Duke University Energy Initiative, and industry. Further, some of our technology has been commercialized, for example as ElevateTMS cTMS, or incorporated in free software packages, such as SimNIBS and SAMT. In recognition of “excellence in non-invasive brain stimulation research that stimulates further work at a higher scientific level” I received the Brainbox Initiative John Rothwell Award in 2024.
+
+Education:
+B.A. Harvard University, 1999
+M.S. University of California, Berkeley, 2002
+Ph.D. University of California, Berkeley, 2005
+
+Positions:
+Professor in Psychiatry and Behavioral Sciences
+Professor in Neurosurgery
+Associate Professor in Neurosurgery
+Associate Professor of Biomedical Engineering
+Associate Professor in the Department of Electrical and Computer Engineering
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+
+
+Courses Taught:
+ENRGYEGR 531: Power Electronic Circuits for Energy Conversion
+ENRGYEGR 431: Power Electronic Circuits for Energy Conversion
+ENERGY 396: Connections in Energy: Interdisciplinary Team Projects
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 531: Power Electronic Circuits for Energy Conversion
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 431: Power Electronic Circuits for Energy Conversion
+ECE 392: Projects in Electrical and Computer Engineering
+BME 494: Projects in Biomedical Engineering (GE)
+BME 493: Projects in Biomedical Engineering (GE)
+BME 394: Projects in Biomedical Engineering (GE)
+
+Publications:
+Yu GJ, Ranieri F, Di Lazzaro V, Sommer MA, Peterchev AV, Grill WM.Circuits and mechanisms for TMS-induced corticospinal waves: Connecting sensitivity analysis to the network graph.PLoS Comput Biol. 2024 Dec 5;20(12):e1012640.
+Murphy DLK, Koponen LM, Wood E, Li Y, Bukhari-Parlakturk N, Goetz SM, et al.Reduced auditory perception and brain response with quiet TMS coil.Brain Stimul. 2024 Oct 10;17(6):1197–207.
+Labruna L, Merrick C, Peterchev AV, Inglis B, Ivry RB, Sheltraw D.Kilohertz Transcranial Magnetic Perturbation (kTMP): A New Non-invasive Method to Modulate Cortical Excitability. eLife Sciences Publications, Ltd. 2024.
+Labruna L, Merrick C, Peterchev AV, Inglis B, Ivry RB, Sheltraw D.Kilohertz Transcranial Magnetic Perturbation (kTMP): A New Non-invasive Method to Modulate Cortical Excitability. eLife Sciences Publications, Ltd. 2024.
+Peterchev AV.Direction and Directionality: The Neural Effects of Transcranial Magnetic Stimulation Coil Orientation and Pulse Waveform.Biol Psychiatry Cogn Neurosci Neuroimaging. 2024 Aug;9(8):739–41.

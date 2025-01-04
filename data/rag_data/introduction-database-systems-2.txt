@@ -1,4 +1,0 @@
-COMPSCI 316D: introduction-database-systems-2
-Databases and relational database management systems. Data modeling, database design theory, data definition and manipulation languages, storaging and indexing techniques, query processing and optimization, concurrency control and recovery, database programming interfaces. Current research issues including XML, web data management, data integration and dissemination, data mining. Hands-on programming projects and a term project. Prerequisite: Computer Science 201, and Computer Science 210D or 250D.
-Prerequisites
-Prerequisite: Computer Science 201 and (Computer Science 210D or Computer Science/Electrical & Computer Egr 250D)

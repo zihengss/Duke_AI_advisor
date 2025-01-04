@@ -1,0 +1,5 @@
+Course Code: ECE 585
+Course Name: Signal Detection and Extraction Theory
+
+Description:
+Introduction to signal detection and information extraction theory from a statistical decision theory viewpoint. Subject areas covered within the context of a digital environment are decision theory, detection and estimation of known and random signals in noise, estimation of parameters and adaptive recursive digital filtering, and decision processes with finite memory. Applications to problems in communication theory. Prerequisite: Electrical and Computer Engineering 581 or consent of instructor.

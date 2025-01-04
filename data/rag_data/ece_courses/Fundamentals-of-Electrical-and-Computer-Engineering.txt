@@ -1,0 +1,5 @@
+Course Code: ECE 110L
+Course Name: Fundamentals of Electrical and Computer Engineering
+
+Description:
+Students learn core ECE concepts, providing a foundation on which subsequent courses build. Concepts include techniques for analyzing linear circuits, semiconductor and photonic devices, frequency representation, filtering, combinational and sequential logic. Central to the course is an extensive design challenge that requires students to integrate knowledge across topics while honing practical design and project management skills. Course culminates in an exciting competition in which teams of robots race to overcome challenging obstacles using sensor data acquisition and processing. Prerequisite/corequisite: (Engineering 103L or Computer Science 201) and (Mathematics 112L or 22 or equivalent).

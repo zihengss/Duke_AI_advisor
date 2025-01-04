@@ -1,0 +1,4 @@
+COMPSCI  553
+Covers the fundamentals of compiler design. Students will develop a working compiler, writing all stages required to take source code as input and produce working assembly as output: lexical analysis, parsing, type checking, translation to intermediate representation, instruction selection, liveness analysis, and register allocation. Students are expected to have a strong programming background prior to taking this course, as writing a compiler is a significant programming task. Prerequisites: Electrical and Computer Engineering 250L or Computer Science 250 or (ECE 550D and ECE 551D).
+Prerequisites
+ECE 250L or COMPSCI 250 or (ECE 550 and ECE 551) or Graduate Standing

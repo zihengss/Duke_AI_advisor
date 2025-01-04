@@ -1,0 +1,5 @@
+Course Code: ECE 461
+Course Name: Ocean Engineering
+
+Description:
+A challenging Ocean Engineering project will be undertaken in this class. Past examples include participation in a national XPRIZE contest to build an Ocean Sensor. Students define project scope and form task-oriented sub-teams to make significant progress toward overall class project goal. Students are expected to spend several hours per week outside of class working on the team projects. Students will need to be in teams that can all meet for at least couple of hours at the same time each week. Prerequisite: one of ECE 230L, ECE 250D, ECE 270DL, ECE 280L, Mechanical Engineering 221L, Engineering 244L, or Environment 102.

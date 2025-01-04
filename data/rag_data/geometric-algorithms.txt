@@ -1,2 +1,0 @@
-COMPSCI 634: geometric-algorithms
-Models of computation and lower-bound techniques; storing and manipulating orthogonal objects; orthogonal and simplex range searching, convex hulls, planar point location, proximity problems, arrangements, linear programming and parametric search technique, probabilistic and incremental algorithms. Prerequisite: Computer Science 532 or equivalent.

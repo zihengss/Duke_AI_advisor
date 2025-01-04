@@ -1,0 +1,5 @@
+Course Code: ECE 469
+Course Name: Wearable and Ubiquitous Computing Systems Design
+
+Description:
+Design, implement, and evaluate wearable and ubiquitous computing systems. Topics include challenges and constraints in wearable and ubiquitous computing, input/output devices, human-computer interaction, embedded systems, prototyping, machine learning with focus on activity and affect recognition, applications with focus on healthcare, ethics, and social impact; project management and planning as students work on a semester-long team-based multidisciplinary project. Prerequisite: ECE 350L, ECE 230L, 250D, 270DL, and 280L and (Math 353 or 356) and (Math 230 or ECE 555 or ECE 380 or StatSci 240L or EGR 238L or Math 340) and (Physics 152L or 26) and (Chem 101DL or 20 or 21).

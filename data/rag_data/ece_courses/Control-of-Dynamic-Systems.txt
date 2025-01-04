@@ -1,0 +1,5 @@
+Course Code: ECE 382L
+Course Name: Control of Dynamic Systems
+
+Description:
+Model dynamic systems, characterize time and frequency domain response with respect to particular inputs. Characterize systems in terms of rise-time, settling-time, bandwidth. Identify the difference between stable and unstable system. Apply feedback control to modify response of dynamic systems. Develop methods of designing compensators for single-input, single-output, and multiple-input, multiple-output dynamic systems. Introduces optimal control theory, the linear quadratic regulator problem, the linear quadratic Gaussian problem. Gain a physical understanding of role of feedback control in modifying the dynamics of a system. Prerequisite: (Engineering 224L or ECE 280L) and Mathematics 216. Not open to students who have taken ECE 382.

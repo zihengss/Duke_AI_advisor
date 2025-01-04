@@ -1,0 +1,55 @@
+Name: Daniel J. Sorin
+Department: Electrical and Computer Engineering
+Short Description: Associate Chair, Professor of ECE
+
+Research Interests:
+Computer architecture, designing microarchitectures so that they are easier to verify, improving computer system fault tolerance, developing memory systems for multicore processors, and designing special-purpose accelerators
+
+Bio:
+Dr. Daniel Sorin is a professor of Electrical and Computer Engineering at Duke University. His research interests are primarily in computer architecture and dependability.
+
+Education:
+B.S. Duke University, 1996
+M.S. University of Wisconsin, Madison, 1998
+Ph.D. University of Wisconsin, Madison, 2002
+
+Positions:
+Professor of Electrical and Computer Engineering
+Bass Fellow
+Associate Chair of Education in the Department of Electrical and Computer Engineering
+Professor in Computer Science
+
+Awards:
+Program Chair of HiPEAC 2017. HiPEAC. 2017
+Co-chair of selection committee for IEEE Micro's Top Picks 2016. IEEE Micro. 2016
+Associate Editor in Chief. Computer Architecture Letters. 2015
+IEEE Micro Top Pick. IEEE Micro. 2015
+Best Paper Award. 20th International Symposium on High Performance Computer Architecture. 2014
+Lois and John L. Imhoff Distinguished Teaching Award. Pratt School of Engineering. 2011
+IEEE Micro Top Pick. IEEE Micro. 2011
+ACM Senior Member. Association for Computing Machinery. 2009
+Phi Beta Kappa. Unknown. 2008
+Top of 2004 - Nanocomputing Research. Technology Research News. 2008
+Outstanding Graduate Research Award. University of Wisconsin. 2008
+Intel Graduate Fellowship. Unknown. 2008
+Eta Kappa Nu. Unknown. 2008
+Tau Beta Pi. Unknown. 2008
+NSF Early CAREER Award. National Science Foundation. 2008
+Faculty Early Career Development (CAREER) Program. National Science Foundation. 2005
+
+Courses Taught:
+EGR 491: Projects in Engineering
+ECE 554: Fault-Tolerant and Testable Computer Systems
+ECE 552: Advanced Computer Architecture I
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 250D: Computer Architecture
+COMPSCI 393: Research Independent Study
+COMPSCI 391: Independent Study
+COMPSCI 250D: Computer Architecture
+
+Publications:
+Li W, Goens A, Oswald N, Nagarajan V, Sorin DJ.Determining the Minimum Number of Virtual Networks for Different Coherence Protocols. In: Proceedings - International Symposium on Computer Architecture. 2024. p. 182–97.
+Mazurek F, Tschand A, Wang Y, Pajic M, Sorin D.Rigorous Evaluation of Computer Processors with Statistical Model Checking. In: Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2023. 2023. p. 1242–54.
+Oswald N, Nagarajan V, Sorin DJ, Gavrielatos V, Olausson TX, Carr R.HeteroGen: Automatic Synthesis of Heterogeneous Cache Coherence Protocols. IEEE Micro. 2023 Jul 1;43(4):62–70.
+Oswald N, Nagarajan V, Sorin DJ, Gavrielatos V, Olausson T, Carr R.HeteroGen: Automatic Synthesis of Heterogeneous Cache Coherence Protocols. In: Proceedings - International Symposium on High-Performance Computer Architecture. 2022. p. 756–71.
+Mehrabi A, Sorin DJ, Lee BC.Spatiotemporal Strategies for Long-Term FPGA Resource Management. In: Proceedings - 2022 IEEE International Symposium on Performance Analysis of Systems and Software, ISPASS 2022. 2022. p. 198–209.

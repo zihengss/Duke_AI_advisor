@@ -1,0 +1,47 @@
+Name: Henry Pfister
+Department: Electrical and Computer Engineering
+Short Description: Jeffrey N. Vinik Professor of Electrical and Computer Engineering
+
+Research Interests:
+Information theory, communications, probabilistic graphical models, machine learning, and deep neural networks
+
+Bio:
+Henry D. Pfister received his Ph.D. in Electrical Engineering in 2003 from the University of California, San Diego and is currently a professor in the Electrical and Computer Engineering Department of Duke University with a secondary appointment in Mathematics.  Prior to that, he was an associate professor at Texas A&M University (2006-2014), a post-doctoral fellow at the École Polytechnique Fédérale de Lausanne (2005-2006), and a senior engineer at Qualcomm Corporate R&D in San Diego (2003-2004).  His current research interests include information theory, error-correcting codes, quantum computing, and machine learning.He received the NSF Career Award in 2008 and a Texas A&M ECE Department Outstanding Professor Award in 2010.  He is a coauthor of the 2007 IEEE COMSOC best paper in Signal Processing and Coding for Data Storage and a coauthor of a 2016 Symposium on the Theory of Computing (STOC) best paper.  He has served the IEEE Information Theory Society as a member of the Board of Governors (2019-2022), an Associate Editor for the IEEE Transactions on Information Theory (2013-2016), and a Distinguished Lecturer (2015-2016).  He was also the General Chair of the 2016 North American School of Information Theory.
+
+Education:
+Ph.D. University of California, San Diego, 2003
+
+Positions:
+Jeffrey N. Vinik Professor of Electrical and Computer Engineering
+Professor in the Department of Electrical and Computer Engineering
+Professor of Mathematics
+Member of the Duke Quantum Center
+
+Awards:
+Best Paper Award. Symposium on the Theory of Computation (STOC). 2016
+2015-2016 Distinguished Lecturer. IEEE Information Theory Society. 2015
+NSF CAREER Award. National Science Foundation. 2008
+2007 Best Paper in Signal Processing and Coding for Data Storage. IEEE Communications Society . 2007
+
+Courses Taught:
+STA 563: Information Theory
+MATH 590-02: Advanced Special Topics in Mathematics
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 587: Information Theory
+ECE 586D: Vector Space Methods with Applications
+ECE 586: Vector Space Methods with Applications
+ECE 496: Special Topics in Electrical and Computer Engineering
+ECE 487: System Design for Machine Learning and Signal Processing
+ECE 392: Projects in Electrical and Computer Engineering
+
+Publications:
+Yao H, Gökduman M, Pfister HD.Cluster Decomposition for Improved Erasure Decoding of Quantum LDPC
+  Codes. 2024.
+Gökduman M, Yao H, Pfister HD.Erasure Decoding for Quantum LDPC Codes via Belief Propagation with
+  Guided Decimation. 2024.
+Reeves G, Pfister HD.Reed-Muller Codes on BMS Channels Achieve Vanishing Bit-Error Probability for all Rates Below Capacity. IEEE Transactions on Information Theory. 2024 Feb 1;70(2):920–49.
+Yao H, Laban WA, Häger C, Amat AGI, Pfister HD.Belief Propagation Decoding of Quantum LDPC Codes with Guided Decimation. In: IEEE International Symposium on Information Theory - Proceedings. 2024. p. 2478–83.
+Weinberg J, Mandal A, Pfister HD.Quantum State Compression with Polar Codes. In: IEEE International Symposium on Information Theory - Proceedings. 2024. p. 2050–5.

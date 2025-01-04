@@ -1,0 +1,5 @@
+Course Code: ECE 651K
+Course Name: Software Engineering
+
+Description:
+Teaches students about all steps of the software development lifecycle: requirements definition, design, development, testing, and maintenance. The course assumes students are skilled object-oriented programmers from prior courses, but will include a rapid introduction to Java. Students complete team-based semester-long software project which will progress through all phases of the software lifecycle. Taught at Duke Kunshan University in Kunshan, China. Prerequisite: ECE 551K.

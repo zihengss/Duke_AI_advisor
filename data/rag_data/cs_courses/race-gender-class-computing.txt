@@ -1,0 +1,2 @@
+COMPSCI  240
+This course examines how identity impacts and is impacted by computing. Through an introduction to identity as a social construct, we will explore the societal factors that have influenced present-day technology development and use, historical contexts, and the resulting impact on various communities.

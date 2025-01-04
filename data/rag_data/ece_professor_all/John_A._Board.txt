@@ -1,0 +1,48 @@
+Name: John A. Board
+Department: Electrical and Computer Engineering
+Short Description: Associate Professor of Electrical and Computer Engineering
+
+Research Interests:
+High performance scientific computing and simulation, novel computer architectures, cluster computing and parallel processing
+ubiquitous computing.
+
+Bio:
+John Board is an Associate Professor of ECE and of Computer Science. He also serves as Associate Chief Information Officer for Duke University.  He received his D.Phil in 1986 from Oxford University. His research interests include: High performance scientific computing and simulation, novel computer architectures, cluster computing and parallel processing; ubiquitous computing.
+
+Education:
+B.S.E. Duke University, 1981
+M.S. Duke University, 1982
+Ph.D. University of Oxford (United Kingdom), 1986
+
+Positions:
+Associate Professor of Electrical and Computer Engineering
+Associate Professor of Computer Science
+Bass Fellow
+
+Awards:
+Klein Family Distinguished Teaching Award. Duke University, Pratt School of Engineering. 2008
+Member. Eta Kappa Nu. 2008
+Member. Phi Beta Kappa. 2008
+Member. Tau Beta Pi. 2008
+Rhodes Scholar. The Rhodes Trust. 2008
+Distinguished Young Alumnus. Duke University. 2008
+Distinguished Teaching Award. Duke University School of Engineering. 2008
+
+Courses Taught:
+HOUSECS 59: House Course
+ENGLISH 498: Distinction Critical Research Independent Study
+ECE 899: Special Readings in Electrical Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 350L: Digital Systems
+ECE 250D: Computer Architecture
+COMPSCI 350L: Digital Systems
+COMPSCI 250D: Computer Architecture
+
+Publications:
+Li X, Chang X, Board JA, Trivedi KS.A novel approach for software vulnerability classification. In: Proceedings - Annual Reliability and Maintainability Symposium. 2017.
+Ybarra GA, Collins LM, Huettel LG, Coonley KD, Massoud HZ, Board JA, et al.Integrated sensing and information processing theme-based redesign of the undergraduate electrical and computer engineering curriculum at Duke University. Advances in Engineering Education. 2010;2(4).
+Ybarra GA, Collins LM, Huettel LG, Massoud HZ, Board JA, Brooke M, et al.Integrating sensing and information processing in an electrical and computer engineering undergraduate curriculum. In: Proceedings - Frontiers in Education Conference, FIE. 2009.
+Brown A, Ybarra G, Massoud H, Board J, Holmes J, Coonley K, et al.Redesign of the core curriculum at Duke University. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2006.
+Brown A, Ybarra G, Massoud H, Board J, Holmes J, Coonley K, et al.Redesign of the core curriculum at Duke University. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2006.

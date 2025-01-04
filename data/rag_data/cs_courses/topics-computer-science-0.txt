@@ -1,0 +1,2 @@
+COMPSCI  290S
+Seminar version of Computer Science 290.

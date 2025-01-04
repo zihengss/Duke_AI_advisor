@@ -1,0 +1,5 @@
+Course Code: ECE 550DK
+Course Name: Fundamentals of Computer Systems and Engineering
+
+Description:
+Fundamentals of computer systems and engineering for Master's students whose undergraduate background did not cover this material. Topics covered include: Digital logic, assembly programming, computer architecture, memory hierarchies and technologies, IO, hardware implementation in VHDL, operating systems, and networking. Taught at Duke Kunshan University in Kunshan, China. Corequisite: ECE 551DK.

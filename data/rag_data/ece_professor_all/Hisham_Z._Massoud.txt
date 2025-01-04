@@ -1,0 +1,39 @@
+Name: Hisham Z. Massoud
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Ultrathin gate dielectrics for CMOS ULSI – the technology, physics, modeling, simulation, and characterization of ultrathin-oxide MOSFETs
+
+Bio:
+Hisham Z. Massoud joined the Duke ECE Department in 1983, where is now a Professor. He is the founding director of the Semiconductor Research Laboratory. Professor Massoud has been a research scientist at the IBM Thomas J. Watson Research Center, Yorktown Heights, N.Y., in 1977 and 1980-81, the Microelectronics Center of North Carolina in 1987, the Hewlett-Packard Integrated Circuits Business Division in 1992, and the Max-Planck Institute for Microstructure Physics in 1997 and 1998. He was a visiting professor of ECE at King Abdullah University of Science and Technology (KAUST) in Saudi Arabia in 2012. He is a Life Fellow of the Institute of Electrical and Electronics Engineers and Lifetime Fellow of the Electrochemical Society. He was awarded the 2006 Electronics and Photonics Division Award of the Electrochemical Society (ECS) for his work on ultrathin MOS gate dielectric films.
+
+Education:
+B.S. Cairo University (Egypt), 1973
+M.S. Cairo University (Egypt), 1975
+M.S. Stanford University, 1976
+Ph.D. Stanford University, 1983
+
+Positions:
+Professor of Electrical and Computer Engineering
+
+Awards:
+Life Fellow. Institute for Electrical and Electronics Engineers. 2015
+Electronics and Photonics Division Award. Electrochemical Society. 2006
+Fellow. Electrochemical Society. 2006
+Inventor Recognition Award. Semiconductor Research Corporation. 2005
+
+Courses Taught:
+ECE 529: Digital Integrated Circuits
+ECE 526: Semiconductor Devices for Integrated Circuits
+ECE 330L: Fundamentals of Microelectronic Devices
+ECE 230L: Introduction to Microelectronic Devices and Circuits
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Publications:
+Ybarra GA, Collins LM, Huettel LG, Coonley KD, Massoud HZ, Board JA, et al.Integrated sensing and information processing theme-based redesign of the undergraduate electrical and computer engineering curriculum at Duke University. Advances in Engineering Education. 2010;2(4).
+Ybarra GA, Collins LM, Huettel LG, Massoud HZ, Board JA, Brooke M, et al.Integrating sensing and information processing in an electrical and computer engineering undergraduate curriculum. In: Proceedings - Frontiers in Education Conference, FIE. 2009.
+Oliver LD, Chakrabarty K, Massoud HZ.Dual-threshold pass-transistor logic design. Proceedings of the ACM Great Lakes Symposium on VLSI, GLSVLSI. 2009 Nov 6;291–6.
+Coonley K, Brooke M, Ethier P, Massoud H.Design of a flexible RF data link and associated laboratory curriculum in a first analog electronics and devices course. ASEE Annual Conference and Exposition, Conference Proceedings. 2009 Sep 1;
+Coonley K, Brooke M, Ethier P, Massoud H.Design of a flexible RF data link and associated laboratory curriculum in a first analog electronics and devices course. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2009.

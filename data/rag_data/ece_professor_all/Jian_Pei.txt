@@ -1,0 +1,43 @@
+Name: Jian Pei
+Department: Computer Science
+Short Description: Arthur S. Pearse Distinguished Professor of Computer Science
+
+Research Interests:
+
+
+Bio:
+Data science, data mining, databases, information retrieval, computational statistics, applied machine learning and AI.
+
+Education:
+Ph.D. Simon Fraser University, 2002
+
+Positions:
+Arthur S. Pearse Distinguished Professor of Computer Science
+Professor of Computer Science
+Chair of the Department of Computer Science
+Professor of Biostatistics & Bioinformatics
+Professor of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 583: Data Science
+COMPSCI 590: Advanced Topics in Computer Science
+COMPSCI 526: Data Science
+COMPSCI 394: Research Independent Study
+COMPSCI 393: Research Independent Study
+COMPSCI 391: Independent Study
+CBB 590: Special Topics in Computational Biology
+CBB 526: Data Science
+BRAINSOC 795T: Bass Connections in Brain & Society Research Team
+BRAINSOC 395T: Bass Connections in Brain & Society Research Team
+
+Publications:
+Shen K, Wu L, Tang S, Xu F, Long B, Zhuang Y, et al.Ask Questions With Double Hints: Visual Question Generation With Answer-Awareness and Region-Reference.IEEE transactions on pattern analysis and machine intelligence. 2024 Dec;46(12):9648–60.
+Zhu F, Pei J, Zeller M, Zhang B.The Fourth International Workshop on Smart Data for Blockchain and Distributed Ledger (SDBD'24). In: Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2024. p. 6757–8.
+Luo X, Pei J.Applications and Computation of the Shapley Value in Databases and Machine Learning. In: Proceedings of the ACM SIGMOD International Conference on Management of Data. 2024. p. 630–5.
+Zhang J, Xue R, Fan W, Xu X, Li Q, Pei J, et al.Linear-Time Graph Neural Networks for Scalable Recommendations. In: WWW 2024 - Proceedings of the ACM Web Conference. 2024. p. 3533–44.
+Cong Z, Shi B, Li S, Yang J, He Q, Pei J.FairSample: Training Fair and Accurate Graph Convolutional Neural Networks Efficiently. IEEE Transactions on Knowledge and Data Engineering. 2024 Apr 1;36(4):1537–51.

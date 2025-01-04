@@ -1,0 +1,32 @@
+Name: Christ D Richmond
+Department: Electrical and Computer Engineering
+Short Description: Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.S. University of Maryland, College Park, 1990
+M.S. Massachusetts Institute of Technology, 1995
+Ph.D. Massachusetts Institute of Technology, 1996
+
+Positions:
+Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 585: Signal Detection and Extraction Theory
+ECE 581: Random Signals and Noise
+
+Publications:
+Mueller E, Martinez M, Richmond C, Krolik J.Sample-Starved Wavefront Adaptive Sensing and GLRT for MTI Radar. In: Proceedings of the IEEE Radar Conference. 2024.
+Bondre AS, Richmond CD, Michelusi N.Delay-Doppler Parameter Estimation for DFRC-OTFS Using 2D Root-MUSIC. In: Proceedings of the IEEE Radar Conference. 2024.
+Ali T, Richmond CD.Waveform Optimization for Channel Matrix-Based Cognitive Radar/Sonar. In: Proceedings of the IEEE Radar Conference. 2024.
+Szeto M, Andert E, Shrivastava A, Reisslein M, Lin CW, Richmond C.B-AWARE: Blockage Aware RSU Scheduling for 5G Enabled Autonomous Vehicles. ACM Transactions on Embedded Computing Systems. 2023 Sep 9;22(5 s).
+Bondre AS, Richmond CD, Alkhateeb A, Michelusi N.Sparse Delay-Doppler Channel Estimation for OTFS Modulation Using 2D-Music. In: ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings. 2023.

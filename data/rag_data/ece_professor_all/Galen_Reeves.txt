@@ -1,0 +1,36 @@
+Name: Galen Reeves
+Department: Electrical and Computer Engineering
+Short Description: Associate Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Information theory, high-dimensional statistical inference, statistical signal processing, compressed sensing, machine learning
+
+Bio:
+Galen Reeves joined the faculty at Duke University in Fall 2013, and is currently an Associate Professor with a joint appointment in the Department of Electrical Computer Engineering and the Department of Statistical Science. He completed his PhD in Electrical Engineering and Computer Sciences at the University of California, Berkeley in 2011, and he was a postdoctoral associate in the Departments of Statistics at Stanford University from 2011 to 2013. His research interests include information theory and high-dimensional statistics. He received the NSF CAREER award in 2017.
+
+Education:
+Ph.D. University of California, Berkeley, 2011
+
+Positions:
+Associate Professor in the Department of Electrical and Computer Engineering
+Associate Professor of Statistical Science
+
+Awards:
+
+
+Courses Taught:
+STA 891: Topics for Preliminary Exam Preparation in Statistical Science
+STA 741: Compressed Sensing and Related Topics
+STA 711: Probability and Measure Theory
+STA 563: Information Theory
+STA 493: Research Independent Study
+ECE 741: Compressed Sensing and Related Topics
+ECE 587: Information Theory
+ECE 586D: Vector Space Methods with Applications
+
+Publications:
+Reeves G, Pfister HD.Reed-Muller Codes on BMS Channels Achieve Vanishing Bit-Error Probability for all Rates Below Capacity. IEEE Transactions on Information Theory. 2024 Feb 1;70(2):920–49.
+Rossetti R, Nazer B, Reeves G.Linear Operator Approximate Message Passing: Power Method with Partial and Stochastic Updates. In: IEEE International Symposium on Information Theory - Proceedings. 2024. p. 741–6.
+Reeves G, Pfister HD.Achieving Capacity on Non-Binary Channels with Generalized Reed-Muller Codes. In: IEEE International Symposium on Information Theory - Proceedings. 2023. p. 2057–62.
+Van Den Boom W, Reeves G, Dunson DB.Erratum: Approximating posteriors with high-dimensional nuisance parameters via integrated rotated Gaussian approximation (Biometrika (2021) 108 (269-282) DOI: 10.1093/biomet/asaa068). Biometrika. 2022 Mar 1;109(1):275.
+Behne JK, Reeves G.Fundamental limits for rank-one matrix estimation with groupwise heteroskedasticity. In: Proceedings of Machine Learning Research. 2022. p. 8650–72.

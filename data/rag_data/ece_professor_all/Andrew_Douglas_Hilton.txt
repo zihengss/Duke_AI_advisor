@@ -1,0 +1,36 @@
+Name: Andrew Douglas Hilton
+Department: Electrical and Computer Engineering
+Short Description: Director, Innovation in Computing Education, Professor of the Practice in the Department of ECE
+
+Research Interests:
+Computer architecture, specifically architectural support for security and energy-efficient performance
+
+Bio:
+Drew Hilton is a Professor of the Practice in Electrical and Computer Engineering, as well as Pratt’s Director of Innovation in Computing Education.His main focus is on teaching professional-level programming skills to ECE’s master's students to prepare them for software engineering careers.Professor Hilton also teaches a 3-week introduction to Programming Python for Duke's Master in Interdisciplinary Data Science, and Duke's Center for Computational Thinking.He has two Coursera specializations, one in Java, and another in C.
+
+Education:
+Ph.D. University of Pennsylvania, 2010
+
+Positions:
+Professor of the Practice in the Department of Electrical and Computer Engineering
+Professor of the Practice in the Social Science Research Institute
+Associate Professor of the Practice of Computer Science
+
+Awards:
+Klein Family Distinguished Teaching Award. Pratt School of Engineering. 2015
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+ECE 651: Software Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 553: Compiler Construction
+ECE 551D: Programming, Data Structures, and Algorithms in C++
+ECE 391: Projects in Electrical and Computer Engineering
+COMPSCI 553: Compiler Construction
+
+Publications:
+Huang Z, Joao JA, Rico A, Hilton AD, Lee BC.DynaSprint: Microarchitectural sprints with dynamic utility and thermal management. In: Proceedings of the Annual International Symposium on Microarchitecture, MICRO. 2019. p. 426–39.
+Hilton AD, Lipp GM, Rodger SH.Translation from Problem to Code in Seven Steps. In: CompEd 2019 - Proceedings of the ACM Conference on Global Computing Education. 2019. p. 78–84.
+Hilton AD, Lipp GM, Rodger SH.A technique for translation from problem to code. In: Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE. 2018. p. 375.
+Lehman TS, Hilton AD, Lee BC.MAPS: Understanding Metadata Access Patterns in Secure Memory. In: Proceedings - 2018 IEEE International Symposium on Performance Analysis of Systems and Software, ISPASS 2018. 2018. p. 33–43.
+Jacobvitz AN, Hilton AD, Sorin DJ.Multi-program benchmark definition. In: ISPASS 2015 - IEEE International Symposium on Performance Analysis of Systems and Software. 2015. p. 72–82.

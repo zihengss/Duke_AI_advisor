@@ -1,0 +1,5 @@
+Course Code: ECE 568
+Course Name: Engineering Robust Server Software
+
+Description:
+In this course, students learn about important principles in server software design and development. These principles include topics such as handling asynchronous behavior, design for failure, basic security principles, scalability, and resilience. Students will put these ideas into practices by developing software reflecting the ideas learned in class. Prerequisite: (ECE 551D or ECE 751D) and corequisite ECE 650, or [(Computer Science 307D or Computer Science 308) and (ECE 353 or CompSci 310) and (ECE 356 or CompSci 356)].

@@ -1,0 +1,5 @@
+Course Code: ECE 675
+Course Name: Optical Imaging and Spectroscopy
+
+Description:
+Wave and coherence models for propagation and optical system analysis. Fourier optics and sampling theory. Focal plane arrays. Generalized and compressive sampling. Impulse response, modulation transfer function and instrument function analysis of imaging and spectroscopy. Code design for optical measurement. Dispersive and interferometric spectroscopy and spectral imaging. Performance metrics in optical imaging systems. Prerequisite: Electrical and Computer Engineering 270DL and 280L.

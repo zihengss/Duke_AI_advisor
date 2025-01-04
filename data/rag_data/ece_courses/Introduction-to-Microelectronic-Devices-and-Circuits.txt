@@ -1,0 +1,5 @@
+Course Code: ECE 230L
+Course Name: Introduction to Microelectronic Devices and Circuits
+
+Description:
+Introduction to semiconductor materials and their corresponding electronic devices and circuits. In lab, students will perform photolithography and characterize devices and circuits. Lecture will cover: underlying physics of semiconductor materials; operation of semiconductor devices, including diodes and transistors (MOSFETs); and application of MOSFETs into digital circuits. Students will understand basic operation of semiconductor devices in a way that is foundational for the expansive semiconductor industry. Prerequisite: (Engineering 103L or Computer Science 201) and (Physics 152L or 26) and (Electrical and Computer Engineering 110L or Biomedical Engineering 253L).

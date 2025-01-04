@@ -1,0 +1,51 @@
+Name: Xin Li
+Department: Electrical and Computer Engineering
+Short Description: Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Integrated circuits, signal processing and data analytics
+
+Bio:
+Prof. Xin Li received the Ph.D. degree in Electrical and Computer Engineering from Carnegie Mellon University, Pittsburgh, Pennsylvania, in 2005, and the M.S. and B.S. degrees in Electronics Engineering from Fudan University, Shanghai, China, in 2001 and 1998, respectively.In 2005, he co-founded Xigmix Inc. to commercialize his PhD research, and served as the Chief Technical Officer until the company was acquired by Extreme DA in 2007. In 2011, Extreme DA was further acquired by Synopsis (Nasdaq: SNPS). From 2009 to 2012, he was the Assistant Director for FCRP Focus Research Center for Circuit & System Solutions (C2S2), a national consortium of 13 research universities (CMU, MIT, Stanford, Berkeley, UIUC, UMich, Columbia, UCLA, among others) chartered by the U.S. semiconductor industry and U.S. Department of Defense to work on next-generation integrated circuit design challenges. From 2014 to 2015, he was the Assistant Director for the Center for Silicon System Implementation (CSSI), a CMU research center with 20 faculty members working on integrated circuits and systems. His research interests include integrated circuit, signal processing and data analytics.He was an Associate Editor of IEEE Trans. on Biomedical Engineering (TBME), IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems (TCAD), ACM Trans. on Design Automation of Electronic Systems (TODAES), IEEE Design & Test (D&T), and Journal of Low Power Electronics (JOLPE). He was the Guest Editor for IEEE TCAD, IEEE TNANO, IEEE TBD, IEEE D&T, IEEE JETCAS, ACM TCPS, ACM JETC and VLSI Integration. He served on the Executive Committee of ACM Special Interest Group on Design Automation (SIGDA), IEEE Systems, Man, and Cybernetics Society Technical Committee on Cybernetics for Cyber-Physical Systems (TCCCPS), and IEEE Computer Society Technical Committee on VLSI (TCVLSI). He was the General Chair of ISVLSI, iNIS and FAC, and the Technical Program Chair of CAD/Graphics. He also served on the ACM/SIGDA Outstanding PhD Dissertation Award Selection Committee, the IEEE TTTC E. J. McCluskey Best Doctoral Thesis Selection Committee, the IEEE Outstanding Young Author Award Selection Committee, the Executive Committee of ISVLSI, GLSVLSI and iNIS, and the Technical Program Committee of DAC, ICCAD, ITC, ISVLSI, FAC, CAD/Graphics, ASICON and VLSI. He received the NSF Faculty Early Career Development Award (CAREER) in 2012, two IEEE Donald O. Pederson Best Paper Awards in 2013 and 2016, the Best Paper Award from Design Automation Conference (DAC) in 2010, two IEEE/ACM William J. McCalla ICCAD Best Paper Awards in 2004 and 2011, and the Best Paper Award from International Symposium on Integrated Circuits (ISIC) in 2014. In addition to these awards, he also received six Best Paper Nominations from Design Automation Conference (DAC), International Conference on Computer-Aided Design (ICCAD) and Custom Integrated Circuits Conference (CICC).
+
+Education:
+MR Fudan University (China), 2001
+Ph.D. Carnegie Mellon University, 2005
+
+Positions:
+Professor in the Department of Electrical and Computer Engineering
+Associate Vice Chancellor at Duke Kunshan University
+Professor of Electrical and Computer Engineering at Duke Kunshan University
+
+Awards:
+Fellow. Institute of Electrical and Electronics Engineers. 2017
+IEEE Donald O. Pederson Best Paper Award. IEEE Council on EDA. 2016
+Best Paper Nomination. Design Automation Conference. 2016
+Best Paper Nomination. Design Automation Conference. 2015
+Best Paper Nomination. Design Automation Conference. 2014
+Best Paper Award. International Symposium on Integrated Circuits. 2014
+Best Paper Nomination. International Conference on Computer-Aided Design. 2014
+IEEE Donald O. Pederson Best Paper Award. IEEE Council on EDA. 2013
+NSF CAREER Award. NSF. 2012
+IEEE/ACM William J. McCalla ICCAD Best Paper Award. IEEE/ACM. 2011
+Best Paper Award. Design Automation Conference. 2010
+Winner of Data Analysis Competition. International Conference on Biomagnetism. 2010
+Senior Member. Institute of Electrical and Electronics Engineers. 2010
+Best Paper Nomination. Design Automation Conference. 2006
+IEEE/ACM William J. McCalla ICCAD Best Paper Award. IEEE/ACM. 2004
+
+Courses Taught:
+K_ECE 580K: INTRO TO MACHINE LEARNING
+K_CAPST 496: Signature Work Capstone II
+K_CAPST 495: Signature Work Capstone I
+ECE 891: Internship
+ECE 580K: Introduction to Machine Learning
+ECE 550K: Fundamentals of Computer Systems and Engineering
+ECE 550DK: Fundamentals of Computer Systems and Engineering
+
+Publications:
+He X, Wu D, Li X, Tong X.Back to the Past: A Systematic Review of Immersive Narrative in Cultural Heritage Conservation. Proceedings of the Association for Information Science and Technology. 2024 Oct 1;61(1):148–60.
+Zhao S, Li Z, Zhu Z, Chang C, Li X, Chen YC, et al.An integrated framework for accurate trajectory prediction based on deep learning. Applied Intelligence. 2024 Oct 1;54(20):10161–75.
+Liu Y, Chen S, Li P, Wan J, Li X.Status, challenges, and promises of data-driven battery lifetime prediction under cyber-physical system context. IET Cyber-Physical Systems: Theory and Applications. 2024 Sep 1;9(3):207–17.
+Wu X, Xiao L, Du X, Zheng Y, Li X, Ma T, et al.Cross-domain document layout analysis using document style guide. Expert Systems with Applications. 2024 Jul 1;245.
+Guo N, Chen S, Tao J, Liu Y, Wan J, Li X.Semi-supervised learning for explainable few-shot battery lifetime prediction. Joule. 2024 Jun 19;8(6):1820–36.

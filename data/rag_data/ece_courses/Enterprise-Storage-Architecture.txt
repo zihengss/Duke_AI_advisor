@@ -1,0 +1,5 @@
+Course Code: ECE 566
+Course Name: Enterprise Storage Architecture
+
+Description:
+Study the design and deployment of massive storage systems of the sort used in large enterprises (banks, major IT departments, service providers, etc.). Includes coverage of hard disk and flash design, RAID, SAN and NAS topologies, filesystem design, data center architectures for high availability, data deduplication, business continuity, and the economics of data storage with respect to cloud computing. Includes a few homeworks and a semester-long programming project. Prerequisite: graduate students: ECE 650; undergraduate students: Computer Science 310 or ECE 353.

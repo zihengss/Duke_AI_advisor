@@ -1,0 +1,7 @@
+Name: Yiran Chen
+Department: Electrical and Computer Engineering
+Short Description: John Cocke Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+rnEmerging memory and storage technologiesrnEmbedded systems, CPS, edge computing, and mobile applicationsrnNeuromorphic computing, deep learning and system securityrnLow power circuit and systemrn
+

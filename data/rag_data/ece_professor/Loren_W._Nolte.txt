@@ -1,0 +1,7 @@
+Name: Loren W. Nolte
+Department: Electrical and Computer Engineering
+Short Description: Professor Emeritus in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Bayesian approach to signal detection, classification, estimation, tracking and decision and sensor fusion. Applications in ocean acoustics, and in medical imaging for cancer research.
+

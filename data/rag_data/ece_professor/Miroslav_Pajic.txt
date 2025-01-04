@@ -1,0 +1,7 @@
+Name: Miroslav Pajic
+Department: Electrical and Computer Engineering
+Short Description: Director of Master's Studies, Professor in the Department of ECE
+
+Research Interests:
+Design and analysis of autonomous cyber-physical systems (CPS), and in particular, embedded systems, AI, learning and controls, CPS security and high-assurance autonomy, with various application domains including robotics, automotive, and medical systems
+

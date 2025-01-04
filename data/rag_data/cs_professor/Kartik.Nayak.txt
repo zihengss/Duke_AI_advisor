@@ -1,0 +1,2 @@
+Overview of professor Kartik Nayak: 
+Research interests are security, applied cryptography, distributed computing and blockchains. Recent focus topics include robust and efficient design of blockchain protocols and efficient privacy-preserving computation.

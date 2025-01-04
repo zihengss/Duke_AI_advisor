@@ -1,0 +1,57 @@
+Name: Stefano Curtarolo
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: Edmund T. Pratt Jr. School Distinguished Professor of Mechanical Engineering and Materials Science
+
+Research Interests:
+Artificial Intelligence Materials Science
+Autonomous Materials Design
+Computational materials science
+High-Entropy Disordered Systems
+Materials for Energy Applications
+Materials for Aerospace Applications. Prof. Curtarolo multidisciplinary research makes use of state-of-the-art techniques from fields like materials science, chemistry, physics, quantum mechanics, mathematics and computer science.
+
+Bio:
+RESEARCH FIELDSrnArtificial Intelligence Materials ScienceAutonomous Materials DesignComputational Materials ScienceHigh-Entropy Disordered and Amorphous SystemsMaterials for Energy ApplicationsMaterials for Aerospace ApplicationsMaterials for Deep Space ExplorationrnThe research is multidisciplinary and makes use of state of the art techniques from fields like materials science, chemistry, physics, quantum mechanics, mathematics and computer science.
+
+Education:
+M.S. University of Padua (Italy), 1995
+M.S. University of Padua (Italy), 1998
+M.S. Pennsylvania State University, 1999
+Sc.D. Massachusetts Institute of Technology, 2003
+
+Positions:
+Edmund T. Pratt Jr. School Distinguished Professor of Mechanical Engineering and Materials Science
+Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+Director of the Center for Autonomous Materials Design
+Professor in the Department of Electrical and Computer Engineering
+Professor in the Department of Physics
+
+Awards:
+High Performance, Computing Modernization Program Flagship Award. DOD-HPC. 2021
+Clarivate Analytics Highly Cited Researcher. Clarivate Analytics. 2021
+Distinguished Visiting Professorship. Max-Plank Society, Fritz-Haber Instittue, Berlin. 2018
+Friedrich Wilhelm Bessel Research Award. Alexander von Humboldt-Foundation. 2016
+DOD-MURI Award, The Science of Entropy Stabilized Ultra-High Temperature Materials. Duke University, NCSU, UCSD, UVA. 2015
+Fellow. American Physical Society. 2013
+DOD-MURI Award, Topological decompositions and spectral sampling algorithms for elements substitution in critical technologies. Duke University, UMD, UNT, CMU, BYU. 2013
+Stansell Distinguished Research Award. Duke University. 2013
+MRS Silver Medal Graduate Student Award. Materials Research Society. 2008
+ONR Young Investigator Program Award. Office of Naval Research. 2008
+Best Paper Award. CALPHAD (Computer Coupling of Phase Diagrams and Thermochemistry). 2008
+NSF Early CAREER Award. National Science Foundation. 2008
+Presidential Early Career Awards for Scientists and Engineers. President of the United States of America. 2007
+Faculty Early Career Development (CAREER) Program. National Science Foundation. 2007
+
+Courses Taught:
+ME 592: Research Independent Study in Mechanical Engineering or Material Science
+ME 555: Advanced Topics in Mechanical Engineering
+ME 221L: Structure and Properties of Solids
+EGR 95FS: First Year seminar in Focus
+EGR 101L: Engineering Design and Communication
+
+Publications:
+Smith SM, Fahrenholtz WG, Hilmas GE, Curtarolo S.Intermediate stage densification kinetics of high-entropy ceramics during spark plasma sintering (Accepted). Journal of the European Ceramic Society. 2025 May 1;45(5).
+Hassan R, Fahrenholtz WG, Hilmas GE, Curtarolo S.Synergistic hardening in a dual phase high-entropy (Hf,Nb,Ta,Ti,Zr)C–(Hf,Nb,Ta,Ti,Zr)B2ultra-high temperature ceramic (Accepted). Journal of the American Ceramic Society. 2025 Feb 1;108(2).
+Vecchio K, Curtarolo S, Kaufmann K, Harrington TJ, Oses C, Toher C.Corrigendum to “Fermi energy engineering of enhanced plasticity in high-entropy carbides” [Acta Materialia, 276 (2024) 120117] (Acta Materialia (2024) 276, (S1359645424004683), (10.1016/j.actamat.2024.120117)) (Accepted). Acta Materialia. 2025 Jan 1;282.
+Smith SM, Gilli N, Fahrenholtz WG, Hilmas GE, García-González S, Jiménez-Piqué E, et al.Dual-phase ceramics based on multi-cation boride and carbide: Investigations at the nanoscale (Accepted). Journal of Materiomics. 2025 Jan 1;11(1).
+Roberts J, Rijal B, Divilov S, Maria JP, Fahrenholtz WG, Wolfe DE, et al.Machine learned interatomic potentials for ternary carbides trained on the AFLOW database. npj Computational Materials. 2024 Dec 1;10(1).

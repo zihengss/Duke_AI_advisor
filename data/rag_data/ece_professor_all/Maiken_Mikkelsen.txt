@@ -1,0 +1,41 @@
+Name: Maiken Mikkelsen
+Department: Electrical and Computer Engineering
+Short Description: James N. and Elizabeth H. Barton Associate Professor of Electrical and Computer Engineering
+
+Research Interests:
+Quantum nanophotonics, plasmonics, light-matter interactions in artificially structured nanoscale materials, hybrid molecular-scale materials and spin phenomena in the solid state
+
+Bio:
+Maiken H. Mikkelsen is the James N. and Elizabeth H. Barton Associate Professor of Electrical and Computer Engineering at Duke University. She received her B.S. in Physics from the University of Copenhagen in 2004, her Ph.D. in Physics from the University of California, Santa Barbara in 2009 and was a postdoctoral fellow at the University of California, Berkeley before joining Duke University in 2012. Her research explores nanophotonics and new quantum materials to enable transformative breakthroughs for optoelectronics, quantum science, the environment, and human health.Her awards include the Maria Goeppert Mayer Award from the American Physical Society, the NSF CAREER award, the Moore Inventor Fellow award from the Gordon and Betty Moore Foundation, and young investigator program awards from the Office of Naval Research, the Army Research Office and the Air Force Office of Scientific Research.
+
+Education:
+Ph.D. University of California, Santa Barbara, 2009
+
+Positions:
+James N. and Elizabeth H. Barton Associate Professor of Electrical and Computer Engineering
+Associate Professor in the Department of Electrical and Computer Engineering
+Associate Professor of Physics
+
+Awards:
+Stansell Family Distinguished Research Award. Pratt School of Engineering. 2021
+Maria Goeppert Mayer Award . American Physical Society. 2017
+Early Career Achievement Award. SPIE u2013 the international society for optics and photonics . 2017
+Young Investigator Program Award. Office of Naval Research . 2017
+Young Investigator Program Award . Army Research Office . 2016
+Cottrell Scholar Award. Research Corporation for Science Advancement . 2016
+Scialog Fellow. Research Corporation for Science Advancement . 2016
+Young Investigator Program Award . Air Force Office of Scientific Research . 2015
+CAREER Award . National Science Foundation . 2015
+Ralph E. Powe Junior Faculty Award . Oak Ridge Associated Universities. 2014
+Ph.D. Thesis prize, Quantum Electronics and Optics. European Physical Society. 2011
+
+Courses Taught:
+ECE 891: Internship
+ECE 524: Introduction to Solid-State Physics
+
+Publications:
+Stewart JW, Vella JH, Li W, Fan S, Mikkelsen MH.Ultrafast pyroelectric photodetection with on-chip spectral filters.Nature materials. 2020 Feb;19(2):158–62.
+Shen Q, Hoang TB, Yang G, Wheeler VD, Mikkelsen MH.Probing the origin of highly-efficient third-harmonic generation in plasmonic nanogaps.Optics express. 2018 Aug;26(16):20718–25.
+Huang J, Akselrod GM, Ming T, Kong J, Mikkelsen MH.Tailored Emission Spectrum of 2D Semiconductors Using Plasmonic Nanocavities. ACS Photonics. 2018 Feb 21;5(2):552–8.
+Wilson WM, Stewart JW, Mikkelsen MH.Surpassing Single Line Width Active Tuning with Photochromic Molecules Coupled to Plasmonic Nanoantennas.Nano letters. 2018 Feb;18(2):853–8.
+Sykes ME, Stewart JW, Akselrod GM, Kong X-T, Wang Z, Gosztola DJ, et al.Publisher Correction: Enhanced generation and anisotropic Coulomb scattering of hot electrons in an ultra-broadband plasmonic nanopatch metasurface.Nature communications. 2017 Dec;8(1):2135.

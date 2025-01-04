@@ -1,0 +1,5 @@
+Course Code: ECE 523
+Course Name: Quantum Computing
+
+Description:
+Fundamental concepts and progress in quantum information science. Quantum circuits, quantum universality theorem, quantum algorithms, quantum operations and quantum error correction codes, fault-tolerant architectures, security in quantum communications, quantum key distribution, physical systems for realizing quantum logic, quantum repeaters and long-distance quantum communication. Prerequisites: Electrical and Computer Engineering 521 or Physics 464 or equivalent.

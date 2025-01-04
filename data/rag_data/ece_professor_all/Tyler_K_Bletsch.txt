@@ -1,0 +1,48 @@
+Name: Tyler K Bletsch
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.S. North Carolina State University, 2004
+D.Phil. North Carolina State University, 2011
+
+Positions:
+Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+Assistant Professor of the Practice of Computer Science
+
+Awards:
+
+
+Courses Taught:
+EGR 393: Research Projects in Engineering
+EGR 391: Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 568: Engineering Robust Server Software
+ECE 566: Enterprise Storage Architecture
+ECE 560: Computer and Information Security
+ECE 496: Special Topics in Electrical and Computer Engineering
+ECE 495: Special Topics in Electrical and Computer Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 458: Engineering Software for Maintainability
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 350L: Digital Systems
+ECE 291: Projects in Electrical and Computer Engineering
+ECE 250D: Computer Architecture
+COMPSCI 391: Independent Study
+COMPSCI 350L: Digital Systems
+COMPSCI 250D: Computer Architecture
+
+Publications:
+Ortega E, Talukdar J, Paik W, Bletsch T, Chakrabarty K.Rowhammer Vulnerability of DRAMs in 3-D Integration. IEEE Transactions on Very Large Scale Integration (VLSI) Systems. 2024 May 1;32(5):967–71.
+Joardar BK, Bletsch TK, Chakrabarty K.Machine Learning-Based Rowhammer Mitigation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 2023 May 1;42(5):1393–405.
+Ortega E, Bletsch T, Joardar B, Talukdar J, Paik W, Chakrabarty K.Simply-Track-and-Refresh: Efficient and Scalable Rowhammer Mitigation. In: Proceedings - International Test Conference. 2023. p. 340–9.
+Joardar BK, Bletsch TK, Chakrabarty K.Learning to Mitigate Rowhammer Attacks. In: Proceedings of the 2022 Design, Automation and Test in Europe Conference and Exhibition, DATE 2022. 2022. p. 564–7.
+Li J, Wang Z, Bletsch T, Srinivasan D, Grace M, Jiang X.Comprehensive and efficient protection of kernel control data. IEEE Transactions on Information Forensics and Security. 2011 Dec 1;6(4):1404–17.

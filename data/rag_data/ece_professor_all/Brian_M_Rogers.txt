@@ -1,0 +1,25 @@
+Name: Brian M Rogers
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. North Carolina State University, 2009
+
+Positions:
+Adjunct Assistant Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 568: Engineering Robust Server Software
+ECE 565: Performance Optimization & Parallelism
+
+Publications:
+

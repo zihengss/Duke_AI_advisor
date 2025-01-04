@@ -1,0 +1,7 @@
+Name: Crystal Noel
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+Quantum computing and simulation with trapped ions, integrated photonics for scalable trapped ion systems, and electric-field noise from surfaces
+

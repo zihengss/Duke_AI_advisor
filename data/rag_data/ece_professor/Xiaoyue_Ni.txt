@@ -1,0 +1,7 @@
+Name: Xiaoyue Ni
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: Assistant Professor of the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Research Interests:
+Flexible electronics, precision measurement, non-destructive testing, deformation physics of random media, mechanical metamaterials, robotic materials and smart structures, machine learning
+

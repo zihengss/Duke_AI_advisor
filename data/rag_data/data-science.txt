@@ -1,4 +1,0 @@
-COMPSCI 526: data-science
-Data science is 'the science of planning for, acquisition, management, analysis of, and inference from data'. This course systematically covers the concepts, ideas, tools, and example applications of data science in an end-to-end manner. We emphasize data-driven thinking, data processing and analytics, and extracting actionable values from data. We focus on the interactions between data and applications, data modeling, and data processing, data analytics, and the essential algorithms and tools. Prerequisites: A statistics course (Statistics 111 or higher), data structures and algorithms (Computer Science 201), and relational databases (Computer Science216 or 316).
-Prerequisites
-Prerequisite: Computer Science 201, and Computer Science 216 or Computer Science 316, and Statistics 111 or higher, or graduate student standing

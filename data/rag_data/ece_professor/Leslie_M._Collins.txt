@@ -1,0 +1,7 @@
+Name: Leslie M. Collins
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Physics-based machine learning algorithms for big data, including developing remediation strategies for the hearing impaired and sensor-based algorithms for the detection of hazardous buried objects
+

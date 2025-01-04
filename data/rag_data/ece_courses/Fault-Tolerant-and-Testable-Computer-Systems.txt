@@ -1,0 +1,5 @@
+Course Code: ECE 554
+Course Name: Fault-Tolerant and Testable Computer Systems
+
+Description:
+Technological reasons for faults, fault models, information redundancy, spatial redundancy, backward and forward error recovery, fault-tolerant hardware and software, modeling and analysis, testing, and design for test. Prerequisite: Electrical and Computer Engineering 250D or equivalent.

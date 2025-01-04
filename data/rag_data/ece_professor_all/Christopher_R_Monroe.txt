@@ -1,0 +1,38 @@
+Name: Christopher R Monroe
+Department: Electrical and Computer Engineering
+Short Description: Gilhuly Family Presidential Distinguished Professor
+
+Research Interests:
+quantum physics, applications in quantum information science
+
+Bio:
+N/A
+
+Education:
+B.Sc. Massachusetts Institute of Technology, 1987
+Ph.D. University of Colorado, Boulder, 1992
+
+Positions:
+Gilhuly Family Presidential Distinguished Professor
+Professor in the Department of Electrical and Computer Engineering
+Director of the Duke Quantum Center
+Professor of Physics
+
+Awards:
+Elected Member. National Academy of Sciences. 2016
+
+Courses Taught:
+PHYSICS 89S: First-Year Seminar
+PHYSICS 791: Special Readings
+PHYSICS 493: Research Independent Study
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+
+Publications:
+Niroula P, White CD, Wang Q, Johri S, Zhu D, Monroe C, et al.Phase transition in magic with random quantum circuits. Nature Physics. 2024 Nov 1;20(11):1786–92.
+O’Reilly J, Toh G, Goetting I, Saha S, Shalaev M, Carter AL, et al.Fast Photon-Mediated Entanglement of Continuously Cooled Trapped Ions for Quantum Networking.Physical review letters. 2024 Aug;133(9):090802.
+Carter AL, O’Reilly J, Toh G, Saha S, Shalaev M, Goetting I, et al.Ion trap with in-vacuum high numerical aperture imaging for a dual-species modular quantum computer.The Review of scientific instruments. 2024 Mar;95(3):033201.
+Lewis L, Zhu D, Gheorghiu A, Noel C, Katz O, Harraz B, et al.Experimental implementation of an efficient test of quantumness. Physical Review A. 2024 Jan 1;109(1).
+Zhu D, Kahanamoku-Meyer GD, Lewis L, Noel C, Katz O, Harraz B, et al.Interactive cryptographic proofs of quantumness using mid-circuit measurements. Nature Physics. 2023 Nov 1;19(11):1725–31.

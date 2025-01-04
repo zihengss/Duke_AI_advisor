@@ -1,0 +1,33 @@
+Name: Alexander Y. Kozhanov
+Department: Electrical and Computer Engineering
+Short Description: Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+M.S. Lomonosov Moscow State Universty (Russia), 2003
+Ph.D. Lomonosov Moscow State Universty (Russia), 2006
+
+Positions:
+Associate Research Professor in the Department of Electrical and Computer Engineering
+Member of the Duke Quantum Center
+
+Awards:
+
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+ECE 524: Introduction to Solid-State Physics
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+
+Publications:
+Kozhanov A, Yu Y, Zhukas L, Feng L, Biswas D, Harraz B, et al.Next-generation trapped-ion quantum computing system. In: Quantum 20: Proceedings Optica Quantum 20 Conference and Exhibition. 2023.
+Mitrofanov A, Chen G, Kozhanov A, Urazhdin S.Exchange bias without directional anisotropy in permalloy/CoO bilayers. Physical Review B. 2021 Oct 1;104(14).
+Senevirathna MKI, Vernon M, Cooke GA, Cross GB, Kozhanov A, Williams MD.Analysis of useful ion yield for Si in GaN by secondary ion mass spectrometry. Journal of Vacuum Science and Technology B. 2020 Jul 1;38(4).
+Senevirathna MKI, Williams MD, Cooke GA, Kozhanov A, Vernon M, Cross GB.Analysis of useful ion yield for the Mg dopant in GaN by quadrupole—SIMS. Journal of Vacuum Science &amp; Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena. 2020 May 1;38(3).
+Cross GB, Ahmad Z, Seidlitz D, Vernon M, Dietz N, Deocampo D, et al.Kinetically stabilized high-temperature InN growth. Journal of Crystal Growth. 2020 Apr 15;536.

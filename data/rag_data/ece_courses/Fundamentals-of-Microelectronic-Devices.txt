@@ -1,0 +1,5 @@
+Course Code: ECE 330L
+Course Name: Fundamentals of Microelectronic Devices
+
+Description:
+Fundamentals of semiconductor device physics (semiconductor technology, dopants and carrier concentrations, carrier drift and diffusion, semiconductor equations, semiconductor device models). Principles of semiconductor device analysis (current-voltage and capacitance-voltage characteristics). Static, small-signal, and dynamic operation of semiconductor contacts, PN-junction diodes, MOS capacitors, MOS field-effect transistors (MOSFETs), and bipolar-junction transistors (BJTs). SPICE models and parameter extraction. Fabrication and electrical characterization of MOS capacitors in the Shared Materials Instrumentation Facility (SMIF). Prerequisite: ECE 230L.

@@ -1,0 +1,7 @@
+Name: Jeffrey Glass
+Department: Electrical and Computer Engineering
+Short Description: Hogg Family Director of Engineering Management & Entrepreneurship, Professor of ECE
+
+Research Interests:
+Electronic materials and the associated devices/instruments improved by these materials, especially electrode applications in miniature mass spectrometry, energy conversion and storage and liquid waste disinfection for developing regions. Electrochemical measurements and applications of thin films, including carbon nanotubes, graphene and atomic layer deposited oxides are of particular interest
+

@@ -1,0 +1,5 @@
+Course Code: ECE 545
+Course Name: Foundations of Nanoelectronics & Nanophotonics
+
+Description:
+Theory and applications of nanoelectronics and nanophotonics. Quantum dots and wells, metal nanoparticles, organic-inorganic interfaces, graphene, next generation transistors, light emitters, and sensors. Prerequisite: Electrical and Computer Engineering 230L and 270DL or equivalent.

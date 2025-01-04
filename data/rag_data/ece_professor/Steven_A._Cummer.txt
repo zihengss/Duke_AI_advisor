@@ -1,0 +1,7 @@
+Name: Steven A. Cummer
+Department: Electrical and Computer Engineering
+Short Description: Associate Chair, William H. Younger Distinguished Professor of Engineering
+
+Research Interests:
+Theoretical and experimental electromagnetic problems related to geophysical remote sensing and engineered electromagnetic materials.
+

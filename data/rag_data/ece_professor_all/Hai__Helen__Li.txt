@@ -1,0 +1,49 @@
+Name: Hai "Helen" Li
+Department: Electrical and Computer Engineering
+Short Description: Chair of Electrical and Computer Engineering, Marie Foote Reel E’46 Distinguished Professor
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Purdue University, 2004
+
+Positions:
+Professor in the Department of Electrical and Computer Engineering
+Marie Foote Reel E'46 Distinguished Professor of Electrical and Computer Engineering
+Chair of the Department of Electrical and Computer Engineering
+Professor of Computer Science
+
+Awards:
+Fellow, Executive Leadership in Academic Technology, Engineering and Science (ELATES). Drexel University. 2022
+Fellow. Institute of Electrical and Electronics Engineers (IEEE). 2018
+Distinguished Member. Association for Computing Machinery (ACM). 2018
+Best Paper Award for the paper titled u201cClassification Accuracy Improvement for Neuromorphic Computing Systems with One-level Precision Synapsesu201d. Asia and South Pacific Design Automation Conference (ASPDAC). 2017
+Fulton C. Noss Faculty Fellow. University of Pittsburgh. 2016
+Best Paper Award for the paper titled u201cQuantitative Modeling of Racetrack Memory - A Tradeoff among Area, Performance, and Poweru201d. Asia and South Pacific Design Automation Conference (ASPDAC). 2015
+Air Force Summer Faculty Fellowship Program Award (AF-SFFP). AFRL/RITC. 2015
+Best Paper Award for the paper titled u201cA Weighted Sensing Scheme for ReRAM-based Cross-point Memory Arrayu201d. IEEE Computer Society Annual Symposium on VLSI (ISVLSI). 2014
+Best Paper Award for the paper titled u201cCoordinating Prefetching and STT-RAM based Last-level Cache Management for Multicore Systemsu201d. Proceedings of the 23rd ACM International Conference on Great Lakes Symposium on VLSI (GLSVLSI). 2013
+Air Force Visiting Faculty Research Program (VFRP) Fellowship. AFRL/RIB. 2013
+DARPA Young Faculty Award. Defense Advanced Research Projects Agency (DARPA). 2013
+NSF Career Award. National Science Foundation (NSF). 2012
+Air Force Summer Faculty Fellowship Program Award (AF-SFFP). AFRL/RITC. 2011
+Best Paper Award for the paper titled u201cCombined Magnetic- and Circuit-level Enhancements for the Nondestructive Self-Reference Scheme of STT-RAMu201d. ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED). 2010
+Best Paper Award for the paper titled u201cDesign Margin Exploration of Spin-Torque Transfer RAM (SPRAM)u201d. the 9th International Symposium on Quality Electronic Design (ISQED). 2008
+
+Courses Taught:
+ECE 891: Internship
+ECE 661: Computer Engineering Machine Learning and Deep Neural Nets
+ECE 550D: Fundamentals of Computer Systems and Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+
+Publications:
+Li Z, Zheng Q, Ku J, Taylor B, Li H.TFSRAM: A 249.8TOPS/W Timing-to-First-Spike Compute-in-Memory Neuromorphic Processing Engine With Twin-Column SRAM Synapses. IEEE Transactions on Circuits and Systems for Artificial Intelligence. 2024 Sep;1(1):26–36.
+Kim B, Li H, Chen Y.Processing-in-Memory Designs Based on Emerging Technology for Efficient Machine Learning Acceleration. In: Proceedings of the ACM Great Lakes Symposium on VLSI, GLSVLSI. 2024. p. 614–9.
+Krestinskaya O, Fouda ME, Benmeziane H, El Maghraoui K, Sebastian A, Lu WD, et al.Neural architecture search for in-memory computing-based deep learning accelerators. Nature Reviews Electrical Engineering. 2024 May 20;1(6):374–90.
+Li S, Wang Y, Hanson E, Chang A, Seok Ki Y, Li H, et al.NDRec: A Near-Data Processing System for Training Large-Scale Recommendation Models. IEEE Transactions on Computers. 2024 May 1;73(5):1248–61.
+Wang B, Lin M, Zhou T, Zhou P, Li A, Pang M, et al.Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function. In: WSDM 2024 - Proceedings of the 17th ACM International Conference on Web Search and Data Mining. 2024. p. 693–701.

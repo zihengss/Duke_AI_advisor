@@ -1,0 +1,4 @@
+COMPSCI  321
+Undergraduate Level. Introduction to analysis of real-world networks and generated graphs via matrix representation, connection and computation. Graphs and networks are characterized, analyzed and categorized by combinatorial, algebraic and probabilistic measures of connectivity and centrality. Probabilistic graph categories include the small-world network model, the scale-free network model as well as the traditional Erdos–Rényi model. Prerequisites: Math 212 or equivalent; Math 216, 218D or 221 or equivalent; CompSci 101L or equivalent.
+Prerequisites
+Prerequisite: Math 212 and (Math 216, 218D, or 221) and (Computer Science 101L or 201)

@@ -1,0 +1,31 @@
+Name: Huanqian Loh
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+Quantum information science, quantum simulation, neutral atom arrays
+
+Bio:
+Huanqian (Hazel) Loh is an Assistant Professor at both the ECE and Physics departments. She leads a team that builds large defect-free neutral atom arrays for quantum simulation and quantum computation. As a Principal Investigator, Huanqian has been recognized as a L'Oreal-UNESCO For Women In Science International Rising Talent and has served on the World Economic Forum Global Future Council on Quantum Computing. In July 2024, Huanqian moved her team from the National University of Singapore to join the Duke Quantum Center.
+
+Education:
+Ph.D. University of Colorado, Boulder, 2013
+
+Positions:
+Assistant Professor of Electrical and Computer Engineering
+Assistant Professor of Physics
+Member of the Duke Quantum Center
+
+Awards:
+
+
+Courses Taught:
+PHYSICS 264L: Optics and Modern Physics
+
+Publications:
+Zhao L, Datla PR, Tian W, Aliyu MM, Loh H.Observation of quantum thermalization restricted to Hilbert space
+  fragments. 2024.
+Zhao L, Lee MDK, Aliyu MM, Loh H.Floquet-tailored Rydberg interactions.Nature communications. 2023 Nov;14(1):7128.
+Shen R, Chen T, Aliyu MM, Qin F, Zhong Y, Loh H, et al.Proposal for Observing Yang-Lee Criticality in Rydberg Atomic Arrays.Physical review letters. 2023 Aug;131(8):080403.
+Zhao L, Lee MDK, Aliyu MM, Loh H.Floquet-Tailored Rydberg Interactions. 2023.
+Becher C, Gao W, Kar S, Marciniak CD, Monz T, Bartholomew JG, et al.2023 roadmap for materials for quantum technologies. Materials for Quantum Technology. 2023 Mar 1;3(1).

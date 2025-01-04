@@ -1,4 +1,0 @@
-COMPSCI 103L: computing-and-brain
-Introductory programming based on problems in neuroscience. Provides foundational skills for using computers to collect and analyze neuroscience data. Study of how computational processes are implemented by information-processing entities: both brains and computers. Python programming to generate sensory stimuli and collect/analyze behavioral and neural data. Scientific and Software Engineering best practices for conducting and verifying neuroscience experiments. Not open to students who have taken Computer Science 101. Prerequisite: Neuroscience 101/Psychology 106 or Neuroscience 102/Psychology 107.
-Prerequisites
-Pre-Req: NEUROSCI 101/PSY 106 or NEUROSCI 102/PSY 107; not open to students who have taken COMPSCI 101

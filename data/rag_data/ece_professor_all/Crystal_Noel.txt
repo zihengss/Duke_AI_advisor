@@ -1,0 +1,36 @@
+Name: Crystal Noel
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+Quantum computing and simulation with trapped ions, integrated photonics for scalable trapped ion systems, and electric-field noise from surfaces
+
+Bio:
+Prof. Noel's research interests include both the technology development for scalable ion trap quantum computers, as well as using existing ion trap quantum computers for relevant demonstrations, tests, and simulations.
+
+Education:
+B.S. Massachusetts Institute of Technology, 2013
+Ph.D. University of California, Berkeley, 2019
+
+Positions:
+Assistant Professor of Electrical and Computer Engineering
+Assistant Professor of Physics
+Member of the Duke Quantum Center
+
+Awards:
+
+
+Courses Taught:
+PHYSICS 152L9D: Introductory Electricity, Magnetism, and Optics (Discussion Component)
+ECE 899: Special Readings in Electrical Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+
+Publications:
+Niroula P, White CD, Wang Q, Johri S, Zhu D, Monroe C, et al.Phase transition in magic with random quantum circuits. Nature Physics. 2024 Nov 1;20(11):1786–92.
+Paul A, Noel C.Ion-chain sympathetic cooling and gate dynamics. Physical Review Applied. 2024 Oct 1;22(4).
+Paul A, Noel C.Analysis of ion chain sympathetic cooling and gate dynamics. 2024.
+Sterk JD, Blain MG, Delaney M, Haltli R, Heller E, Holterhoff AL, et al.Multi-junction surface ion trap for quantum computing. 2024.
+Lewis L, Zhu D, Gheorghiu A, Noel C, Katz O, Harraz B, et al.Experimental implementation of an efficient test of quantumness. Physical Review A. 2024 Jan 1;109(1).

@@ -1,0 +1,5 @@
+Course Code: ECE 341L
+Course Name: Solar Cells
+
+Description:
+A broad overview of solar cells, including solar radiation, device theory, materials options, device fabrication and characterization, and system-level issues. Students participate in hands-on laboratory exercises related to the fabrication and characterization of organic, photovoltaic solar cells. Prerequisite: Physics 152L or equivalent. Instructor: Brown or Stiff-Roberts

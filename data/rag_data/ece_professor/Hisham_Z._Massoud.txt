@@ -1,0 +1,7 @@
+Name: Hisham Z. Massoud
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Ultrathin gate dielectrics for CMOS ULSI – the technology, physics, modeling, simulation, and characterization of ultrathin-oxide MOSFETs
+

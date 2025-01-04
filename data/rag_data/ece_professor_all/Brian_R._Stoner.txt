@@ -1,0 +1,29 @@
+Name: Brian R. Stoner
+Department: Electrical and Computer Engineering
+Short Description: Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. North Carolina State University, 1993
+
+Positions:
+Research Professor in the Department of Electrical and Computer Engineering
+Affiliate of the Duke Center for International Development
+
+Awards:
+
+
+Courses Taught:
+
+
+Publications:
+Hill L, Wolter S, Pluer WT, Rogers T, Johnson J, Miller GH, et al.Designing Pilot Treatment Systems for Evaluation of Passive Nitrogen and Phosphorus Filtration in Stormwater. In: 2024 Systems and Information Engineering Design Symposium, SIEDS 2024. 2024. p. 130–5.
+von Windheim T, Gilchrist KH, Parker CB, Hall S, Carlson JB, Stokes D, et al.Proof-of-Concept Vacuum Microelectronic NOR Gate Fabricated Using Microelectromechanical Systems and Carbon Nanotube Field Emitters.Micromachines. 2023 Apr;14(5):973.
+Welling CM, Singleton DR, Haase SB, Browning CH, Stoner BR, Gunsch CK, et al.Predictive values of time-dense SARS-CoV-2 wastewater analysis in university campus buildings.The Science of the total environment. 2022 Aug;835:155401.
+Grego S, Welling CM, Miller GH, Coggan PF, Sellgren KL, Hawkins BT, et al.A hands-free stool sampling system for monitoring intestinal health and disease.Sci Rep. 2022 Jun 27;12(1):10859.
+Mercer E, Usher SP, McAdam EJ, Stoner B, Bajón-Fernández Y.Rheological characterisation of synthetic and fresh faeces to inform on solids management strategies for non-sewered sanitation systems.Journal of environmental management. 2021 Dec;300:113730.

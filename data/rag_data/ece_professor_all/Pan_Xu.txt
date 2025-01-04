@@ -1,0 +1,35 @@
+Name: Pan Xu
+Department: Biostatistics & Bioinformatics, Division of Integrative Genomics
+Short Description: Assistant Professor of Biostatistics & Bioinformatics
+
+Research Interests:
+Artificial Intelligence, Data Science, Optimization, Reinforcement Learning, and High Dimensional Statistics
+
+Bio:
+My research is centered around Machine Learning, with broad interests in the areas of Artificial Intelligence, Data Science, Optimization, Reinforcement Learning, High Dimensional Statistics, and their applications to real-world problems including Bioinformatics and Healthcare. My research goal is to develop computationally- and data-efficient machine learning algorithms with both strong empirical performance and theoretical guarantees.
+
+Education:
+Ph.D. University of California, Los Angeles, 2021
+
+Positions:
+Assistant Professor of Biostatistics & Bioinformatics
+Assistant Professor of Computer Science
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+COMPSCI 391: Independent Study
+BIOSTAT 825: Foundation of Reinforcement Learning
+
+Publications:
+Tang C, Liu Z, Xu P.Robust Offline Reinforcement Learning with Linearly Structured
+  $f$-Divergence Regularization. 2024.
+Wang R, Yang Y, Liu Z, Zhou D, Xu P.Return Augmented Decision Transformer for Off-Dynamics Reinforcement
+  Learning. 2024.
+Liu Z, Wang W, Xu P.Upper and Lower Bounds for Distributionally Robust Off-Dynamics
+  Reinforcement Learning. 2024.
+Xu P.Efficient and robust sequential decision making algorithms. AI Magazine. 2024 Sep 1;45(3):376–85.
+Yang Y, Xu P.Pre-trained Language Models Improve the Few-shot Prompt Ability of
+  Decision Transformer. 2024.

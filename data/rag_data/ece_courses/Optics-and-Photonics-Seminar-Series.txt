@@ -1,0 +1,5 @@
+Course Code: ECE 549
+Course Name: Optics and Photonics Seminar Series
+
+Description:
+Weekly seminar on the current research topics in the field of optics and photonics.

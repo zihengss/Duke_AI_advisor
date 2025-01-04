@@ -1,0 +1,5 @@
+Course Code: ECE 650K
+Course Name: Systems Programming and Engineering
+
+Description:
+Focuses on a range of topics that are central to both the design of operating systems and the programming system-level software. Students will apply knowledge of basic concepts in operating systems, networking, and programming towards these two areas. Topics covered will include concurrency, process management, hypervisors, networking, security, databases, and file systems. Students will be expected to demonstrate their understanding in these areas through a series of programming assignments covering these topics. Taught at Duke Kunshan University in Kunshan, China. Prerequisite: ECE 550K and ECE 551K.

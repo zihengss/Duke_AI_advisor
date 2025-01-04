@@ -1,0 +1,2 @@
+COMPSCI  201
+Analysis, use, and design of data structures and algorithms using an object-oriented language like Java to solve computational problems. Emphasis on abstraction including interfaces and abstract data types for lists, trees, sets, tables/maps, and graphs. Implementation and evaluation of programming techniques including recursion. Intuitive and rigorous analysis of algorithms. Prerequisite: Computer Science 101, 102, or 116, or Engineering 103L, or equivalent.

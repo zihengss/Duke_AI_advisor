@@ -1,0 +1,30 @@
+Name: Loren W. Nolte
+Department: Electrical and Computer Engineering
+Short Description: Professor Emeritus in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Bayesian approach to signal detection, classification, estimation, tracking and decision and sensor fusion. Applications in ocean acoustics, and in medical imaging for cancer research.
+
+Bio:
+Loren Nolte is Professor of Electrical and Computer Engineering with a secondary appointment as Professor of Biomedical Engineering. He received his PhD in Electrical Engineering from the University of Michigan, AArbor. His current research interests are in signal detection and estimation theory with applications to ocean acoustics, biomedical statistical image processing, and optimal decision fusion.
+
+Education:
+B.S.E.E. Northwestern University, 1956
+M.S.E.E. University of Michigan, Ann Arbor, 1960
+Ph.D. University of Michigan, Ann Arbor, 1965
+
+Positions:
+Professor Emeritus in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 581: Random Signals and Noise
+
+Publications:
+Xian Y, Sun X, Liao W, Zhang Y, Nowacek D, Nolte L.Intrinsic structure study of whale vocalizations. In: OCEANS 2016 MTS/IEEE Monterey, OCE 2016. 2016.
+Kiarashi N, Nolte LW, Lo JY, Segars WP, Ghate SV, Solomon JB, et al.Impact of breast structure on lesion detection in breast tomosynthesis, a simulation study.J Med Imaging (Bellingham). 2016 Jul;3(3):035504.
+Kiarashi N, Nolte AC, Sturgeon GM, Segars WP, Ghate SV, Nolte LW, et al.Development of realistic physical breast phantoms matched to virtual breast phantoms based on human subject data.Med Phys. 2015 Jul;42(7):4116–26.
+Kiarashi N, Nolte LW, Lo JY, Segars WP, Ghate SV, Samei E.The impact of breast structure on lesion detection in breast tomosynthesis. In: Progress in Biomedical Optics and Imaging - Proceedings of SPIE. 2015.
+Kiarashi N, Lo JY, Lin Y, Ikejimba LC, Ghate SV, Nolte LW, et al.Development and application of a suite of 4-D virtual breast phantoms for optimization and evaluation of breast imaging systems.IEEE Trans Med Imaging. 2014 Jul;33(7):1401–9.

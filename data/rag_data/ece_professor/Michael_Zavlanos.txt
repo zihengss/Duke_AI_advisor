@@ -1,0 +1,8 @@
+Name: Michael Zavlanos
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Research Interests:
+Control theory, optimization, and learning
+in particular, robotics and autonomous systems, networked and distributed control systems, and cyber-physical systems.
+

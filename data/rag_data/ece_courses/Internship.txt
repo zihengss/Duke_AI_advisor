@@ -1,0 +1,5 @@
+Course Code: ECE 891
+Course Name: Internship
+
+Description:
+Student gains practical electrical and computer engineering experience by taking a job in industry and writing a report about this experience. May be repeated with consent of the advisor and the director of graduate studies. A full-time internship is available to ECE graduate students if it allows them to gain practical experience in a work environment related to their academic training and enhances their overall academic experience and, for students on F-1 Visa, their employment prospects once they return to their home country. Requires prior consent from the student's advisor and from the director of graduate studies. Credit/no credit grading only.

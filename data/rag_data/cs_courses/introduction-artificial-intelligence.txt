@@ -1,0 +1,4 @@
+COMPSCI  370D
+Algorithms and representations used in artificial intelligence. Introduction and implementation of algorithms for search, planning, decision, theory, logic, Bayesian networks, robotics and machine learning.
+Prerequisites
+Prerequisite: CompSci 201 and one of the following: CompSci 230, CompSci 232, 200-level Mathematics course, or 200-level Statistical Science course

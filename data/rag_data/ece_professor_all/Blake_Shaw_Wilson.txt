@@ -1,0 +1,34 @@
+Name: Blake Shaw Wilson
+Department: Head and Neck Surgery & Communication Sciences
+Short Description: Adjunct Professor in the Department of Head and Neck Surgery & Communication Sciences
+
+Research Interests:
+
+
+Bio:
+Prof. Wilson is the Director of the Duke Hearing Center and is an Adjunct or Consulting Professor in each of three departments at Duke: Head and Neck Surgery & Communication Sciences, Biomedical Engineering, and Electrical and Computer Engineering. He has been involved in the development of the cochlear implant (CI) for four decades and is the inventor of many of the signal processing strategies used with the present-day CIs. One of his papers, in the journal Nature, is the most highly cited publication in the principal field of CIs. He also has become keenly interested in global hearing healthcare and presently is the Chair of the Lancet Commission on Hearing Loss. He or he and his teams or colleagues have been recognized with a high number of awards and honors, including the 2015 Russ Prize, “for engineering cochlear implants that allow the deaf to hear,” and the 2013 Lasker~DeBakey Award, “for the development of the modern cochlear implant – a device that bestows hearing to individuals with profound deafness.” The Russ Prize is the world’s top honor for bioengineering and the Lasker Awards are second only to the Nobel Prize in Physiology or Medicine for recognizing advances in medicine and medical science. Prof. Wilson is a recipient of the Distinguished Alumni Award from the Pratt School of Engineering at Duke (in 2007) and from the University as a whole (in 2019; the 42nd recipient of that Award). Additionally, he is a member of the USA’s National Academy of Engineering and is a Fellow of the Institute of Electrical and Electronics Engineers, the Acoustical Society of America, and the National Academy of Inventors.
+
+Education:
+B.S.E.E. Duke University, 1974
+D.Sc. University of Warwick (United Kingdom), 2013
+D.Eng. University of Technology Sydney (Australia), 2014
+Ph.D. Duke University, 2015
+
+Positions:
+Adjunct Professor in the Department of Head and Neck Surgery & Communication Sciences
+Adjunct Professor in the Department of Electrical and Computer Engineering
+Scholar in Residence in the Pratt School of Engineering
+Affiliate, Duke Global Health Institute
+
+Awards:
+
+
+Courses Taught:
+
+
+Publications:
+Stockton MA, Francis HW, West JS, Stelmach RD, Troutman Adams E, Kraemer JD, et al.Development of Measures for d/Deaf and Hard of Hearing Stigma: Introduction to the Special Supplement on Stigma Measurement Tools.Ear Hear. 2024 Sep;45(Suppl 1):4S-16S.
+Patterson RH, Suleiman O, Hapunda R, Wilson B, Chadha S, Tucci D.Towards universal access: A review of global efforts in ear and hearing care.Hear Res. 2024 Apr;445:108973.
+Prasad K, Borre ED, Dillard LK, Ayer A, Der C, Bainbridge KE, et al.Priorities for hearing loss prevention and estimates of global cause-specific burdens of hearing loss: a systematic rapid review.Lancet Glob Health. 2024 Feb;12(2):e217–25.
+Borre ED, Kaalund K, Frisco N, Zhang G, Ayer A, Kelly-Hedrick M, et al.The Impact of Hearing Loss and Its Treatment on Health-Related Quality of Life Utility: a Systematic Review with Meta-analysis.J Gen Intern Med. 2023 Feb;38(2):456–79.
+Borre ED, Ayer A, Der C, Ibekwe T, Emmett SD, Dixit S, et al.Validation of the Decision model of the Burden of Hearing loss Across the Lifespan (DeciBHAL) in Chile, India, and Nigeria.EClinicalMedicine. 2022 Aug;50:101502.

@@ -1,0 +1,38 @@
+Name: Natalia Litchinitser
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Nanophotonics
+Photonic Metamaterials
+Nonlinear Optics
+Fiber Optics
+Photonic Crystal Fibers
+
+Bio:
+Litchinitser holds a Ph.D. Electrical Engineering from the Illinois Institute of Technology. Her primary focus is on metamaterials that manipulate the visible portion of the electromagnetic spectrum. Litchinitser began her work with metamaterials as a research scientist at the University of Michigan, and joined the faculty at the University of Buffalo in 2008. Over the next decade, she became one of the leading experts in optical metamaterials. Currently, Litchinitser’s research focuses on topological photonics, which seek to direct light around tight corners using tiny waveguides that prevent photons from scattering. She is Fellow of the American Physical Society (APS), a Fellow of the Optical Society of America (OSA), and a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE).
+
+Education:
+Ph.D. Illinois Institute of Technology, 1997
+
+Positions:
+Professor of Electrical and Computer Engineering
+Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Awards:
+
+
+Courses Taught:
+PHYSICS 495: Thesis Independent Study
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 545: Foundations of Nanoelectronics & Nanophotonics
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+
+Publications:
+Gao J, Vincenti MA, Frantz J, Clabeau A, Qiao X, Feng L, et al.Near-infrared to ultra-violet frequency conversion in chalcogenide metasurfaces.Nature communications. 2021 Oct;12(1):5833.
+Shalaev MI, Walasik W, Tsukernik A, Xu Y, Litchinitser NM.Robust topologically protected transport in photonic crystals at telecommunication wavelengths.Nature nanotechnology. 2019 Jan;14(1):31–4.
+Shalaev MI, Walasik W, Tsukernik A, Xu Y, Litchinitser NM.Author Correction: Robust topologically protected transport in photonic crystals at telecommunication wavelengths.Nature nanotechnology. 2019 Jan;14(1):98.

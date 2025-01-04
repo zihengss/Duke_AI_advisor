@@ -1,2 +1,0 @@
-COMPSCI 534: computational-complexity
-Turing machines, undecidability, recursive function theory, complexity measures, reduction and completeness, NP, NP-Completeness, co-NP, beyond NP, relativized complexity, circuit complexity, alternation, polynomial time hierarchy, parallel and randomized computation, algebraic methods in complexity theory, communication complexity. Prerequisite: Computer Science 334 or equivalent.

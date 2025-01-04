@@ -1,0 +1,7 @@
+Name: Kenneth R Brown
+Department: Electrical and Computer Engineering
+Short Description: Michael J. Fitzpatrick Distinguished Professor of Engineering
+
+Research Interests:
+Quantum error correction, quantum control, quantum computer architecture, ion trap quantum computing, and the spectroscopy of sympathetically cooled molecular ions
+

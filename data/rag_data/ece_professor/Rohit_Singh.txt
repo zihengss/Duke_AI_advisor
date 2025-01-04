@@ -1,0 +1,7 @@
+Name: Rohit Singh
+Department: Biostatistics & Bioinformatics, Division of Biostatistics
+Short Description: Assistant Professor of Biostatistics & Bioinformatics
+
+Research Interests:
+Drug discoveries have been instrumental in improving global health over the last century, but the median drug now takes about 10 years to bring to market and costs over a billion dollars to develop. My lab aims to expedite the development of precise diagnostics and therapeutics by applying machine learning. Our current work is broadly along two directions. Along the first direction, we use single-cell multiomics to discover regulatory mechanisms governing the interaction between the epigenome, transcription factors, and target genes. This approach relies on methodological innovation, developing new Granger causal inference techniques to capitalize on the “parallax” between simultaneous but separate measures of cell state. In the other direction, we apply large language models to model protein interaction and function. These protein language models enable powerful new approaches to predicting and understanding protein-protein and protein-drug interactions.
+

@@ -1,0 +1,70 @@
+Name: Shaundra Daily
+Department: Electrical and Computer Engineering
+Short Description: Cue Family Professor of the Practice
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Massachusetts Institute of Technology, 2010
+
+Positions:
+Cue Family Professor of the Practice
+Professor of the Practice in the Department of Electrical and Computer Engineering
+Faculty Director of Duke Technology Scholars
+Professor of the Practice of Computer Science
+Core Faculty in Innovation & Entrepreneurship
+
+Awards:
+Educator of the Year. ACHI Magazine. 2022
+Program of the Year. CoNECD Conference. 2022
+North Carolina Black STEM Leaders. Governor Roy Cooper. 2022
+Capers and Marion McDonald Award for Excellence in Mentoring and Advising. Pratt School of Engineering. 2021
+Undergraduate Mentor of the Year. Mary Lou William Center for Black Culture. 2020
+Extraordinary Educator Award . Delta Alpha Pi. 2015
+Technology, Instruction, Cognition and Learning Early Career Research Award . American Education Research Association. 2015
+Emerging Scholar . Diverse Issues in Higher Education . 2013
+Epsilon Award - Most Promising Technologist . Black Data Processing Association. 2013
+Scholar . Clemson Institute for the Advancement of Healthcare . 2012
+Fellow. Samsung. 2007
+Fellow. Stanford University - LIFE Center. 2007
+Graduate Community Fellow - Women's Initiatives. Massachusetts Institute of Technology . 2006
+Fellow. Delta Airlines. 2003
+Sean A. Pittman Award for Outstanding Service to the African American Community . Florida State University. 2001
+Torchbearer. National Society of Black Engineers . 2000
+Member. Tau Beta Pi. 2000
+Seminole Torchbearer. Florida State University . 1998
+
+Courses Taught:
+UNIV 104D: Quad Course: The Art and Science of What 'Works' In Life
+RACESOC 796T: Bass Connections Race & Society Research Team
+RACESOC 795T: Bass Connections Race & Society Research Team
+RACESOC 398T: Bass Connections Race & Society Research Team
+RACESOC 397T: Bass Connections Race & Society Research Team
+RACESOC 396T: Bass Connections Race & Society Research Team
+RACESOC 395T: Bass Connections Race & Society Research Team
+PSY 232: Quad Course: The Art and Science of What 'Works' In Life
+ME 491: Special Projects in Mechanical Engineering
+HOUSECS 59: House Course
+EGR 393: Research Projects in Engineering
+EGR 190S: Special Topics
+EGR 101L: Engineering Design and Communication
+EDUC 290S: Selected Topics
+ECE 899: Special Readings in Electrical Engineering
+ECE 653: Human-Centered Computing
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+COMPSCI 653: Human-Centered Computing
+COMPSCI 394: Research Independent Study
+COMPSCI 391: Independent Study
+
+Publications:
+Leonard AE, Daily SB, Jörg S, Babu SV.Coding moves: Design and research of teaching computational thinking through dance choreography and virtual interactions. Journal of Research on Technology in Education. 2021 Jan 1;53(2):159–77.
+Brinkley J, Posadas B, Sherman I, Daily SB, Gilbert JE.An Open Road Evaluation of a Self-Driving Vehicle Human–Machine Interface Designed for Visually Impaired Users. International Journal of Human-Computer Interaction. 2019 Jul 3;35(11):1018–32.
+Daily S, James MT, Cherry D, Porter JJ, Darnell SS, Isaac J, et al.Affective Computing: Historial Foundations, Current Applications, and Future Trends. In: Jeon M, editor. Emotions and Affect in Human Factors and Human-Computer Interaction. Academic Press; 2017.
+Parmar D, Babu SV, Lin L, Jörg S, D’Souza N, Leonard AE, et al.Can embodied interaction and virtual peer customization in a virtual programming environment enhance computational thinking?In: Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT), 2016. IEEE; 2016. p. 1–2.
+Roy T, Hodges LF, Daily SB, McClendon J.SecondLook: Participatory Design Process to Create a Phone App that Detects Digital Dating Abuse. In: Healthcare Informatics (ICHI), 2016 IEEE International Conference on. IEEE; 2016. p. 320–7.

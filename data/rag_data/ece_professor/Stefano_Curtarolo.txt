@@ -1,0 +1,12 @@
+Name: Stefano Curtarolo
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: Edmund T. Pratt Jr. School Distinguished Professor of Mechanical Engineering and Materials Science
+
+Research Interests:
+Artificial Intelligence Materials Science
+Autonomous Materials Design
+Computational materials science
+High-Entropy Disordered Systems
+Materials for Energy Applications
+Materials for Aerospace Applications. Prof. Curtarolo multidisciplinary research makes use of state-of-the-art techniques from fields like materials science, chemistry, physics, quantum mechanics, mathematics and computer science.
+

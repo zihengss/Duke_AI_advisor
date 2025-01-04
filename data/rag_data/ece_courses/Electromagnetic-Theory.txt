@@ -1,0 +1,5 @@
+Course Code: ECE 571
+Course Name: Electromagnetic Theory
+
+Description:
+The classical theory of Maxwell's equations; electrostatics, magnetostatics, boundary value problems including numerical solutions, currents and their interactions, and force and energy relations. Three class sessions. Prerequisite: Electrical and Computer Engineering 270DL.

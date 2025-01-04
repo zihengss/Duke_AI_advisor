@@ -1,0 +1,41 @@
+Name: Willie John Padilla
+Department: Electrical and Computer Engineering
+Short Description: Dr. Paul Wang Distinguished Professor
+
+Research Interests:
+Theoretical and experimental investigation of electromagnetic metamaterials and metasurfaces, and their application to imaging and sensing at microwave, terahertz, and infrared frequencies
+
+Bio:
+N/A
+
+Education:
+Ph.D. University of California, San Diego, 2004
+
+Positions:
+Dr. Paul Wang Distinguished Professor
+Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+Fellow. Optical Society of America. 2013
+Presidential Early Career Awards for Scientists and Engineers. President of the United States of America. 2009
+
+Courses Taught:
+VMS 325L: Optics and Photonics
+PHYSICS 621: Advanced Optics
+PHYSICS 320L: Optics and Photonics
+MSEG 591: Independent Study
+ECE 899: Special Readings in Electrical Engineering
+ECE 571: Electromagnetic Theory
+ECE 541: Advanced Optics
+ECE 370D: Intermediate Electromagnetic Theory
+ECE 340L: Optics and Photonics
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+BME 552: Advanced Optics
+
+Publications:
+Rozman N, Peng R, Padilla WJ.Deep Inverse Design of an Infrared Metasurface Diffuser. Advanced Optical Materials. 2024 Nov 25;12(33).
+Xu Y, Yang J-Q, Fan K, Wang S, Wu J, Zhang C, et al.Physics-Informed Inverse Design of Programmable Metasurfaces.Advanced science (Weinheim, Baden-Wurttemberg, Germany). 2024 Nov;11(41):e2406878.
+Li W, Barati Sedeh H, Tsvetkov D, Padilla WJ, Ren S, Malof J, et al.Machine Learning for Engineering Meta-Atoms with Tailored Multipolar Resonances. Laser and Photonics Reviews. 2024 Jul 1;18(7).
+Schulz SA, Oulton RF, Kenney M, Alù A, Staude I, Bashiri A, et al.Roadmap on photonic metasurfaces. Applied Physics Letters. 2024 Jun 24;124(26).
+Rozman N, Fan K, Padilla WJ.Symmetry-Broken High-Q Terahertz Quasi-Bound States in the Continuum. ACS Photonics. 2024 May 15;11(5):1893–900.

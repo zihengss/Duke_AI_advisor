@@ -1,0 +1,7 @@
+Name: Willie John Padilla
+Department: Electrical and Computer Engineering
+Short Description: Dr. Paul Wang Distinguished Professor
+
+Research Interests:
+Theoretical and experimental investigation of electromagnetic metamaterials and metasurfaces, and their application to imaging and sensing at microwave, terahertz, and infrared frequencies
+

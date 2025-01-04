@@ -1,0 +1,40 @@
+Name: Vahid Tarokh
+Department: Electrical and Computer Engineering
+Short Description: Rhodes Family Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+Foundations of AI,  Foundations of Signal Processing, Learning Representations, Transfer Learning,  Meta-Learning, Physics Infused Learning, Extreme Value Theory, Dependence Modeling, Hypothesis Testing, Sequential Analysis.
+
+Bio:
+Vahid Tarokh’s research is in pursuing new formulations and approaches to getting the most out of datasets.
+
+Education:
+
+
+Positions:
+Rhodes Family Distinguished Professor of Electrical and Computer Engineering
+Professor of Electrical and Computer Engineering
+
+Awards:
+Member. National Academy of Engineering. 2019
+
+Courses Taught:
+MATH 493: Research Independent Study
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 689: Advanced Topics in Deep Learning
+ECE 685D: Introduction to Deep Learning
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+COMPSCI 676: Advanced Topics in Deep Learning
+COMPSCI 675D: Introduction to Deep Learning
+COMPSCI 590: Advanced Topics in Computer Science
+
+Publications:
+Venkatasubramanian S, Gogineni S, Kang B, Pezeshki A, Rangaswamy M, Tarokh V.Data-driven target localization using adaptive radar processing and convolutional neural networks. IET Radar, Sonar and Navigation. 2024 Oct 1;18(10):1638–51.
+Venkatasubramanian S, Pezeshki A, Tarokh V.Steinmetz Neural Networks for Complex-Valued Data. 2024.
+Le Q, Diao E, Wang X, Tarokh V, Ding J, Anwar A.DynamicFL: Federated Learning with Dynamic Communication Resource
+  Allocation. 2024.
+Kuiper P, Hasan A, Yang W, Ng Y, Bidkhori H, Blanchet J, et al.Distributionally Robust Optimization as a Scalable Framework to
+  Characterize Extreme Value Distributions. 2024.
+Kuiper P, Lin S, Blanchet J, Tarokh V.Generative Learning for Simulation of Vehicle Faults. 2024.

@@ -1,0 +1,51 @@
+Name: Yiran Chen
+Department: Electrical and Computer Engineering
+Short Description: John Cocke Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+rnEmerging memory and storage technologiesrnEmbedded systems, CPS, edge computing, and mobile applicationsrnNeuromorphic computing, deep learning and system securityrnLow power circuit and systemrn
+
+Bio:
+Yiran Chenreceived his B.S. in 1998 and M.S. in 2001 from Tsinghua University, and his Ph.D. in 2005 from Purdue University. In 2010, he joined the University of Pittsburgh as an Assistant Professor. He was promoted to Associate Professor with tenure in 2014, while holding the Bicentennial Alumni Faculty Fellowship. He is currently the John Cocke Distinguished Professor of Electrical and Computer Engineering at Duke University. He is the director of the National Science Foundation (NSF) AI Institute for Edge Computing Leveraging Next-generation Networks (Athena), one of the 25 National AI Institutes in the United States, as well as the NSF Industry-University Cooperative Research Center (IUCRC) for Alternative Sustainable and Intelligent Computing (ASIC), and co-director of the Duke Center for Computational Evolutionary Intelligence (DCEI). His group's research focuses on new memory and storage systems, machine learning and neuromorphic computing systems, and mobile computing. He has supervised or is currently supervising, more than 60 Ph.D. students and 4 Postdocs throughout his academic career. 14 of his Ph.D. students and Postdocs have joined faculties at universities in the United States, Turkey, Hong Kong, and China, including 4 NSF CAREER Awardees.Chen has published one book and more than 600 technical publications and has been granted 96 US patents. He has been honored with 15 paper awards, including two test-of-time awards, and the other 16 best paper nominations from international journals and conferences. He has received numerous awards for his technical contributions and professional services. He is one of only three individuals to have received Technical Achievement Awards from both the IEEE Circuits and Systems Society and the Computer Society, with histories of 75 and 78 years, respectively. He has been a distinguished lecturer for the IEEE Council on Electronic Design Automation (CEDA) and Circuits and Systems Society (CASS), and a distinguished visitor of the IEEE Computer Society (CS). He is a Fellow of the AAAS, ACM, IEEE, and NAI, and currently serves as the chair of ACM SIGDA. He was the Editor-in-Chief of the IEEE Circuits and Systems Magazine from 2020 to 2023 and is the inaugural Editor-in-Chief of the IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI).Chen has served as Chairman of the Board, Independent Director, and in other consultancy roles for several startups. Beyond his academic and professional pursuits, Chen is a fervent advocate for the responsible use of AI technologies and champions academic belonging, openness, freedom, and equality. He is a founding member of the steering committee of the Academic Alliance on AI Policy (AAAIP) and a member of the Asian American Scholar Forum (AASF).
+
+Education:
+Ph.D. Purdue University, 2005
+
+Positions:
+John Cocke Distinguished Professor of Electrical and Computer Engineering
+Professor in the Department of Electrical and Computer Engineering
+Professor of Computer Science
+
+Awards:
+Dean's Award for Excellence in Mentoring. Duke University. 2024
+Distinguished Visitor. IEEE Computer Society . 2024
+Fellow (NAI). National Academy of Inventors. 2023
+Distinguished Lecturer. IEEE Circuits and Systems Society. 2023
+Charles A. Desoer Technical Achievement Award. Institute of Electrical and Electronics Engineers (IEEE), Circuits and Systems Society. 2023
+AAAS Fellow. American Association for the Advancement of Science. 2022
+Edward J. McCluskey Technical Achievement Award. Institute of Electrical and Electronics Engineers (IEEE), Computer Society. 2022
+Stansell Family Distinguished Research Award. Pratt School of Engineering, Duke University. 2022
+Outstanding Electrical and Computer Engineer (OECE) Award. Purdueu2019s School of Electrical and Computer Engineering. 2021
+Clarivate Highly Cited Researchers. Clarivate. 2021
+HPCA Hall of Fame. IEEE Computer Society, Technical Committee on Computer Architecture. 2020
+ACM Fellow. Association for Computing Machinery. 2020
+Distinguished Lecturer. IEEE Council on Electronic Design Automation. 2018
+IEEE Fellow. Institute of Electrical and Electronics Engineers. 2018
+Outstanding New Faculty Award . ACMu2019s Special Interest Group on Design Automation (SIGDA). 2014
+National Science Foundation CAREER Awards - Multiple Sciences. National Science Foundation (NSF). 2013
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 661: Computer Engineering Machine Learning and Deep Neural Nets
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+COMPSCI 393: Research Independent Study
+
+Publications:
+Zheng Q, Li Z, Ku J, Wang Y, Taylor B, Fan D, et al.Improving the Efficiency of In-Memory-Computing Macro with a Hybrid Analog-Digital Computing Mode for Lossless Neural Network Inference. In: Proceedings - Design Automation Conference. 2024.
+Zhang F, Sridharan A, Tsai W, Chen Y, Wang SX, Fan D.Efficient Memory Integration: MRAM-SRAM Hybrid Accelerator for Sparse On-Device Learning. In: Proceedings - Design Automation Conference. 2024.
+Chen H, Wang Y, Cargnini V, Soltaniyeh M, Li D, Sun G, et al.ICGMM: CXL-enabled Memory Expansion with Intelligent Caching Using Gaussian Mixture Model. In: Proceedings - Design Automation Conference. 2024.
+Ku JHC, Zhang J, Shan H, Samudrala S, Wu J, Zheng Q, et al.ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM. In: Proceedings - Design Automation Conference. 2024.
+Roman-Vicharra C, Chen Y, Hu J.Flip-Flop Centric Incremental Placement for Simultaneous Timing and Clock Network Power Optimization. In: MLCAD 2024 - Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning for CAD. 2024.

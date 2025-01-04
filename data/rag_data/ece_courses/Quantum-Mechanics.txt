@@ -1,0 +1,5 @@
+Course Code: ECE 521
+Course Name: Quantum Mechanics
+
+Description:
+Discussion of wave mechanics including elementary applications, free particle dynamics, Schrödinger equation including treatment of systems with exact solutions, and approximate methods for time-dependent quantum mechanical systems with emphasis on quantum phenomena underlying solid-state electronics and physics. Prerequisite: Mathematics 216 or equivalent.

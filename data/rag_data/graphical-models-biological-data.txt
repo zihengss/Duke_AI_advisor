@@ -1,2 +1,0 @@
-COMPSCI 763: graphical-models-biological-data
-** available as of 2024-08-15

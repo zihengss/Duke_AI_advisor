@@ -1,0 +1,7 @@
+Name: David R. Smith
+Department: Electrical and Computer Engineering
+Short Description: Associate Chair, James B. Duke Distinguished Professor of ECE
+
+Research Interests:
+Theory, simulation and demonstration of novel electromagnetic metamaterials across the spectrum, from microwave through optical. Applications of metamaterials for antennas and imaging devices, with a focus on security imaging and satellite imaging. General studies on advanced metamaterials and plasmonics, including nonlinear optics, enhanced spontaneous emission, negative refraction, transformation optics, electromagnetic cloaking, and many other topics
+

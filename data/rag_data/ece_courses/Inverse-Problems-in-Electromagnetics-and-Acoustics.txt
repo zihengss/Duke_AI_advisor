@@ -1,0 +1,5 @@
+Course Code: ECE 578
+Course Name: Inverse Problems in Electromagnetics and Acoustics
+
+Description:
+Systematic discussion of practical inverse problems in electromagnetics and acoustics. Hands-on experience with numerical solution of inverse problems, both linear and nonlinear in nature. Comprehensive study includes: discrete linear and nonlinear inverse methods, origin and solution of nonuniqueness, tomography, wave-equation based linear inverse methods, and nonlinear inverse scattering methods. Assignments are project oriented using MATLAB. Prerequisites: Graduate level acoustics or electromagnetics (Electrical and Computer Engineering 571), or consent of instructor. Instructor: Liu

@@ -1,0 +1,5 @@
+Course Code: ECE 676
+Course Name: Lens Design
+
+Description:
+Paraxial and computational ray tracing. Merit functions. Wave and chromatic aberrations. Lenses in photography, microscopy and telescopy. Spectrograph design. Emerging trends in lens system design, including multiple aperture and catadioptric designs and nonimaging design for solar energy collection. Design project management. Each student must propose and complete a design study, including a written project report and a formal design review. Prerequisite: Electrical and Computer Engineering 340L or 375. Instructor: Brady

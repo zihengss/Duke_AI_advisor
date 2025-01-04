@@ -71,7 +71,7 @@ if reload_embedding:
 
 
 # Load model and tokenizer
-model_path = "./models/Qwen2-0.5B-Instruct"
+model_path = "./models/Qwen2.5-1.5B-Instruct"
 model = AutoModelForCausalLM.from_pretrained(
     model_path,
     torch_dtype=torch.float16 if device != torch.device("cpu") else torch.float32,

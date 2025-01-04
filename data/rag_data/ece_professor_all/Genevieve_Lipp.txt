@@ -1,0 +1,39 @@
+Name: Genevieve Lipp
+Department: Electrical and Computer Engineering
+Short Description: Director, First-Year Computing Program, Assistant Professor of the Practice in the Department of ECE
+
+Research Interests:
+
+
+Bio:
+Genevieve Lipp is an Assistant Professor of the Practice in Electrical and Computer Engineering and Mechanical Engineering and Materials Science at Duke University. She has recently taught courses in programming, dynamics, control systems, and robotics. Her primary areas of interest are integrating computing education in the engineering curriculum, mastery learning for programming, and engineering students’ self-efficacy.Lipp earned a B.S.E. in mechanical engineering and a B.A in German at Duke University and an M.S and Ph.D. in mechanical engineering, in the area of nonlinear dynamics from Duke University.
+
+Education:
+Ph.D. Duke University, 2014
+
+Positions:
+Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+Director of Duke Engineering First Year Computing
+Assistant Professor of the Practice in the Social Science Research Institute
+
+Awards:
+
+
+Courses Taught:
+ME 555: Advanced Topics in Mechanical Engineering
+ME 442: Introduction to Robotics and Automation
+ME 344L: Control of Dynamic Systems
+EGR 105L: Computing for Engineers
+EGR 103L: Computational Methods in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 551D: Programming, Data Structures, and Algorithms in C++
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 383: Introduction to Robotics and Automation
+ECE 382L: Control of Dynamic Systems
+
+Publications:
+Oca S, Lipp GM.Board 147: Work-in-Progress: The Effect of Summarizing a Research Article on Students' Area of Robotics Interest. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2023.
+Stach E, Lipp G, McGuire P, Santillan S.IT'S CURLING NIGHT IN NEW ORLEANS!. In: ASME International Mechanical Engineering Congress and Exposition, Proceedings (IMECE). 2023.
+Hilton AD, Lipp GM, Rodger SH.Translation from Problem to Code in Seven Steps. In: CompEd 2019 - Proceedings of the ACM Conference on Global Computing Education. 2019. p. 78–84.
+Hilton AD, Lipp GM, Rodger SH.A technique for translation from problem to code. In: Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE. 2018. p. 375.
+Coonley K, Manturuk K, Miles J, Lipp G, Lorch C, Woodard C, et al.Massive open online laboratories? Ongoing work with microelectronics experiments performed outside of the traditional laboratory. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2016.

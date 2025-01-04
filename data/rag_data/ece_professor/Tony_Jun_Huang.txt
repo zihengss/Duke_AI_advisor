@@ -1,0 +1,7 @@
+Name: Tony Jun Huang
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: William Bevan Distinguished Professor of Mechanical Engineering and Materials Science
+
+Research Interests:
+Acoustofluidics, microfluidics, lab-on-a-chip, biomedical micro-electro-mechanical systems (BioMEMS), optofluidics, plasmofluidics.
+

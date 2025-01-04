@@ -1,0 +1,7 @@
+Name: Jason Amsden
+Department: Electrical and Computer Engineering
+Short Description: Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+My area of interest is in the application of computational and compressive techniques to improve spectroscopic instrument design. Spectroscopic measurements are a convolution of the instrument response and the desired spectrum. Conventional spectroscopic instruments are designed such that the instrument response is a delta function and the measurements are essentially the desired spectrum. However, this design approach can limit the spectrometer performance. I use a different approach by designing the system response to maximize parameters of interest such as throughput and resolution, and then computationally deconvolve the system response from the measurements to achieve a spectrum – thus improving instrument performance.
+

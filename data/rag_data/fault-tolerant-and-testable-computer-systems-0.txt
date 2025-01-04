@@ -1,2 +1,0 @@
-COMPSCI 554: fault-tolerant-and-testable-computer-systems-0
-Technological reasons for faults, fault models, information redundancy, spatial redundancy, backward and forward error recovery, fault-tolerant hardware and software, modeling and analysis, testing, and design for test. Prerequisite: Electrical and Computer Engineering 250D or equivalent.

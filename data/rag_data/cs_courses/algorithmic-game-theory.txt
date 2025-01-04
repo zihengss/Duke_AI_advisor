@@ -1,0 +1,2 @@
+COMPSCI  535
+Study of algorithmic aspects of basic questions in microeconomics. Topics include solution concepts for games, a mechanism design, and auction theory, social choice, and resource allocation and fairness. Recommended prerequisites: Strong foundation in algorithms at the level of CompSci 330 or equivalent.

@@ -1,0 +1,5 @@
+Course Code: ECE 624
+Course Name: Open Quantum Systems
+
+Description:
+Experimental quantum systems are inevitably coupled to their environment. This leads to dissipation and decoherence, which pose challenges for quantum technology but can also be used to drive novel effects. Open quantum systems are described using density operators, quantum channels, and second quantization. We will derive the Lindblad master equation which can explain dissipation, decoherence, and thermalization. Experimental platforms for quantum computation and simulation will be discussed from this viewpoint. Advanced concepts covered may include nonequilibrium phase transitions, quantum trajectories, tensor networks, and the Keldysh formalism. Recommended prerequisite: PHYSICS 464 or ECE 521

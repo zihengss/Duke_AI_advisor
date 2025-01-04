@@ -1,0 +1,25 @@
+Name: Donald Jon Boulia
+Department: Engineering Graduate and Professional Programs
+Short Description: Adjunct Instructor in the Engineering Graduate and Professional Programs
+
+Research Interests:
+
+
+Bio:
+Don currently serves as Chief Technology Officer at Charity Navigator.  Prior to this role, Don was an executive in the cloud business at IBM where he focused on software engineering, product management, and strategy.  Don has over 25 years of experience developing and delivering software in both large enterprises and early-stage startups.  He specializes in cloud platforms, mobile and web user interfaces, middleware, and full-stack deployment.  Don holds a B.S. in Computer Science from the University of Maryland.
+
+Education:
+B.S. University of Maryland, College Park, 1992
+
+Positions:
+Adjunct Instructor in the Engineering Graduate and Professional Programs
+Adjunct Instructor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+
+Publications:
+

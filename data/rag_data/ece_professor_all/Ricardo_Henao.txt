@@ -1,0 +1,38 @@
+Name: Ricardo Henao
+Department: Biostatistics & Bioinformatics, Division of Translational Biomedical
+Short Description: Associate Professor of Biostatistics & Bioinformatics
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Technical University of Denmark (Denmark), 2011
+
+Positions:
+Associate Professor of Biostatistics & Bioinformatics
+Assistant Professor in the Department of Electrical and Computer Engineering
+Member in the Duke Clinical Research Institute
+Member of Duke Center for Applied Genomics and Precision Medicine
+
+Awards:
+
+
+Courses Taught:
+IDS 793: Independent Study
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+
+Publications:
+Iglesias-Ussel MD, O’Grady N, Anderson J, Mitsis PG, Burke TW, Henao R, et al.A Rapid Host Response Blood Test for Bacterial/Viral Infection Discrimination Using a Portable Molecular Diagnostic Platform. Open Forum Infectious Diseases. 2024 Dec 11;
+Huang WA, Engelhard M, Coffman M, Hill ED, Weng Q, Scheer A, et al.A conditional multi-label model to improve prediction of a rare outcome: An illustration predicting autism diagnosis.J Biomed Inform. 2024 Sep;157:104711.
+Jeong HK, Park C, Jiang SW, Nicholas M, Chen S, Henao R, et al.Image Quality Assessment Using Convolutional Neural Network in Clinical Skin Images.JID Innov. 2024 Jul;4(4):100285.
+Wang AT, Henao R, Carin L.Transformer In-Context Learning for Categorical Data. 2024.
+Ashhad M, Henao R.Conditioning on Time is All You Need for Synthetic Survival Data
+  Generation. 2024.

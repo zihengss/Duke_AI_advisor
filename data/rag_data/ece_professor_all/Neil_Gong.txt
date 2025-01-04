@@ -1,0 +1,36 @@
+Name: Neil Gong
+Department: Electrical and Computer Engineering
+Short Description: Associate Professor of Electrical and Computer Engineering
+
+Research Interests:
+Cybersecurity and trustworthy AI
+
+Bio:
+Neil Gong is interested in cybersecurity and trustworthy AI. He received a B.E. from the University of Science and Technology of China (USTC) in 2010 (with the highest honor) and a Ph.D in Computer Science from the University of California, Berkeley in 2015. He has received NSF CAREER Award (2018), Army Research Office Young Investigator Program (YIP) Award (2021), Rising Star Award from the Association of Chinese Scholars in Computing (2020), IBM Faculty Award (2020, 2023), Facebook Research Award (2021), and multiple best paper or best paper honorable mention awards.
+
+Education:
+B.S.E. University of Science and Technology of China (China), 2010
+D.Phil. University of California, Berkeley, 2015
+
+Positions:
+Associate Professor of Electrical and Computer Engineering
+Assistant Professor of Computer Science
+
+Awards:
+
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 663: Machine Learning in Adversarial Settings
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 560: Computer and Information Security
+ECE 356: Computer Network Architecture
+COMPSCI 356: Computer Network Architecture
+
+Publications:
+Wang B, Jia J, Gong NZ.Graph-based Security and Privacy Analytics via Collective Classification with Joint Weight Learning and Propagation. In: ISOC Network and Distributed System Security Symposium (NDSS). 2019.
+Jia J, Gong NZ.Calibrate: Frequency Estimation and Heavy Hitter Identification with Local Differential Privacy via Incorporating Prior Knowledge. In: IEEE International Conference on Computer Communications (INFOCOM). 2019.
+Gong NZ, Liu B.Attribute Inference Attacks in Online Social Networks. ACM Transactions on Privacy and Security. 2018 Feb 28;21(1):1–30.
+Jia J, Gong NZ.AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning. In: USENIX Security Symposium. 2018.
+Jia J, Wang B, Zhang L, Gong NZ.AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields. In: Proceedings of the 26th International Conference on World Wide Web. 2017.

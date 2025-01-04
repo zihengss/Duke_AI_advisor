@@ -1,0 +1,5 @@
+Course Code: ECE 485
+Course Name: Digital Audio and Acoustic Signal Processing
+
+Description:
+Fundamental concepts, theory & practice of digital audio and acoustic signal processing. Concerning the process of transducing, digitizing, filtering, transforming, coding, storing, manipulating, transmitting, distributing, analyzing & reproducing high quality music and other acoustic signals. Topics: signal quantization, discrete-time signal analysis, audio digital filtering and equalization, hearing for audio applications, audio perceptual encoding (e.g. MP3), time and pitch-scale modification, room acoustics, audio spatial effects, 3-D audio rendition, basic microphone array processing. Prerequisite: ECE 280L and one of (Statistical Science 130L or Statistical Science 240L or Mathematics 230 or or Mathematics 340 or ECE 380 or ECE 555 or Engineering 238L).

@@ -1,0 +1,41 @@
+Name: Richard B. Fair
+Department: Electrical and Computer Engineering
+Short Description: Lord-Chandran Distinguished Professor of Engineering
+
+Research Interests:
+Microfluidic systems for lab-on-a-chip applications based on electrowetting technology
+
+Bio:
+Dr. Fair is a Life Fellow of the IEEE and a Fellow of the Electrochemical Society. He has served as Associate Editor of the IEEE Transactions on Electron Devices (1990-1993) and is past Editor-In-Chief of the Proceedings of the IEEE (1993-2000). He received the IEEE Third Millennium Medal in 2000, and the 2003 Solid State Science and Technology Award from the Electrochemical Society. He has published 150 papers in technical journals, contributed chapters to 10 books, edited eight more books, and given over 115 invited talks.Our research group will continue to be driven by applications for lab-on-a-chip technology. While funding for microfluidics devices and science is non-existent, applications in environmental engineering, biosensing, diagnostics, genomics, etc. continue to appear. Thus, we have created strategic alliances with faculty in ECE, CEE, chemistry, genomics, biochemistry, microsystems engineering, and computer science at Duke, DUHS, Harvard and Stanford as part of our new thrusts into applications-driven research in bio-fluidic systems. We have funding to glue these critical pieces together. We have also aligned with Advanced Liquid Logic for the development of a more stable electrowetting platform on which to develop applications. And we are working on an NSF grant with Nan Jokerst’s group and Krish’s on an adaptive lab chip to develop on-chip optical sensing and control. Additionally, we have DARPA funding with Stanford, Harvard, and ALL in developing a genomic engineering platform for synthetic biology. Also, we are starting a new NSF grant on airborne particle sensing with Desert Research Institute.
+
+Education:
+B.S.E.E. Duke University, 1964
+M.S.E.E. Pennsylvania State University, 1966
+Ph.D. Duke University, 1969
+
+Positions:
+Lord-Chandran Distinguished Professor of Engineering
+Professor of Electrical and Computer Engineering
+Affiliate of the Duke Initiative for Science & Society
+
+Awards:
+Life Fellow. IEEE. 2009
+Gordon E. Moore Medal for Outstanding Achievement in Solid State Science and Technology. Electrochemical Society. 2003
+Third Millennium Medal. IEEE. 2000
+Professor James F. Gibbons Achievement Award. 4th International Conference on Advanced Thermal Processing. 1996
+Fellow. Electrochemical Society. 1994
+Fellow. Institute for Electrical and Electronics Engineers. 1990
+
+Courses Taught:
+EGR 393: Research Projects in Engineering
+ECE 533: Biochip Engineering
+ECE 528: Nanoscale IC Chip Technology
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 331L: Fundamentals of Microelectronic Circuits
+
+Publications:
+Bigdeli Y, Preetam S, Scott KC, Zhong Z, Liang TC, Tini Z, et al.Enhanced fluorescent detection of nucleosomes using functionalized magnetic beads on a digital microfluidic device. In: Progress in Biomedical Optics and Imaging - Proceedings of SPIE. 2022.
+Bigdeli Y, Preetam S, Scott KC, Zhong Z, Liang TC, Chakrabarty K, et al.Fluorescent detection of nucleosomes using functionalized magnetic beads on a digital microfluidic device. In: Progress in Biomedical Optics and Imaging - Proceedings of SPIE. 2021.
+Preetam S, Bigdeli Y, Fair RB.ENHANCED BIOMOLECULAR BINDING TO BEADS ON A DIGITAL MICROFLUIDIC DEVICE. In: MicroTAS 2021 - 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences. 2021. p. 959–60.
+Huang S, Connolly J, Khlystov A, Fair RB.Digital Microfluidics for the Detection of Selected Inorganic Ions in Aerosols.Sensors (Basel, Switzerland). 2020 Feb;20(5):E1281.
+Liang TC, Zhong Z, Bigdeli Y, Ho TY, Chakrabarty K, Fair R.Adaptive droplet routing in digital microfluidic biochips using deep reinforcement learning. In: 37th International Conference on Machine Learning, ICML 2020. 2020. p. 6006–16.

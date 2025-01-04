@@ -1,0 +1,7 @@
+Name: Travis L Nicholson
+Department: Physics
+Short Description: Assistant Professor of Physics
+
+Research Interests:
+My research focuses on quantum science experiments with ultracold gases of neutral atoms. My team has pioneered ultracold physics with Main Group III (Group 13) atoms. We were the first to laser cool a Group III atom to near absolute zero, as well as the first to prepare these atoms in pure quantum states and optically trap them. I occasionally do theoretical physics research, and some of my work includes proposals for novel lasers and new quantum sensor designs.
+

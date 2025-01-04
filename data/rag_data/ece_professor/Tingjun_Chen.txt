@@ -1,0 +1,7 @@
+Name: Tingjun Chen
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Wireless networking, next-generation wireless and optical networks, edge cloud and computing, Internet-of-Things (IoT), mobile and embedded systems, platforms and testbeds
+

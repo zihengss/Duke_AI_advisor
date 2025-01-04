@@ -1,0 +1,39 @@
+Name: Stacy L. Tantum
+Department: Electrical and Computer Engineering
+Short Description: Bell-Rhodes Associate Professor of the Practice of Electrical and Computer Engineering
+
+Research Interests:
+Physics-based statistical signal processing • Context-aware machine learning • Domain-informed data scienceExplainable/interpretable machine learning • Privacy-aware machine learning • Bias in machine learningNeuroscience-informed teaching • Metacognition • Cognitive load theory • Mindset-aware learning
+
+Bio:
+Stacy Tantum received the B.S.E.E. degree in Electrical Engineering and Economics from Tufts University in 1994, and the M.S. and Ph.D. degrees in Electrical Engineering, both from Duke University in 1996 and 1998, respectively.  During the summer of 1996 she was a Summer Research Assistant at SACLANT Undersea Research Center in La Spezia, Italy, where she collaborated on her PhD research on passive sonar with an international team of research scientists. Dr. Tantum is currently an Associate Professor of the Practice in Electrical and Computer Engineering at Duke University, where she is also the Faculty Director of the 360 Coaching Program for first-year advising in the Pratt School of Engineering.Her current research interests are in the areas of domain-informed data science and context-aware machine learning, in which notions of privacy, bias, and making data science and machine learning decisions understandable and interpretable are at the forefront. She translates these interests to her efforts to improve student educational experiences by incorporating mindset-aware learning and neuroscience-informed teaching practices, such as metacognition and cognitive load, into the learning experiences she designs.
+
+Education:
+B.S.E.E. Tufts University, 1994
+M.S. Duke University, 1996
+Ph.D. Duke University, 1998
+
+Positions:
+Bell-Rhodes Associate Professor of the Practice of Electrical and Computer Engineering
+Associate Professor of the Practice in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+MATH 238L: Fundamentals of Data Analysis and Decision Science
+EGR 238L: Fundamentals of Data Analysis and Decision Science
+EGR 101L: Engineering Design and Communication
+ECE 580: Introduction to Machine Learning
+ECE 487: System Design for Machine Learning and Signal Processing
+ECE 480: Applied Probability for Statistical Learning
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Publications:
+Santillan ST, Franzoni LP, Tantum SL.Work in Progress: Evaluation of 360 Coaching to Support Whole-Student Advising in the First-Year. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2023.
+Tantum S, Santillan ST, Temiquel-McMillian L, Ganley J.WIP - 360 Coaching to Support Whole-Student Advising in the First-Year. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2022.
+Cunningham P, Matusovich HM, Carrico C, Ellestad RMC, Tantum S, Santillan ST, et al.Supporting Students' Skillful Learning: Lessons Learned from a Faculty Development Workshop. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2021.
+Czarnek N, Morton K, Collins L, Tantum S, Throckmorton C.The impact of time on seizure prediction performance in the FSPEEG database.Epilepsy & behavior : E&B. 2015 Jul;48:79–82.
+Knox M, Tantum S, Collins L.Target detection and identification using synthetic aperture acoustics. In: Proceedings of SPIE - The International Society for Optical Engineering. 2014.

@@ -1,0 +1,5 @@
+Course Code: ECE 559
+Course Name: Advanced Digital System Design
+
+Description:
+Fundamentals of advanced digital system design, and the use of a hardware description language, VHDL, for their synthesis and simulation. System examples include the arithmetic/logic unit, memory, and microcontrollers. Team-based project incorporates engineering standards and realistic constraints, and also considers most of the following: Cost, environmental impact, manufacturability, health and safety, ethics, social and political impact. Prerequisite: [ECE 350L, 230L, 250D, 270DL, and 280L and (Mathematics 353 or 356) and (Statistical Science 130L or Statistical Science 240L or Mathematics 230 or Mathematics 340 or ECE 380 or ECE 555 or EGR 238L) and (Physics 152L or 26) and (Chemistry 101DL or 20 or 21) and ECE 331L (prerequisite or corequisite)] or graduate-student standing.

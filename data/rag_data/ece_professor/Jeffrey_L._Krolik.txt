@@ -1,0 +1,7 @@
+Name: Jeffrey L. Krolik
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Physics-based and statistical signal processing, sensor array processing, radar and sonar systems, pervasive distributed processing
+

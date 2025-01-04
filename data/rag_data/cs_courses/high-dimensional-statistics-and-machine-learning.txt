@@ -1,0 +1,2 @@
+COMPSCI  762
+The goal of this course is to provide motivated Ph.D. and master's students with background knowledge of high-dimensional statistics/machine learning for their research, especially in their methodology and theory development. Discussions cover theory, methodology, and applications. Selected topics in this course include the basics of high-dimensional statistics, matrix and tensor modeling, concentration inequality, nonconvex optimization, applications in genomics, and biomedical informatics. Knowledge in probability, inference, and basic algebra are required.

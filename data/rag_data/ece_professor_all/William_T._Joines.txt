@@ -1,0 +1,36 @@
+Name: William T. Joines
+Department: Electrical and Computer Engineering
+Short Description: Professor Emeritus of Electrical and Computer Engineering
+
+Research Interests:
+Electromagnetic field and wave interactions with materials and structures
+
+Bio:
+William T. Joines earned the BS degree from North Carolina State University, MS, and PhD degrees from Duke University (all in electrical engineering) in 1959, 1961, and 1964, respectively. After high school and before college he served for four years in the United States Air Force (1951-1955) as an airborne radar technician. From 1959 to 1966 he was a Member of the Technical Staff of Bell Telephone Laboratories doing research and development of missile tracking and guidance radar. He joined the Electrical Engineering Department of Duke University as an Assistant Professor in 1966. He was appointed as an Associate Professor in 1968 and a Full Professor in 1979. His current research interests include electromagnetic field and wave interactions with materials and structures. He is a member of the Tau Beta Pi, Eta Kappa Nu, Phi Kappa Phi, and Sigma Xi, honor societies. He is a Life Fellow of the IEEE, a recent recipient of the Outstanding Engineering Educator Award from the IEEE, and the Scientific and Technical Achievement Award presented by the Environmental Protection Agency. He has supervised more than 60 graduate students in their thesis and dissertation research leading to their MS and PhD degrees.
+
+Education:
+B.S.E.E. North Carolina State University, 1959
+M.S.E.E. Duke University, 1961
+Ph.D. Duke University, 1964
+
+Positions:
+Professor Emeritus of Electrical and Computer Engineering
+
+Awards:
+Life Fellow of IEEE. Institute for Electrical and Electronics Engineers. 2008
+
+Courses Taught:
+VMS 325L: Optics and Photonics
+PHYSICS 320L: Optics and Photonics
+ECE 899: Special Readings in Electrical Engineering
+ECE 575: Microwave Electronic Circuits
+ECE 572: Electromagnetic Communication Systems
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 340L: Optics and Photonics
+
+Publications:
+Li J, Wang Y, Liu Z, Xiao P, Li G, Joines WT, et al.MetaFormer-Based Lightweight Neural Network for Massive MIMO CSI Feedback. IEEE Wireless Communications Letters. 2024 Jan 1;
+Li J, Qiu W, Xiao P, Liu Z, Li G, Joines WT, et al.An Adaptive Evolutionary Neural Network-Based Optimization Design Method for Wideband Dual-Polarized Antennas. IEEE Transactions on Antennas and Propagation. 2023 Oct 1;71(10):8165–72.
+Feng N, Wang X, Zhang Y, Hong B, Yang L, Huang Z, et al.Near-unity broadband infrared absorption in a graphene-black phosphorus bimodal triple-layer structure. Optical Materials Express. 2023 Jun 1;13(6):1535–46.
+Fang J, Li J, Xiao P, Dong J, Li G, Du S, et al.Coupling Mode Transformation-Based Dielectric Surface and Metasurface for Antenna Decoupler. IEEE Transactions on Antennas and Propagation. 2023 Jan 1;71(1):1123–8.
+Xiao P, Li J, Qiu Y, Liu Z, Zhang C, Li G, et al.Eigenmode-BLT-Based Method for Calculating the Coupling to Microstrip Antenna Inside a Cavity. IEEE Transactions on Antennas and Propagation. 2022 May 1;70(5):3515–22.

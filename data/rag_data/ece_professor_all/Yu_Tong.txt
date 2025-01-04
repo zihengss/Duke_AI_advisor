@@ -1,0 +1,32 @@
+Name: Yu Tong
+Department: Mathematics
+Short Description: Assistant Professor of Mathematics
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. University of California, Berkeley, 2022
+
+Positions:
+Assistant Professor of Mathematics
+Assistant Professor in the Department of Electrical and Computer Engineering
+Member of the Duke Quantum Center
+
+Awards:
+
+
+Courses Taught:
+
+
+Publications:
+Li H, Tong Y, Gefen T, Ni H, Ying L.Heisenberg-limited Hamiltonian learning for interacting bosons. npj Quantum Information. 2024 Dec 1;10(1).
+Ma M, Flammia ST, Preskill J, Tong Y.Learning $k$-body Hamiltonians via compressed sensing. 2024.
+Berry DW, Tong Y, Khattar T, White A, Kim TI, Boixo S, et al.Rapid initial state preparation for the quantum simulation of strongly
+  correlated molecules. 2024.
+Cai Y, Tong Y, Preskill J.Stochastic Error Cancellation in Analog Quantum Simulation. In: Leibniz International Proceedings in Informatics, LIPIcs. 2024.
+Li J, Tong Y.Exponential Quantum Advantage for Pathfinding in Regular Sunflower
+  Graphs. 2024.

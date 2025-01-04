@@ -1,0 +1,2 @@
+COMPSCI  434
+Introduction to topology from a computational view-point, with a focus on applications. Themes include: basic notions of point-set topology, persistent homology, finding multi-scale topological structure in point cloud data. Algorithmic considerations emphasized. Prerequisite: Mathematics 221 or equivalent.

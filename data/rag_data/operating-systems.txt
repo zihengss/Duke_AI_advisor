@@ -1,2 +1,0 @@
-COMPSCI 510: operating-systems
-Fundamental principles of operating system design applied to state-of-the-art computing environments (multiprocessors and distributed systems) including process management (coscheduling and load balancing), shared memory management (data migration and consistency), and distributed file systems.

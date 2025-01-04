@@ -1,0 +1,5 @@
+Course Code: ECE 587
+Course Name: Information Theory
+
+Description:
+Information theory is the science of processing, transmitting, storing, and using information. This course provides an introduction to mathematical measures of information and their connection to practical problems in communication, compression, and inference. Entropy, mutual information, lossless data compression, channel capacity, Gaussian channels, rate distortion theory, Fisher information. Useful for researchers in a variety of fields, including signal processing, machine learning, statistics, and neuroscience. Appropriate for beginning graduate students in electrical engineering, computer science, statistics, and math with a background in probability.

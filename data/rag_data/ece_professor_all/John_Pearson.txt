@@ -1,0 +1,39 @@
+Name: John Pearson
+Department: Neurobiology
+Short Description: Assistant Professor of Neurobiology
+
+Research Interests:
+
+
+Bio:
+Our lab builds quantitative tools and theories to understand how brains control bodies to learn and survive in a complex world. In particular, we are interested in the process by which organisms like songbirds learn complex motor skills without external reinforcement, the way simple information processing principles can explain the organization of early sensory systems, and how complex behaviors like swimming and grasping are coordinated across the brain. To this end, we also design software tools and algorithm that allow us to model and perturb neural systems in real time.
+
+Education:
+B.S. University of Kentucky, 1999
+Ph.D. Princeton University, 2004
+
+Positions:
+Assistant Professor of Neurobiology
+Assistant Professor of Psychology and Neuroscience
+Assistant Professor in the Department of Electrical and Computer Engineering
+Assistant Research Professor in Neurobiology
+Member of the Center for Cognitive Neuroscience
+
+Awards:
+Early Career Mentoring Award in Basic u2014 Translational Science. Duke University School of Medicine. 2022
+Gordon G. Hammes Faculty Teaching Award. Duke University School of Medicine. 2020
+
+Courses Taught:
+NEUROSCI 755: Interdisciplinary Program in Cognitive Neuroscience (IPCN) Independent Research Rotation
+NEUROSCI 494: Research Independent Study 2
+NEUROSCI 493: Research Independent Study 1
+NEUROBIO 735: Quantitative Approaches in Neurobiology
+NEUROBIO 730: Statistics for Neuroscience
+
+Publications:
+Harmon TC, Madlon-Kay S, Pearson J, Mooney R.Vocalization modulates the mouse auditory cortex even in the absence of hearing.Cell Rep. 2024 Aug 27;43(8):114611.
+O’Neill K, Henne P, Pearson J, De Brigard F.Modeling confidence in causal judgments.J Exp Psychol Gen. 2024 Aug;153(8):2142–59.
+Albuquerque DD, Pearson J.Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based
+  Models. 2024.
+Pearson J, Kumar A.Sophisticated models, minimum descriptions, and the Goldilocks zone of behavior: Comment on "Beyond simple laboratory studies: Developing sophisticated models to study rich behavior" by Maselli et al.Phys Life Rev. 2023 Dec;47:137–8.
+Subramanian D, Pearson JM, Sommer MA.Bayesian and Discriminative Models for Active Visual Perception across Saccades.eNeuro. 2023 Jul;10(7).

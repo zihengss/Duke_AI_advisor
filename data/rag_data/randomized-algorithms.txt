@@ -1,2 +1,0 @@
-COMPSCI 630: randomized-algorithms
-Models of computation, Las Vegas and Monte Carlo algorithms, linearity of expectation, Markov and Chebyshev inequalities and their applications, Chernoff bound and its applications, probabilistic methods, expanders, Markov chains and random walk, electric networks and random walks, rapidly mixing Markov chains, randomized data structures, randomized algorithms for graph problems, randomized geometric algorithms, number theoretic algorithms, RSA cryptosystem, derandomization. Prerequisite: Computer Science 532.

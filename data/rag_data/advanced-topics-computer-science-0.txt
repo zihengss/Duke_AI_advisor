@@ -1,2 +1,0 @@
-COMPSCI 590D: advanced-topics-computer-science-0
-Different advanced topics in Computer Science.

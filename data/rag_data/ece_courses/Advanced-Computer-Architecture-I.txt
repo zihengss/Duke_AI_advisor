@@ -1,0 +1,5 @@
+Course Code: ECE 552
+Course Name: Advanced Computer Architecture I
+
+Description:
+Fundamental aspects of advanced computer architecture design and analysis. Topics include processor design, pipelining, superscalar, out-of-order execution, caches (memory hierarchies), virtual memory, storage systems, simulation techniques, technology trends and future challenges. Prerequisite: Computer Science 250 or Electrical and Computer Engineering 350 or equivalent.

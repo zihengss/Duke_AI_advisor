@@ -1,0 +1,7 @@
+Name: Lisa Wills
+Department: Computer Science
+Short Description: Assistant Professor of Computer Science
+
+Research Interests:
+I enjoy solving difficult problems surrounding computations with the goal to process large volumes of data efficiently. My research interests include computer architecture and microarchitecture, hardware-software co-designs, accelerators, and emerging application domains u2015 especially those in big data analytics such as genomics, graphs, and databases. One of my research goals is to greatly simplify the design, deployment, and usage of custom hardware and to leverage this research in hardware acceleration to advance state-of-the-art research in the healthcare domain as well as other natural sciences.
+

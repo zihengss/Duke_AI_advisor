@@ -1,0 +1,5 @@
+Course Code: ECE 382
+Course Name: Linear Control Systems
+
+Description:
+Analysis and design of feedback control systems. Block diagram and signal flow graph system models. Servomechanism characteristics, steady-state errors, sensitivity to parameter variations and disturbance signals. Time domain performance specifications. Stability. Root locus, Nyquist, and Bode analysis; design of compensation circuits; closed loop frequency response determination. Introduction to time domain analysis and design. Prerequisite: Electrical and Computer Engineering 280L or consent of instructor. Instructor: Gustafson

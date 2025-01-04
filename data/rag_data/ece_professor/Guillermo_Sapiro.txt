@@ -1,0 +1,7 @@
+Name: Guillermo Sapiro
+Department: Electrical and Computer Engineering
+Short Description: James B. Duke Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+Image and video processing, computer vision, computer graphics, computational vision, biomedical imaging, brain imaging, cryo-tomography of viruses, computational tools in cryo-tomography, computational tools in early diagnosis of psychiatric disorders, differential geometry and differential equations, scientific computation, learning and high dimensional data analysis, sparse modeling and dictionary learning, applied mathematics.
+

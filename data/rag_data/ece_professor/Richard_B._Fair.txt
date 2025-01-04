@@ -1,0 +1,7 @@
+Name: Richard B. Fair
+Department: Electrical and Computer Engineering
+Short Description: Lord-Chandran Distinguished Professor of Engineering
+
+Research Interests:
+Microfluidic systems for lab-on-a-chip applications based on electrowetting technology
+

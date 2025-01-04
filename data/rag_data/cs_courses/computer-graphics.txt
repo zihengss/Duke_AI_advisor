@@ -1,0 +1,4 @@
+COMPSCI  344
+Overview, motivation, and history; Graphic software and APIs; coordinate systems and geometric transforms; drawing routines, antialiasing, supersampling; 3d object representation, spatial data structures, constructive solid geometry; hidden-surface-removal algorithms, z-buffer, A-buffer; illumination and shading models, surface details, radiosity; achromatic light, color specification, colorimetry, different color models; graphics pipeline; animation, levels of detail. Prerequisites: Computer Science 201.
+Prerequisites
+Prerequisite: Computer Science 201 or equivalent
