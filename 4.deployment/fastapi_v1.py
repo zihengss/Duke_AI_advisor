@@ -27,8 +27,8 @@ rerank_model = AutoModelForSequenceClassification.from_pretrained(
 ).to(device)
 
 # LLM model
-llm_model = AutoModelForCausalLM.from_pretrained("../models/Qwen2.5-0.5B-Instruct", torch_dtype="auto", device_map="auto").to(device)
-llm_tokenizer = AutoTokenizer.from_pretrained("../models/Qwen2.5-0.5B-Instruct")
+llm_model = AutoModelForCausalLM.from_pretrained("../models/Qwen2.5-0.5B-Finetuned", torch_dtype="auto", device_map="auto").to(device)
+llm_tokenizer = AutoTokenizer.from_pretrained("../models/Qwen2.5-0.5B-Finetuned")
 
 # OpenAI API key
 openai_api_key = os.getenv('API_KEY')
@@ -239,7 +239,6 @@ def process_all(query: QueryRequest):
         else:
             final_prompt = query.user_input
             llm_response = generate_response_openai(GenerateRequest(final_prompt=final_prompt))
-            llm_response = generate_response_qwen(GenerateRequest(final_prompt=final_prompt))
             return {"response":llm_response['response'], "retrieved_docs":retrieved_docs, "reranked_docs":reranked_docs, "model_used":"ChatGPT"}
 
 

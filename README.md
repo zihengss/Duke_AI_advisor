@@ -34,5 +34,5 @@ cd 4.deployment/
 uvicorn fastapi_v1:app --reload  
 
 # frontend
-streamlit run ./deployment/front_end/qwen2_frontend_no_history.py
+streamlit run ./4.deployment/debug_frontend.py
 ```
