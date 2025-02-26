@@ -1,0 +1,36 @@
+Name: Nan Marie Jokerst
+Department: Electrical and Computer Engineering
+Short Description: J. A. Jones Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+Dr. Nan Marie Jokerst is the J. A. Jones Distinguished Professor of Electrical and Computer Engineering at Duke University, and the Executive Director of the Duke Shared Materials Instrumentation Facility, a Duke shared cleanroom and characterization facility. She was the Chair of the Duke Academic Council from 2014-2015 and an Associate Dean in the Pratt School of Engineering for 6 years. She received her BS in Physics from Creighton University in 1982, and her MS and PhD in Electrical Engineering from the University of Southern California in 1984 and 1989, respectively. She is a Fellow of the IEEE, and has served as an elected member of the IEEE Photonics Board of Governors, and as the VP for Conferences and as the VP Technical Affairs, as well as the Atlanta Section President, Vice President, Treasurer, and Secretary, and a member of the IEEE Proceedings Editorial Board. She is a Fellow of Optica (formerly the the Optical Society of America), and has served as Chair of the OSA Engineering Council and as an Associate Editor of Optica. Her awards include an NSF Presidential Young Investigator Award, an IEEE Third Millenium Medal, the IEEE/HP Harriet B. Rigas Medal, and the Alumni in Academia Award for the University of Southern California Viterbi School of Engineering. She also served on the National Academies Board on Global Science and Technology. She has published over 250 refereed journal and conference publications, and has 6 patents.  She is a co-founder of the organization Triangle Women in STEM.
+
+Education:
+B.S. Creighton University, 1982
+M.S.E.E. University of Southern California, 1984
+Ph.D. University of Southern California, 1989
+
+Positions:
+J. A. Jones Distinguished Professor of Electrical and Computer Engineering
+Professor of Electrical and Computer Engineering
+Executive Director of the Shared Materials Infrastructure Facility
+
+Awards:
+Fellows. Institute for Electrical and Electronics Engineers. 2003
+Fellows. Optical Society of America. 2001
+
+Courses Taught:
+EGR 101L: Engineering Design and Communication
+ECE 496: Special Topics in Electrical and Computer Engineering
+ECE 495: Special Topics in Electrical and Computer Engineering
+ECE 449: Sensors and Sensor Interface Design
+
+Publications:
+Khatib O, Tyler T, Padilla WJ, Jokerst NM, Everitt HO.Mapping active strain using terahertz metamaterial laminates. APL Photonics. 2021 Nov 1;6(11).
+Khatib O, Tyler T, Padilla WJ, Jokerst NM, Everitt HO.Strain mapping with THz metamaterial composites. In: Optics InfoBase Conference Papers. 2021.
+Khatib O, Tyler T, Padilla WJ, Jokerst NM, Everitt HO.Strain Mapping with THz Metamaterial Composites. In: International Conference on Infrared, Millimeter, and Terahertz Waves, IRMMW-THz. 2020. p. 317.
+Berube DM, Bogomoletc E, Eng N, Jones JL, Jokerst N.Social science and infrastructure networks and the human–technology interface. Journal of Nanoparticle Research. 2020 Sep 1;22(9).
+Khatib O, Tyler T, Padilla WJ, Jokerst NM, Everitt HO.Strain sensing with THz metamaterial composites. In: Optics InfoBase Conference Papers. 2020.

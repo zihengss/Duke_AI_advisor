@@ -1,0 +1,54 @@
+Name: Douglas Nowacek
+Department: Marine Science and Conservation
+Short Description: Randolph K. Repass and Sally-Christine Rodgers University Distinguished Professor of Conservation Technology in Environment and Engineering
+
+Research Interests:
+Marine mammal behavioral and acoustic ecologyOcean noiseOffshore renewable energy
+
+Bio:
+Sound propagates very efficiently through sea water, and marine mammals take advantage of this medium to communicate and explore their environment. My research is focused on the link between acoustic and motor behavior in marine mammals, primarily cetaceans and manatees, specifically, how they use sound in ecological processes. The cetaceans, or whales and dolphins, are divided into two main groups, the toothed whales (odontocetes) and the baleen whales (mysticetes). One of my specific areas of research is the use of echolocation and foraging behavior in one of the odontocetes, the bottlenose dolphin. Another focus of my current research is the effect(s) of anthropogenic noise on marine mammals.
+
+Education:
+B.A. Ohio Wesleyan University, 1991
+Ph.D. Massachusetts Institute of Technology, 1999
+
+Positions:
+Randolph K. Repass and Sally-Christine Rodgers University Distinguished Professor of Conservation Technology in Environment and Engineering
+Professor in the Division of Marine Science and Conservation
+Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+Sally Connally Hardie Visiting Researcher. University of St. Andrews, Scotland. 2018
+Visiting Scholar. University of Tasmania. 2013
+
+Courses Taught:
+ME 426: Ocean Engineering
+MARSCI 394: Research Independent Study
+MARSCI 393A: Research Independent Study
+MARSCI 393: Research Independent Study
+MARSCI 391A: Independent Study
+MARSCI 323A: Offshore Renewable Energy & Wildlife Conservation
+MARSCI 280LA: Sound in the Sea: Introduction to Marine Bioacoustics
+ENVIRON 899: Master's Project
+ENVIRON 784LA: Sound in the Sea: Introduction to Marine Bioacoustics
+ENVIRON 723A: Offshore Renewable Energy & Wildlife Conservation
+ENVIRON 593: Independent Studies and Projects
+ENVIRON 461: Ocean Engineering
+ENVIRON 394A: Research Independent Study
+ENVIRON 318A: Offshore Renewable Energy & Wildlife Conservation
+ENVIRON 280LA: Sound in the Sea: Introduction to Marine Bioacoustics
+ECS 280LA: Sound in the Sea: Introduction to Marine Bioacoustics
+ECE 784LA: Sound in the Sea: Introduction to Marine Bioacoustics
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 461: Ocean Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 384LA: Sound in the Sea: Introduction to Marine Bioacoustics
+BIOLOGY 784LA: Sound in the Sea: Introduction to Marine Bioacoustics
+BIOLOGY 279LA: Sound in the Sea: Introduction to Marine Bioacoustics
+
+Publications:
+Merrill GB, Swaim ZT, Benaka IG, Bishop AL, Kaney NA, Kuhlman S, et al.Acoustic signature of plastic marine debris mimics the prey items of deep-diving cetaceans.Marine pollution bulletin. 2024 Dec;209(Pt A):117069.
+Boisseau O, Nowacek D, Pabst DA, Roberts J, Blawas A, Clabaugh A, et al.Passive acoustic surveys demonstrate high densities of sperm whales off the mid-Atlantic coast of the USA in winter and spring.Marine environmental research. 2024 Oct;201:106674.
+Allen JA, Cade DE, Casey CB, Weindorf S, Johnston DW, Linsky JMJ, et al.Evidence of sociality and group foraging in Antarctic minke whales (Balaenoptera bonaerensis). Behavioral Ecology and Sociobiology. 2024 May 1;78(5).
+Roberts JJ, Yack TM, Fujioka E, Halpin PN, Baumgartner MF, Boisseau O, et al.North Atlantic right whale density surface model for the US Atlantic evaluated with passive acoustic monitoring. Marine Ecology Progress Series. 2024 Mar 20;732:167–92.
+Blawas AM, Miller LE, Shearer JM, Cioffi WR, Webster DL, Swaim ZT, et al.Aerobic dive limit in short-finned pilot whales Globicephala macrorhynchus: an assessment of behavioral criteria. Marine Ecology Progress Series. 2024 Jan 1;744:161–70.

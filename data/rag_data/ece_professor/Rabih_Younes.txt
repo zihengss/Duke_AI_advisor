@@ -1,0 +1,7 @@
+Name: Rabih Younes
+Department: Electrical and Computer Engineering
+Short Description: Associate Director of Undergraduate Studies, Assistant Professor of the Practice in the Department of ECE
+
+Research Interests:
+Wearable computing, activity recognition, context awareness, machine learning, artificial intelligence, engineering education, and Middle Eastern politics
+

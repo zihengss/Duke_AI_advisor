@@ -1,0 +1,5 @@
+Course Code: ECE 533
+Course Name: Biochip Engineering
+
+Description:
+A problem-solving course in which students consider technology options for a complete lab-on-a-chip design. Lectures cover the basics of analog flow microfluidic devices, digital microfluidic devices, fabrication technologies for discrete devices, system integration issues, and a significant emphasis on biological applications for analysis, sample preparation, and detection issues. Technologies covered will include microfluidic devices, electrophoresis, analytical methods used in genetics, sample preparation methods, and analyte detection. Prerequisites: Biology 201L, Chem 101DL, and Physics 152L (or equivalents).

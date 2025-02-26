@@ -1,0 +1,2 @@
+COMPSCI  527
+Image formation and analysis; feature computation and tracking; image, object, and activity recognition and retrieval; 3D reconstruction from images. Prerequisites: Mathematics 221, 218 or 216; Mathematics 212; Mathematics 230 or Statistical Science 230; Computer Science 101; Computer Science 230.

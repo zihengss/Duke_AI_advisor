@@ -1,0 +1,7 @@
+Name: Xin Li
+Department: Electrical and Computer Engineering
+Short Description: Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Integrated circuits, signal processing and data analytics
+

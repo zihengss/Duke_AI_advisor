@@ -1,0 +1,39 @@
+Name: Jeffrey Glass
+Department: Electrical and Computer Engineering
+Short Description: Hogg Family Director of Engineering Management & Entrepreneurship, Professor of ECE
+
+Research Interests:
+Electronic materials and the associated devices/instruments improved by these materials, especially electrode applications in miniature mass spectrometry, energy conversion and storage and liquid waste disinfection for developing regions. Electrochemical measurements and applications of thin films, including carbon nanotubes, graphene and atomic layer deposited oxides are of particular interest
+
+Bio:
+Jeffrey T. Glass is a Professor in the Department of Electrical and Computer Engineering and Director of the Institute for Enterprise Engineering. He holds the Hogg Family endowed chair in Engineering Management and Entrepreneurship. Formerly, he was the Co-Director of The Institute for the Integration of Management and Engineering at Case Western Reserve University (CWRU) and held the Joseph F. Toot, Jr. endowed chair in the Case School of Engineering. Prior to these university appointments he was the Vice President of R&D for Kobe Steel USA Inc. Jeff received his Bachelors and Masters degrees from Johns Hopkins University, and a Ph.D. in Materials Science and Engineering from the University of Virginia. He also received an MBA from Duke University's Global Executive (GEMBA) program.His current research involves electronic materials and the associated devices/instruments improved by these materials. In particular, miniature mass spectrometer development and engineered systems for waste treatment are systems of focus for his lab. He is also involved in the development of joint educational, research and technology transfer activities related to the intersection of business and technology. He consults and holds advisory board appointments with various companies in materials-related areas and has served as an expert witness in patent litigation. Prior to his appointment at CWRU, he was the Vice President of R&D for Kobe Steel USA Inc. with a focus on electronic materials. Prior to joining Kobe Steel, he was a tenured faculty member in the Department of Materials Science and Engineering at North Carolina State University. He has been involved in the study of Innovation Management in technology-based organizations with a focus on the early stages of technical development and received the 2004 Industrial Research Institute’s Maurice Holland Award for his paper entitled “Managing the Ties Between Central R&D and Business Units.”Jeff's technical research has focused on the growth and characterization of thin films for electronics, including carbon nanotubes, graphene, graphenated carbon nanotubes, diamond, silicon carbide and chalcogenides. Chemical vapor deposition, sputtering, materials analysis and electronic/electrochemical properties are his areas of interest. Miniature mass spectrometers, decentralized waste treatment, smart toilets and photoelectrochemical energy conversion devices are some of the applications his lab focuses on. He has published over 175 papers and book chapters, edited seven books and is a co-inventor on 14 patents. He has been a short course instructor for several professional societies and companies and has organized numerous conferences. He has given over 75 invited presentations in 12 different countries. He served as a member of a Presidential Science Advisor's committee for the assessment of diamond technology in Japan and has received two teaching awards and the National Science Foundation Presidential Young Investigator award. He has held adjunct faculty appointments at North Carolina State University, Case Western Reserve University and the Kenan-Flagler Business School at the University of North Carolina where he has taught executive courses on Managing Innovation.
+
+Education:
+B.S.E. Johns Hopkins University, 1981
+M.Sc.Eng. Johns Hopkins University, 1983
+Ph.D. University of Virginia, 1986
+M.B.A. Duke University, 1999
+
+Positions:
+Professor of Electrical and Computer Engineering
+Co-Director of the Duke Computing Initiative
+Hogg Family Director of Engineering Management and Entrepreneurship
+Director of the Institute for Enterprise Engineering (IEnE)
+Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+Core Faculty in Innovation & Entrepreneurship
+Associate of the Duke Initiative for Science & Society
+
+Awards:
+Stansell Family Distinguished Research Award. Pratt School of Engineering. 2015
+Highly Cited Researcher. Thomson Reuters. 2001
+
+Courses Taught:
+MSEG 591: Independent Study
+EGRMGMT 572: Innovation Management in Technology-Based Organizations
+
+Publications:
+Aloui T, Serpa RB, Ross D, Francini S, Wu C, Lee K, et al.A super-resolution coded aperture miniature mass spectrometer proof-of-concept for planetary science (Accepted). International Journal of Mass Spectrometry. 2025 Jan 1;507.
+DiDona S, Russell Z, Glass J, Gehm M.A high resolution miniature electron energy spectrometer. Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment. 2024 Jul 1;1064.
+Aloui T, Vyas R, Francini S, Serpa RB, Horvath KL, Keogh J, et al.Spectral Reconstruction Improvement in a Cycloidal Coded-Aperture Mass Spectrometer.Journal of the American Society for Mass Spectrometry. 2024 May;35(5):855–61.
+Batool Z, Rehman AU, Ahmad M, Iqbal MW, Wabaidur SM, Siddiqui MR, et al.Fabrication of (Ag, Zn, Co) based spinel ferrites as electrode materials for high energy density hybrid supercapacitors. Journal of Energy Storage. 2024 Feb 15;79.
+von Windheim T, Gilchrist KH, Parker CB, Hall S, Carlson JB, Stokes D, et al.Proof-of-Concept Vacuum Microelectronic NOR Gate Fabricated Using Microelectromechanical Systems and Carbon Nanotube Field Emitters.Micromachines. 2023 Apr;14(5):973.

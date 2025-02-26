@@ -1,0 +1,5 @@
+Course Code: ECE 539
+Course Name: CMOS VLSI Design Methodologies
+
+Description:
+Emphasis on full-custom digital ASIC design using CMOS technology. Extensive use of CAD tools for IC design, simulation, and layout verification. Includes techniques for designing high-speed, low-power, easily-testable circuits. Semester design project: Student groups design and simulate simple custom IC using Mentor Graphics CAD tools. Formal project proposal, written project report, and formal project presentation required. Prerequisite: [ECE 350L, 331L, 230L, 250D, 270DL, and 280L and (MATH 353 or 356) and (Statistical Science 240L or MATH 230 or MATH 231 or Mathematics 340 or ECE 555 or EGR 238L) and Physics 152L and Chemistry 101DL] or graduate-student standing.

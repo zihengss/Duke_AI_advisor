@@ -1,0 +1,5 @@
+Course Code: ECE 574
+Course Name: Waves in Matter
+
+Description:
+Analysis of wave phenomena that occur in materials based on fundamental formulations for electromagnetic and elastic waves. Examples from these and other classes of waves are used to demonstrate general wave phenomena such as dispersion, anisotropy, and causality; phase, group, and energy propagation velocities and directions; propagation and excitation of surface waves; propagation in inhomogeneous media; and nonlinearity and instability. Applications that exploit these wave phenomena in general sensing applications are explored. Prerequisite: Electrical and Computer Engineering 270DL.

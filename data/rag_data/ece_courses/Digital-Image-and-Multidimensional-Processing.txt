@@ -1,0 +1,5 @@
+Course Code: ECE 488
+Course Name: Digital Image and Multidimensional Processing
+
+Description:
+N/A

@@ -1,4 +1,0 @@
-COMPSCI 342: technical-and-social-analysis-information-and-internet-1
-The development of technical and social standards governing the Internet and information technology in general. The role of software as it relates to law, patents, intellectual property, and IETF (Internet Engineering Task Force) standards. Written analysis of issues from a technical perspective with an emphasis on the role of software and on how standards relate to social and ethical issues. Current events as a driver for writing in traditional and online formats related to technology and policy. Open only to students with declared Computer Science major. Prerequisite: Computer Science 201.
-Prerequisites
-Prerequisite: Computer Science 201 or equivalent

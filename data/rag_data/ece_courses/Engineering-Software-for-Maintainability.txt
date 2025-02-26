@@ -1,0 +1,5 @@
+Course Code: ECE 458
+Course Name: Engineering Software for Maintainability
+
+Description:
+Students will refine their ability to engineer software, with a focus on maintainability. Teams complete a large programming project whose requirements undergo evolutions during the semester. Prior to each evolution, teams submit not only their code for the current requirements, but also a written document analyzing their current design and reflecting on how past design choices impacted their most recent work. Teams must consider appropriate engineering standards and realistic constraints. Prerequisite: ECE 230L, 250D, 270DL, and 280L and (Computer Science 308 or 307D) and (Mathematics 353 or 356) and (Statistical Science 130L or Mathematics 230 or ECE 555 or ECE 380 or Statistical Science 240L or EGR 238L or Mathematics 340) and (Physics 152L or 26) and (Chemistry 101DL or 20 or 21).

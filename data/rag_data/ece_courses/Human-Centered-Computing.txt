@@ -1,0 +1,5 @@
+Course Code: ECE 653
+Course Name: Human-Centered Computing
+
+Description:
+This course addresses the importance of the human-computer interface in the design and development of things that people use. Many of the perceptual, cognitive, and social characteristics of people, as well as methods for learning more about the people, are covered. The capabilities and limits of computers and other related systems are discussed as they relate to the impact on design and implementation decisions. The course consists of a semester-long project that steps through the various stages of design. This semester's project will be reimaging on campus mental health management. Prerequisite: Computer Science 307D or 308 or Electrical and Computer Engineering 651.

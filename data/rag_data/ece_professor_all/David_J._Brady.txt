@@ -1,0 +1,36 @@
+Name: David J. Brady
+Department: Electrical and Computer Engineering
+Short Description: Michael J. Fitzpatrick Distinguished Professor Emeritus of Photonics
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.A. Macalester College, 1984
+M.S. California Institute of Technology, 1986
+Ph.D. California Institute of Technology, 1990
+
+Positions:
+Michael J. Fitzpatrick Distinguished Professor Emeritus of Photonics
+Professor Emeritus in the Department of Electrical and Computer Engineering
+Bass Fellow
+
+Awards:
+Dennis Gabor Award. International Society for Optics and Photonics. 2013
+Fellows. Institute for Electrical and Electronics Engineers. 2009
+Fellow. International Society for Optics and Photonics. 2007
+Fellows. Optical Society of America. 2004
+Fellowships for Science and Engineering. David and Lucile Packard Foundation. 1990
+
+Courses Taught:
+ECE 891: Internship
+
+Publications:
+Chen N, Brady D.Ptychographic wavefront cameras.Optics letters. 2024 Dec;49(23):6653–6.
+Zhu S, Sasián J, Brady DJ.Multifocal array camera system design. Applied Optics. 2024 Sep 1;63(25):6553–9.
+Nero G, Hageman G, Alghamdi A, Brady D.Reflective signatures of unresolved objects.Optics express. 2024 Jul;32(15):26167–83.
+Wang X, Redding B, Karl N, Long C, Zhu Z, Skowronek J, et al.Integrated photonic encoder for low power and high-speed image processing.Nature communications. 2024 May;15(1):4510.
+Kuznetsov AI, Brongersma ML, Yao J, Chen MK, Levy U, Tsai DP, et al.Roadmap for Optical Metasurfaces. ACS Photonics. 2024 Mar 20;11(3):816–65.

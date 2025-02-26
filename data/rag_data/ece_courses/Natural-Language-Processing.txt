@@ -1,0 +1,5 @@
+Course Code: ECE 684
+Course Name: Natural Language Processing
+
+Description:
+Introduction to algorithmic and analytic methods specific to textual data. Subject areas covered are speech recognition, optical character recognition, text parsing, and document analysis. Analysis tools taught include sentiment analysis/topic models, auto-correct, auto-complete, and translation systems. Applications to brain-computer interface communication systems, intelligent personal assistants, and plagiarism detection systems. Prerequisite: ECE 480 or ECE 580 or ECE 581 or ECE 682D or Mathematics 541 or Mathematics 730 or Mathematics 740.

@@ -1,0 +1,5 @@
+Course Code: ECE 459
+Course Name: Introduction to Embedded Systems
+
+Description:
+An introduction to hardware/software codesign of embedded computer systems. Structured programming techniques for high and low level programs. Hardware interfacing strategies for sensors, actuators, and displays. Detailed study of Motorola 68HC11 and 68HC12 microcomputers as applied to embedded system development. Hardware and simulation laboratory exercises with 68HC11 and 68HC12 development boards. Major design project. Prerequisite: ECE 230L and 250D and 270DL and 280L and (ECE 350L, 331L, or 330L) and (Mathematics 353 or 356) and (Physics 152L or 26) and (Chemistry 101DL, 20, or 21) and (Statistical Science 130, Mathematics 230, ECE 555, ECE 380, Statistical Science 240L, Engineering 238L, or Mathematics 340).

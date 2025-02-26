@@ -1,0 +1,31 @@
+Name: Rohit Singh
+Department: Biostatistics & Bioinformatics, Division of Biostatistics
+Short Description: Assistant Professor of Biostatistics & Bioinformatics
+
+Research Interests:
+Drug discoveries have been instrumental in improving global health over the last century, but the median drug now takes about 10 years to bring to market and costs over a billion dollars to develop. My lab aims to expedite the development of precise diagnostics and therapeutics by applying machine learning. Our current work is broadly along two directions. Along the first direction, we use single-cell multiomics to discover regulatory mechanisms governing the interaction between the epigenome, transcription factors, and target genes. This approach relies on methodological innovation, developing new Granger causal inference techniques to capitalize on the “parallax” between simultaneous but separate measures of cell state. In the other direction, we apply large language models to model protein interaction and function. These protein language models enable powerful new approaches to predicting and understanding protein-protein and protein-drug interactions.
+
+Bio:
+Rohit Singh is an Assistant Professor in the Departments of Biostatistics & Bioinformatics and Cell Biology at Duke Univ. His research interests are broadly in computational biology, with a focus on using machine learning to make drug discovery more efficient. Currently, he's exploring how single-cell genomics and large language models can help decode disease mechanisms and aid in identifying new targets and drugs. He is the recipient of the Test of Time Award at RECOMB, MIT's George M. Sprowls Award for his PhD thesis in Computer Science, and Stanford's Christopher Stephenson Memorial Award for Masters Research in the same field. In addition to academia, he has experience in the industry.
+
+Education:
+Ph.D. Massachusetts Institute of Technology, 2012
+
+Positions:
+Assistant Professor of Biostatistics & Bioinformatics
+Assistant Professor of Cell Biology
+Assistant Professor of Computer Science
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+CELLBIO 493: Research Independent Study
+
+Publications:
+Sledzieski S, Versavel C, Singh R, Ocitti F, Devkota K, Kumar L, et al.Decoding the Functional Interactome of Non-Model Organisms with PHILHARMONIC.2024.
+Forrester MT, Egol JR, Ozbay S, Singh R, Tata PR.Topology-Driven Discovery of Transmembrane Protein S-Palmitoylation.bioRxiv. 2024 Sep 8;
+Devkota K, Shonai D, Mao J, Soderling S, Singh R.Miniaturizing, Modifying, and Augmenting Nature’s Proteins with Raygun. bioRxiv. 2024.
+Sledzieski S, Devkota K, Singh R, Cowen L, Berger B.TT3D: Leveraging precomputed protein 3D sequence models to predict protein-protein interactions.Bioinformatics. 2023 Nov 1;39(11).
+Ewen-Campen B, Luan H, Xu J, Singh R, Joshi N, Thakkar T, et al.split-intein Gal4 provides intersectional genetic labeling that is repressible by Gal80.Proc Natl Acad Sci U S A. 2023 Jun 13;120(24):e2304730120.

@@ -1,0 +1,31 @@
+Name: Joseph Yuan-Chieh Lo
+Department: Radiology
+Short Description: Professor in Radiology
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Duke University, 1993
+
+Positions:
+Professor in Radiology
+Professor in the Department of Electrical and Computer Engineering
+Professor of Biomedical Engineering
+Member of the Duke Cancer Institute
+
+Awards:
+
+
+Courses Taught:
+RROMP 301B: Radiology, Radiation Oncology & Medical Physics
+
+Publications:
+Wang Y, Gupta A, Tushar FI, Riley B, Wang A, Tailor TD, et al.Concordance-based Predictive Uncertainty (CPU)-Index: Proof-of-concept with application towards improved specificity of lung cancers on low dose screening CT. Artificial Intelligence in Medicine. 2024 Dec;103055–103055.
+Tushar FI, Vancoillie L, McCabe C, Kavuri A, Dahal L, Harrawood B, et al.Virtual Lung Screening Trial (VLST): An In Silico Replica of the National Lung Screening Trial for Lung Cancer Detection.ArXiv. 2024 Oct 28;
+Macdonald JA, Morgan KR, Konkel B, Abdullah K, Martin M, Ennis C, et al.A Method for Efficient De-identification of DICOM Metadata and Burned-in Pixel Text.J Imaging Inform Med. 2024 Oct;37(5):1–7.
+Ren Y, Liang Z, Ge J, Xu X, Go J, Nguyen DL, et al.Improving Computer-aided Detection for Digital Breast Tomosynthesis by Incorporating Temporal Change.Radiol Artif Intell. 2024 Sep;6(5):e230391.
+Fortunato A, Mallo D, Cisneros L, King LM, Khan A, Curtis C, et al.Evolutionary Measures Show that Recurrence of DCIS is Distinct from Progression to Breast Cancer.2024.

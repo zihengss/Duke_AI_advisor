@@ -1,0 +1,43 @@
+Name: Ehsan Samei
+Department: Radiology
+Short Description: Reed and Martha Rice Distinguished Professor of Radiology
+
+Research Interests:
+Dr. Samei’s scientific expertise include x-ray imaging, theoretical imaging models, simulation methods, and experimental techniques in medical image formation, quantification, and perception.  His research aims to bridge the gap between scientific scholarship and clinical practice, in the meaningful realization of translational research, and in clinical processes that are informed by scientific evidence. He has advanced image quality and safety metrics and radiometrics that are clinically relevant and that can be used to design, optimize, and monitor interpretive and quantitative performance of imaging techniques. These have been implemented in advanced imaging performance characterization, procedural optimization, and clinical dose and quality analytics. His most recent research interests have been virtual clinical trial across a broad spectrum of oncologic, pulmonary, cardiac, and vascular diseases, and developing methodological advances that provide smart fusions of principle-informed and AI-based, data-informed approaches to scientific inquiry.
+
+Bio:
+Dr. Ehsan Samei, PhD, DABR, FAAPM, FSPIE, FAIMBE, FIOMP, FACRis a Persian-American medical physicist. He is the Reed and Martha Rice Distinguished Professor of Radiology, and Professor of Medical Physics, Biomedical Engineering, Physics, and Electrical and Computer Engineering at Duke University. He serves as the Chief Imaging Physicist for Duke University Health System, the Director of the Carl E Ravin Advanced Imaging Laboratories and the Center for Virtual Imaging Trials (CVIT), and co-PI of one the five Centers of Excellence in Regulatory Science and Innovation (CERSI), Triangle CERSI. He is certified by the American Board of Radiology, recognized as a Distinguished Investigator by the Academy of Radiology Research, and awarded Fellow by five professional organization. He founded/co-founded the Duke Medical Physics Program, the Duke Imaging Physics Residency Program, the Duke Clinical Imaging Physics Group, the Center for Virtual Imaging Trials, and the Society of Directors of Academic Medical Physics Programs (SDAMPP). He has held senior leadership positions in the AAPM, SPIE, SDAMPP, and RSNA, including election to the presidency of the SEAAPM (2010-2011), SDAMPP (2011), and AAPM (2023).Dr. Samei's scientific expertise include x-ray imaging, theoretical imaging models, simulation methods, and experimental techniques in medical image formation, quantification, and perception. His research aims to bridge the gap between scientific scholarship and clinical practice, in the meaningful realization of translational research, and in clinical processes that are informed by scientific evidence. He has advanced image quality and safety metrics and radiometrics that are clinically relevant and that can be used to design, optimize, and monitor interpretive and quantitative performance of imaging techniques. These have been implemented in advanced imaging performance characterization, procedural optimization, and clinical dose and quality analytics. His most recent research interests have been virtual clinical trial across a broad spectrum of oncologic, pulmonary, cardiac, and vascular diseases, and developing methodological advances that provide smart fusions of principle-informed and AI-based, data-informed approaches to scientific inquiry.Dr. Samei has mentored over 140 trainees (graduate and postgraduate). He has more than 1400 scientific publications including more than 360 referred journal articles, 600 conference presentations, and 4 books. Citations to his work is reflected in an h-index of 74 and a Weighted Relative Citation Ratio of 613. His laboratory of over 20 researchers has been supported continuously over two decades by 44 extramural grants, culminating in a NIH Program Project grant in 2021 to establish the national Center for Virtual Imaging Trials (CVIT), joining a small number of prominent Biomedical Technology Research Centers across the nation. In 2023, he, along with 3 other PIs, was awarded to lead one of five national Centers of Excellence in Regulatory Science and Innovation (Triangle CERSI) by the FDA.
+
+Education:
+M.E. University of Michigan, Ann Arbor, 1995
+Ph.D. University of Michigan, Ann Arbor, 1997
+
+Positions:
+Reed and Martha Rice Distinguished Professor of Radiology
+Professor in Radiology
+Member of the Duke Cancer Institute
+Professor of Physics
+Professor in the Department of Electrical and Computer Engineering
+Professor of Biomedical Engineering
+
+Awards:
+Marie Sklodowska-Curie Award. International Organization of Medical Physics (IOMP). 2022
+Fellow. American College of Radiology. 2021
+Jimmy O. Finn Lifetime Achievement Award. The Southeast Chapter of the American Association of Physicists in Medicine. 2020
+Award for Outstanding Directorship of Medical Physics Program. Graduate School, Department of Radiology, and Department of Radiation Oncology, Duke University. 2019
+Fellow. American Institute for Medical and Biological Engineering (AIMBE). 2017
+Directoru2019s Award for Dedication and Service. Duke Kunshan University. 2016
+Farrington Daniels Award. American Association of Physicists in Medicine. 2013
+Fellow. International Society for Optics and Photonics. 2010
+Fellows. American Association of Physicists in Medicine. 2009
+
+Courses Taught:
+MEDPHY 732: Advanced Topics of Ionizing-based Imaging Modalities
+BME 792: Continuation of Graduate Independent Study
+
+Publications:
+Sharma S, Vrbaški S, Bhattarai M, Abadi E, Longo R, Samei E.A framework to model charge sharing and pulse pileup for virtual imaging trials of photon-counting CT.Phys Med Biol. 2024 Nov 6;69(22).
+Samei E, Frush D, Mahesh M.Quality Measures for Medical Imaging: Current Status, Gaps and Solutions.J Am Coll Radiol. 2024 Nov;21(11):1826–9.
+Rodriguez K, Levin J, Solomon J, Hurley ET, Lorenzana D, Samei E, et al.Preoperative Planning for Shoulder Arthroplasty is Feasible with Computed Tomography at Lower-Than-Conventional Radiation Doses.J Shoulder Elbow Surg. 2024 Oct 21;
+Felice N, Wildman-Tobriner B, Segars WP, Bashir MR, Marin D, Samei E, et al.Photon-counting computed tomography versus energy-integrating computed tomography for detection of small liver lesions: comparison using a virtual framework imaging.J Med Imaging (Bellingham). 2024 Sep;11(5):053502.
+Zarei M, Paima SS, McCabe C, Abadi E, Samei E.A Physics-informed Deep Neural Network for Harmonization of CT Images.IEEE Trans Biomed Eng. 2024 Jul 16;PP.

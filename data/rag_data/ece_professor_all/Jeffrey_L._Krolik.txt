@@ -1,0 +1,36 @@
+Name: Jeffrey L. Krolik
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Physics-based and statistical signal processing, sensor array processing, radar and sonar systems, pervasive distributed processing
+
+Bio:
+Jeffrey Krolik is Professor of Electrical and Computer Engineering at Duke University in Durham, NC. Canadian-born, he received his Ph.D. in Electrical Engineering from the University of Toronto in 1987. He began his academic career as an Assistant Professor of Electrical and Computer Engineering at Concordia University in Montreal. Interested in signal processing applications in the ocean sciences, he joined the Scripps Institution of Oceanography, University of California San Diego as an Assistant Research Scientist in 1990. At Scripps, he developed physics-based sensor array processing methods that exploit multi-path underwater acoustic propagation. Since coming to Duke in 1992, he has broadened his research interests to include statistical signal processing for surveillance radars and microwave remote sensing, active and passive sonar, and medical imaging. Some of his current projects include the development of aircraft height finding for over-the-horizon HF radar, through-the-sensor environmental monitoring of near-surface atmospheric conditions using a shipboard microwave radar, active sonar array shape estimation from reverberation, and functional magnetic resonance imaging algorithms which are robust to head motion. As a consultant, he has worked for the Office of Naval Research, the Defense Advanced Research Projects Agency (DARPA), the Air Force Rome Laboratories.
+
+Education:
+B.A. University of Toronto (Canada), 1980
+M.A. University of Toronto (Canada), 1983
+Ph.D. University of Toronto (Canada), 1987
+
+Positions:
+Professor of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 485: Digital Audio and Acoustic Signal Processing
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 280L: Introduction to Signals and Systems
+ECE 280L9: Signals and Systems - Lab
+
+Publications:
+Chen Y, Banerjee S, Daily S, Krolik J, Li H, Limbrick D, et al.Athena – The NSF AI Institute for Edge Computing. AI Magazine. 2024 Mar 1;45(1):15–21.
+Ganti A, Martinez MA, Hickman G, Krolik JL.Wideband Adaptive Beamforming for a Partially-Calibrated Distributed Array. In: 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops, ICASSPW 2024 - Proceedings. 2024. p. 164–8.
+Mueller E, Martinez M, Richmond C, Krolik J.Sample-Starved Wavefront Adaptive Sensing and GLRT for MTI Radar. In: Proceedings of the IEEE Radar Conference. 2024.
+Ganti A, Martinez M, Hickman G, Krolik J.A wavefront adaptive sensing beamformer for ocean acoustic waveguides.The Journal of the Acoustical Society of America. 2023 Oct;154(4):2398–409.
+Martinez MA, Ganti A, Hickman G, Krolik JL.Wavefront Adaptive Sensing Beamformer for Shallow-Water Broadband Interference Mitigation. In: 2023 IEEE 9th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing, CAMSAP 2023. 2023. p. 306–10.

@@ -1,0 +1,7 @@
+Name: Emily Edwards
+Department: Electrical and Computer Engineering
+Short Description: Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Science communication and visualization related to physics and engineering, informal STEM Education, science policy, public engagement
+

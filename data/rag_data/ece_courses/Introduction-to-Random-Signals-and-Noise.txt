@@ -1,0 +1,5 @@
+Course Code: ECE 380
+Course Name: Introduction to Random Signals and Noise
+
+Description:
+Introduction to probability and random processes with example applications to processing data with uncertainty. Probability, conditional probability, discrete and continuous random variables, expected values, characteristic functions, multiple random variables. Intro to random processes, random discrete-time signals, power spectrum, autocorrelation, analysis of linear systems driven by wide-sense stationary random processes. Gaussian random processes, band limited white Gaussian noise. Intro to binary hypothesis testing, Bayesian signal detection, applications involving uncertain and random signals and noise. Can fulfill ECE free elective or ECE stats requirement. Prerequisite: ECE 280L, Mathematics 212.

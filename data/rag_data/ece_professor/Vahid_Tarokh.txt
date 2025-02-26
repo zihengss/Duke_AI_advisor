@@ -1,0 +1,7 @@
+Name: Vahid Tarokh
+Department: Electrical and Computer Engineering
+Short Description: Rhodes Family Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+Foundations of AI,  Foundations of Signal Processing, Learning Representations, Transfer Learning,  Meta-Learning, Physics Infused Learning, Extreme Value Theory, Dependence Modeling, Hypothesis Testing, Sequential Analysis.
+

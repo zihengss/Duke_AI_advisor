@@ -1,0 +1,5 @@
+Course Code: ECE 661
+Course Name: Computer Engineering Machine Learning and Deep Neural Nets
+
+Description:
+This course examines various computer engineering methods commonly performed in developing machine learning and deep neural network models. The focus of the course is on how to improve the training and inference performance in terms of model accuracy, size, runtime, etc. Techniques that are widely investigated and adopted in industrial companies and academic communities will be discussed and practiced. Programming practices on these techniques are designed with heavy utilization of the PyTorch package. Prerequisites: Computer Science 201 or ECE 551D or ECE 751D.

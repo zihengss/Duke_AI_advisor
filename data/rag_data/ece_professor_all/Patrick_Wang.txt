@@ -1,0 +1,29 @@
+Name: Patrick Wang
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Associate Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Duke University, 2016
+
+Positions:
+Adjunct Associate Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+IDS 703: Introduction to Natural Language Processing
+ECE 684: Natural Language Processing
+BIOSTAT 821: Software Tools for Data Science
+
+Publications:
+Wang P, Torrione P, Collins L, Morton K.Rapid tracking for autonomous driving with monocular video. In: 2013 International Conference on Connected Vehicles and Expo, ICCVE 2013 - Proceedings. 2013. p. 133–8.
+Wang PK, Torrione PA, Collins LM, Morton KD.Rapid position estimation and tracking for autonomous driving. In: Proceedings of SPIE - The International Society for Optical Engineering. 2012.
+Wang PK, Morton KD, Collins LM, Torrione PA.Exploiting spectral content for image segmentation in GPR data. In: Proceedings of SPIE - The International Society for Optical Engineering. 2011.
+Wang P, Collins L, Morton K, Torrione P.Viewpoint Adaptation for Person Detection.

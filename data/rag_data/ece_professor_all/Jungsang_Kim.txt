@@ -1,0 +1,32 @@
+Name: Jungsang Kim
+Department: Electrical and Computer Engineering
+Short Description: Schiciano Family Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+Quantum Computing with Trapped Ions, Quantum Information Science, Novel Photonic Devices, Application of Quantum Computers
+
+Bio:
+Jungsang Kim leads the Multifunctional Integrated Systems Technology group at Duke University. His main area of current research is quantum information sciences, where his group uses trapped atomic ions and a range of photonics technologies in an effort to construct a scalable quantum information processors and quantum communication networks. His research focuses on introduction of new technologies, such as micro fabricated ion traps, optical micro-electromechanical systems, advanced single photon detectors, compact cryogenics and vacuum technologies, towards a functional integration of quantum information processing systems.
+
+Education:
+
+
+Positions:
+Schiciano Family Distinguished Professor of Electrical and Computer Engineering
+Professor in the Department of Electrical and Computer Engineering
+Associate Director of the Duke Quantum Center
+Professor of Physics
+
+Awards:
+Fellow. American Physics Society. 2021
+Stansell Family Distinguished Research Award. Pratt School of Engineering. 2016
+
+Courses Taught:
+
+
+Publications:
+Lim S, Baek S, Whitlow J, Onofrio MD, Chen T, Phiri S, et al.Design and characterization of individual addressing optics based on multi-channel acousto-optic modulator for171Yb+qubits (Accepted). Optics and Laser Technology. 2025 Jan 1;180.
+Zhao L, Goings J, Shin K, Kyoung W, Fuks JI, Kevin Rhee JK, et al.Orbital-optimized pair-correlated electron simulations on trapped-ion quantum computers. npj Quantum Information. 2023 Dec 1;9(1).
+Whitlow J, Jia Z, Wang Y, Fang C, Kim J, Brown KR.Quantum simulation of conical intersections using trapped ions.Nature chemistry. 2023 Nov;15(11):1509–14.
+Sun K, Fang C, Kang M, Zhang Z, Zhang P, Beratan DN, et al.Quantum Simulation of Polarized Light-Induced Electron Transfer with a Trapped-Ion Qutrit System.The journal of physical chemistry letters. 2023 Jul;14(26):6071–7.
+Jia Z, Huang S, Kang M, Sun K, Spivey RF, Kim J, et al.Angle-robust two-qubit gates in a linear ion crystal. Physical Review A. 2023 Mar 1;107(3).

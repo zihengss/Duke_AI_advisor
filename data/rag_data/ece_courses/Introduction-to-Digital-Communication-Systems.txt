@@ -1,0 +1,5 @@
+Course Code: ECE 483
+Course Name: Introduction to Digital Communication Systems
+
+Description:
+Introduction to the design and analysis of modern digital communication systems. Communication channel characterization. Baseband and passband modulation techniques. Optimal demodulation techniques with performance comparisons. Key information-theoretic concepts including entropy and channel capacity. Channel-coding techniques based on block, convolutional and Trellis codes. Equalization techniques. Applications to design of digital telephone modems, compact discs and digital wireless communication systems. Prerequisite: ECE 280L and one of (Statistical Science 130L or Statistical Science 240L or Mathematics 230 or or Mathematics 340 or ECE 380 or ECE 555 or Engineering 238L).

@@ -1,0 +1,56 @@
+Name: Boyuan Chen
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: Assistant Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.S. Jilin University (China), 2016
+M.S. Columbia University, 2018
+Ph.D. Columbia University, 2022
+
+Positions:
+Assistant Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+Assistant Professor in the Department of Electrical and Computer Engineering
+Assistant Professor in Computer Science
+
+Awards:
+
+
+Courses Taught:
+NEUROSCI 493: Research Independent Study 1
+ME 592: Research Independent Study in Mechanical Engineering or Material Science
+ME 591: Research Independent Study in Mechanical Engineering or Material Science
+ME 555: Advanced Topics in Mechanical Engineering
+ME 494: Engineering Undergraduate Fellows Projects
+ME 492: Special Projects in Mechanical Engineering
+ME 491: Special Projects in Mechanical Engineering
+ME 490: Special Topics in Mechanical Engineering
+ME 394: Engineering Undergraduate Fellows Projects
+ME 392: Undergraduate Projects in Mechanical Engineering
+ME 391: Undergraduate Projects in Mechanical Engineering
+EGRMGMT 591: Special Readings in Engineering Management
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 292: Projects in Electrical and Computer Engineering
+ECE 291: Projects in Electrical and Computer Engineering
+COMPSCI 891: Special Readings in Computer Science
+COMPSCI 590: Advanced Topics in Computer Science
+COMPSCI 394: Research Independent Study
+COMPSCI 393: Research Independent Study
+COMPSCI 391: Independent Study
+
+Publications:
+Guo G, Goldfeder J, Lan L, Ray A, Yang AH, Chen B, et al.Towards end-to-end structure determination from x-ray diffraction data using deep learning. npj Computational Materials. 2024 Dec 1;10(1).
+Hu Y, Chen B, Lin J, Wang Y, Mehlman C, Lipson H.Human-robot facial coexpression.Science robotics. 2024 Mar;9(88):eadi4724.
+Chen B, Kwiatkowski R, Vondrick C, Lipson H.Fully body visual self-modeling of robot morphologies.Science robotics. 2022 Jul;7(68):eabn1944.
+Chen B, Huang K, Raghupathi S, Chandratreya I, Du Q, Lipson H.Automated discovery of fundamental variables hidden in experimental data.Nature computational science. 2022 Jul;2(7):433–42.

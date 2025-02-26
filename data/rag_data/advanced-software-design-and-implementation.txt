@@ -1,4 +1,0 @@
-COMPSCI 308: advanced-software-design-and-implementation
-Techniques for design and construction of reliable, maintainable and useful software systems. Programming paradigms and tools for medium to large projects: revision control, UNIX tools, performance analysis, GUI, software engineering, testing, documentation. Prerequisite: Computer Science 201. Not open to students who have taken Computer Science 307.
-Prerequisites
-Prerequisite: Computer Science 201 or equivalent

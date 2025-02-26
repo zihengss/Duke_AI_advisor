@@ -1,0 +1,2 @@
+COMPSCI  102L
+Introduction to the practices and principles of computer science and programming and their impact on and potential to change the world motivated by problems drawn from natural science, social science, engineering, and humanities. Programming using Python, appropriate libraries, and APIs to process, analyze, and visualize data. Design, implementation, and analysis emphasizing abstraction, encapsulation, and problem decomposition. No previous programming experience required.

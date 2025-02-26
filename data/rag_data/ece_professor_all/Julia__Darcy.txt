@@ -1,0 +1,30 @@
+Name: Julia  Darcy
+Department: Electrical and Computer Engineering
+Short Description: Assistant Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.A. Worcester Polytechnic Institute, 2014
+B.S. Worcester Polytechnic Institute, 2014
+Ph.D. Yale University, 2019
+
+Positions:
+Assistant Research Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+
+
+Publications:
+Hill L, Wolter S, Pluer WT, Rogers T, Johnson J, Miller GH, et al.Designing Pilot Treatment Systems for Evaluation of Passive Nitrogen and Phosphorus Filtration in Stormwater. In: 2024 Systems and Information Engineering Design Symposium, SIEDS 2024. 2024. p. 130–5.
+Zhou J, Luo Y, Darcy JW, Lafata KJ, Ruiz JR, Grego S.Long-term, automated stool monitoring using a novel smart toilet: A feasibility study. Neurogastroenterology and Motility. 2024 Jan 1;
+Ener ME, Darcy JW, Menges FS, Mayer JM.Base-Directed Photoredox Activation of C-H Bonds by PCET. Journal of Organic Chemistry. 2020 Jun 5;85(11):7175–80.
+Darcy JW, Kolmar SS, Mayer JM.Transition State Asymmetry in C-H Bond Cleavage by Proton-Coupled Electron Transfer.Journal of the American Chemical Society. 2019 Jul;141(27):10777–87.
+Darcy JW, Koronkiewicz B, Parada GA, Mayer JM.A Continuum of Proton-Coupled Electron Transfer Reactivity.Accounts of chemical research. 2018 Oct;51(10):2391–9.

@@ -1,2 +1,0 @@
-COMPSCI 531D: introduction-algorithms
-Applications include dynamic data structures, graph algorithms, randomized algorithms. Intractability and NP completeness. Prerequisite: Computer Science 201 and 230, or equivalent.

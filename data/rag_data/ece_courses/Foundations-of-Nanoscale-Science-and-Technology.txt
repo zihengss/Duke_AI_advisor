@@ -1,0 +1,5 @@
+Course Code: ECE 511
+Course Name: Foundations of Nanoscale Science and Technology
+
+Description:
+This course is the introductory course for the Graduate Certificate Program in Nanoscience (GPNANO) and is designed to introduce students to the interdisciplinary aspects of nanoscience by integrating important components of the broad research field together. This integrated approach will cross the traditional disciplines of biology, chemistry, electrical & computer engineering, computer science, and physics. Fundamental properties of materials at the nanoscale, synthesis of nanoparticles, characterization tools, and self-assembly. Prerequisites: Physics 152L and Chemistry 101DL or instructor approval.

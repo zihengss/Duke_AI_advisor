@@ -1,0 +1,5 @@
+Course Code: ECE 567
+Course Name: Cyber-Physical System Design
+
+Description:
+Complex interactions between information technology and physical world in Cyber-Physical Systems (CPS) challenge standard design methods that ignore cross-cutting constraints. This course addresses CPS design challenges by exploiting theory and methods from embedded systems, controls, and formal methods. Course covers topics related to the integration of system modeling, analysis, and automatic synthesis into design frameworks that ensure closed-loop safety and performance under known and unknown operating conditions. Balances establishing a working knowledge of CPS design and analysis methods with understanding the theory behind them. Prerequisite: ECE 350L and Computer Science 310/ECE 353, or graduate-student standing.

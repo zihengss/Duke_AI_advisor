@@ -1,0 +1,7 @@
+Name: Ehsan Samei
+Department: Radiology
+Short Description: Reed and Martha Rice Distinguished Professor of Radiology
+
+Research Interests:
+Dr. Samei’s scientific expertise include x-ray imaging, theoretical imaging models, simulation methods, and experimental techniques in medical image formation, quantification, and perception.  His research aims to bridge the gap between scientific scholarship and clinical practice, in the meaningful realization of translational research, and in clinical processes that are informed by scientific evidence. He has advanced image quality and safety metrics and radiometrics that are clinically relevant and that can be used to design, optimize, and monitor interpretive and quantitative performance of imaging techniques. These have been implemented in advanced imaging performance characterization, procedural optimization, and clinical dose and quality analytics. His most recent research interests have been virtual clinical trial across a broad spectrum of oncologic, pulmonary, cardiac, and vascular diseases, and developing methodological advances that provide smart fusions of principle-informed and AI-based, data-informed approaches to scientific inquiry.
+

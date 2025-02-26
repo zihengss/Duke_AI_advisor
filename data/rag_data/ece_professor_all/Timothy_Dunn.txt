@@ -1,0 +1,52 @@
+Name: Timothy Dunn
+Department: Biomedical Engineering
+Short Description: Assistant Professor of Biomedical Engineering
+
+Research Interests:
+Machine learning, computer vision, neurobiology, animal behavior, computational neuroscience, prognostic modeling, traumatic brain injury
+
+Bio:
+N/A
+
+Education:
+Ph.D. Harvard University, 2015
+
+Positions:
+Assistant Professor of Biomedical Engineering
+Assistant Professor in Neurobiology
+Assistant Professor in the Department of Electrical and Computer Engineering
+Assistant Professor in Neurosurgery
+Member of the Center for Cognitive Neuroscience
+
+Awards:
+Technological Innovations in Neuroscience Award. McKnight Foundation. 2021
+Peer Recognition Honor. Duke, Pratt School of Engineering. 2020
+AI Watson XPrize Finalist (with team DataKind). IBM. 2017
+Certificate of Distinction in Teaching. Harvard University . 2017
+Certificate of Excellence in Teaching. Harvard University. 2017
+Certificate of Distinction in Teaching. Harvard University . 2013
+Graduate Research Fellowship. National Science Foundation . 2010
+MCB Department Citation (Best in Class). UC Berkeley. 2008
+I.L. Chaikoff Award for Undergraduate Research. UC Berkeley . 2008
+
+Courses Taught:
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+BME 899: Special Readings in Biomedical Engineering
+BME 792: Continuation of Graduate Independent Study
+BME 791: Graduate Independent Study
+BME 789: Internship in Biomedical Engineering
+BME 590: Special Topics in Biomedical Engineering
+BME 580: An Introduction to Biomedical Data Science (GE)
+BME 494: Projects in Biomedical Engineering (GE)
+BME 493: Projects in Biomedical Engineering (GE)
+BME 394: Projects in Biomedical Engineering (GE)
+AIPI 591: Special Readings in AI for Product Innovation
+
+Publications:
+Kim K, Lyu S, Mantri S, Dunn TW.TULIP: Multi-Camera 3D Precision Assessment of Parkinson's Disease. In: Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. 2024. p. 22551–62.
+Manjunath P, Lerner B, Dunn T.Towards Interactive and Interpretable Image Retrieval-Based Diagnosis: Enhancing Brain Tumor Classification with LLM Explanations and Latent Structure Preservation. In: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). 2024. p. 335–49.
+Li T, Severson KS, Wang F, Dunn TW.Improved 3D Markerless Mouse Pose Estimation Using Temporal Semi-Supervision.Int J Comput Vis. 2023 Jun;131(6):1389–405.
+Thomson EE, Harfouche M, Kim K, Konda PC, Seitz CW, Cooke C, et al.Gigapixel imaging with a novel multi-camera array microscope.Elife. 2022 Dec 14;11.
+Adil SM, Charalambous LT, Rajkumar S, Seas A, Warman PI, Murphy KR, et al.Machine Learning to Predict Successful Opioid Dose Reduction or Stabilization After Spinal Cord Stimulation.Neurosurgery. 2022 Aug 1;91(2):272–9.

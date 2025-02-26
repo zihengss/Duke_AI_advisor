@@ -1,4 +1,0 @@
-COMPSCI 585: secure-software-systems
-Focus on architectural approaches to building secure, trustworthy software systems. Motivated by a discussion of real-world threat models and vulnerabilities. Analyzes enabling mechanisms (e.g., trusted hardware) in terms of abstractions, implementations, security guarantees, and hardware-software decomposition. Surveys systems across a wide range of application scenarios. Briefly considers other approaches to improving the security of software systems (e.g., formal verification). Primarily driven by reading and discussing research papers along with a research project. Prerequisite: Operating Systems (CompSci 310 or equivalent).
-Prerequisites
-Prerequisite: CompSci 310 or graduate student

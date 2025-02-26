@@ -1,0 +1,41 @@
+Name: Anru Zhang
+Department: Biostatistics & Bioinformatics, Division of Translational Biomedical
+Short Description: Eugene Anson Stead, Jr. M.D. Associate Professor
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. University of Pennsylvania, 2015
+
+Positions:
+Eugene Anson Stead, Jr. M.D. Associate Professor
+Associate Professor of Biostatistics & Bioinformatics
+Associate Professor of Computer Science
+Associate Professor in the Department of Electrical and Computer Engineering
+Associate Professor of Statistical Science
+
+Awards:
+Emerging Leader Award. Committee of Presidents of Statistical Societies (COPSS). 2024
+Tweedie Award. Institute of Mathematical Statistics. 2022
+Bernoulli Society New Researcher Award. Bernoulli Society. 2021
+Gottfried E. Noether Junior Award. American Statistical Association. 2021
+ICSA Outstanding Young Researcher Award. International Chinese Statistical Association. 2021
+NSF CAREER Award. National Science Foundation. 2020
+
+Courses Taught:
+STA 915: High-Dimensional Statistics and Machine Learning
+STA 693: Research Independent Study
+COMPSCI 762: High-Dimensional Statistics and Machine Learning
+COMPSCI 393: Research Independent Study
+BIOSTAT 915: High-Dimensional Statistics and Machine Learning
+
+Publications:
+Jiang S, Gai X, Treggiari MM, Stead WW, Zhao Y, Page CD, et al.Soft phenotyping for sepsis via EHR time-aware soft clustering.J Biomed Inform. 2024 Apr;152:104615.
+Zhang AR, Bell RP, An C, Tang R, Hall SA, Chan C, et al.Cocaine Use Prediction With Tensor-Based Machine Learning on Multimodal MRI Connectome Data.Neural Comput. 2023 Dec 12;36(1):107–27.
+Towe SL, Tang R, Gibson MJ, Zhang AR, Meade CS.Longitudinal changes in neurocognitive performance related to drug use intensity in a sample of persons with and without HIV who use illicit stimulants.Drug Alcohol Depend. 2023 Oct 1;251:110923.
+Han R, Zhang AR.Rungang Han and Anru R. Zhangs contribution to the Discussion of ‘Vintage factor analysis with varimax performs statistical inference’ by Rohe & Zeng. Journal of the Royal Statistical Society Series B: Statistical Methodology. 2023 Sep 1;85(4):1069–70.
+Hao B, Zhang A, Cheng G.Sparse and Low-Rank Tensor Estimation via Cubic Sketchings. IEEE Transactions on Information Theory. 2020 Sep;66(9):5927–64.

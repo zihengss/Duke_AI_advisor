@@ -1,0 +1,7 @@
+Name: Afsaneh Rahbar
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Compilers,High-Performance Computing,Compute Clusters,Distributed Systems,Data Center Networks
+

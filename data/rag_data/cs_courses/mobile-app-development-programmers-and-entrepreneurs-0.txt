@@ -1,0 +1,4 @@
+COMPSCI  507D
+Explores the world of mobile applications and the business strategies of mobile software companies. Covers the fundamentals essential to understanding all aspects of the mobile app development industry; from product concept and application development to company creation and the business fundamentals necessary for creating a for-profit company. Students will create mobile applications using Apple's iOS operating system and Swift programming language. Students will also learn the necessary business topics for creating companies, funding raising and building a business based on mobile applications. Not open to students who have taken Computer Science 207.
+Prerequisites
+Not open to students who have taken COMPSCI 201

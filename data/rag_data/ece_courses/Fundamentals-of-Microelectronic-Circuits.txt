@@ -1,0 +1,5 @@
+Course Code: ECE 331L
+Course Name: Fundamentals of Microelectronic Circuits
+
+Description:
+Analysis and design of electronic circuits in bipolar and MOS technologies, with emphasis on both large-signal and small-signal methods. Circuits for logic gates, latches, and memories. Single-stage and multistage amplifiers and op amps. Circuits with feedback, including stability and frequency response considerations. Analog and mixed analog/digital circuit applications. Extensive use of SPICE for circuit simulation. Prerequisite: Electrical and Computer Engineering 230L.

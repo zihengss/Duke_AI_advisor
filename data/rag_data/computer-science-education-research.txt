@@ -1,4 +1,0 @@
-COMPSCI 249: computer-science-education-research
-A project-based course involving computer science education, issues on computer science curricula, and educational techniques in general. Students should have previous or current experience in teaching or tutoring Computer Science. May be repeated. Instructor consent is required.
-Enroll Consent
-Instructor Consent Required

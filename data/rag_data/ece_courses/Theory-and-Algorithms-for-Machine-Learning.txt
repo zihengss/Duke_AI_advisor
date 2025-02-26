@@ -1,0 +1,5 @@
+Course Code: ECE 687D
+Course Name: Theory and Algorithms for Machine Learning
+
+Description:
+This is an introductory overview course at an advanced level. Covers standard techniques, such as the perceptron algorithm, decision trees, random forests, boosting, support vector machines and reproducing kernel Hilbert spaces, regression, K-means, Gaussian mixture models and EM, neural networks, and multi-armed bandits. Covers introductory statistical learning theory. Recommended prerequisite: linear algebra, probability, analysis or equivalent.

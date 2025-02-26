@@ -1,0 +1,37 @@
+Name: Haozhe Wang
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.S. Shanghai Jiao Tong University (China), 2012
+M.S. Northwestern University, 2014
+M.Sc.Eng. Shanghai Jiao Tong University (China), 2015
+Ph.D. Massachusetts Institute of Technology, 2021
+
+Positions:
+Assistant Professor of Electrical and Computer Engineering
+
+Awards:
+Best Poster Award. Materials Research Society. 2022
+KNI Prize Postdoctoral Fellowship. The Kavli Foundation and Caltech. 2021
+Quantum Hackathon Creative Award. MIT. 2020
+
+Courses Taught:
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Publications:
+Wang Z, Wang H, Caudillo R, Wang J, Liu Z, Foucher A, et al.Interfacial Oxidation of Metals on Graphene. ACS Applied Nano Materials. 2024 Nov 8;7(21):24537–46.
+Hossain AA, Wang H, Catherall DS, Leung M, Knoops HCM, Renzas JR, et al.Isotropic plasma-thermal atomic layer etching of superconducting titanium nitride films using sequential exposures of molecular oxygen and SF6/H2plasma. Journal of Vacuum Science and Technology A: Vacuum, Surfaces and Films. 2023 Dec 1;41(6).
+Wang J, Cheng C, Zheng X, Idrobo JC, Lu A-Y, Park J-H, et al.Cascaded compression of size distribution of nanopores in monolayer graphene.Nature. 2023 Nov;623(7989):956–63.
+Wang H, Hossain A, Catherall D, Minnich AJ.Isotropic plasma-thermal atomic layer etching of aluminum nitride using SF6plasma and Al(CH3)3. Journal of Vacuum Science and Technology A: Vacuum, Surfaces and Films. 2023 May 1;41(3).
+Wang H, Minnich AJ.Oxidation-resistant metallic films: Surface engineering at the angstrom scale. Matter. 2022 Aug 3;5(8):2455–7.

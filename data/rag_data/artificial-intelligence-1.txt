@@ -1,2 +1,0 @@
-COMPSCI 570: artificial-intelligence-1
-Design and analysis of algorithms and representations for artificial intelligence problems. Formal analysis of techniques used for search, planning, decision theory, logic, Bayesian networks, robotics, and machine learning. Prerequisite: Computer Science 201 and Computer Science 330.

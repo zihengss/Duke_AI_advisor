@@ -1,0 +1,5 @@
+Course Code: ECE 538
+Course Name: VLSI System Testing
+
+Description:
+Fault modeling, fault simulation, test generation algorithms, testability measures, design for testability, scan design, built-in self-test, system-on-a-chip testing, memory testing. Prerequisite: Electrical and Computer Engineering 350L or equivalent.

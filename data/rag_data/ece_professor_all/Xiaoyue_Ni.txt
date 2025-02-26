@@ -1,0 +1,39 @@
+Name: Xiaoyue Ni
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: Assistant Professor of the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Research Interests:
+Flexible electronics, precision measurement, non-destructive testing, deformation physics of random media, mechanical metamaterials, robotic materials and smart structures, machine learning
+
+Bio:
+The Ni group aims to realize human-oriented materials intelligence through the combination of soft electronics and digital metamaterials—the materials can sense human signals, transform and adapt their functional properties according to human actions or status. The technical approach embraces epidermal electronics for advanced sensing of body mechanics, and micro/nanomechanics for closed-loop programmable matter. Our research focuses on creating digital-physical interfaces for dynamic control over materials properties via a full spectrum of mechanical and acoustic processes.
+
+Education:
+Ph.D. California Institute of Technology, 2018
+
+Positions:
+Assistant Professor of the Thomas Lord Department of Mechanical Engineering and Materials Science
+Assistant Professor of Biostatistics & Bioinformatics
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ME 592: Research Independent Study in Mechanical Engineering or Material Science
+ME 591: Research Independent Study in Mechanical Engineering or Material Science
+ME 543: Energy Flow and Wave Propagation in Elastic Solids
+ME 494: Engineering Undergraduate Fellows Projects
+ME 493: Engineering Undergraduate Fellows Projects
+ME 392: Undergraduate Projects in Mechanical Engineering
+ME 391: Undergraduate Projects in Mechanical Engineering
+ME 221L: Structure and Properties of Solids
+ECE 391: Projects in Electrical and Computer Engineering
+CEE 626: Energy Flow and Wave Propagation in Elastic Solids
+
+Publications:
+Kim J-T, Ouyang W, Hwang H, Jeong H, Kang S, Bose S, et al.Dynamics of plosive consonants via imaging, computations, and soft electronics.Proceedings of the National Academy of Sciences of the United States of America. 2022 Nov;119(46):e2214164119.
+Bai Y, Wang H, Xue Y, Pan Y, Kim J-T, Ni X, et al.A dynamically reprogrammable surface with self-evolving shape morphing.Nature. 2022 Sep;609(7928):701–8.
+Ni X, Luan H, Kim J-T, Rogge SI, Bai Y, Kwak JW, et al.Soft shape-programmable surfaces by fast electromagnetic actuation of liquid metal networks.Nature communications. 2022 Sep;13(1):5576.
+Ding W, Alavi AH, Fioranelli F, Li G, Ni X, Song L.Sensing, processing, computing and networking for the era of wearables. Digital Signal Processing: A Review Journal. 2022 Jun 15;125.
+Ni X, Bai Y, Wang H, Xue Y, Pan Y, Kim J-T, et al.A dynamically reprogrammable metasurface with self-evolving shape morphing (Accepted). Nature. 2021 Dec 9;

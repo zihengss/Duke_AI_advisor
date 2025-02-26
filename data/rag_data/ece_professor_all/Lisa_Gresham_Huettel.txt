@@ -1,0 +1,39 @@
+Name: Lisa Gresham Huettel
+Department: Electrical and Computer Engineering
+Short Description: Associate Dean of Undergraduate Education, Edmund T. Pratt, Jr. School Professor of the Practice of ECE
+
+Research Interests:
+Engineering education, pedagogy and curriculum development, applications of statistical signal processing
+
+Bio:
+Lisa G. Huettel received a BS degree in Engineering Science from Harvard University in 1994. She earned her MS and Ph.D. degrees in Electrical Engineering from Duke University in 1996 and 1999, respectively. From 1999 until 2001, Dr. Huettel was a Research Associate in Electrical and Computer Engineering at Duke University, followed by a year as an Assistant Research Professor. In 2002, Dr. Huettel was appointed as an Assistant Professor of the Practice in Electrical and Computer Engineering at Duke University and is currently a Professor of the Practice. Her current research interests are focused on the application of statistical signal processing to remote sensing, engineering education, and curriculum and laboratory development.
+
+Education:
+Ph.D. Duke University, 1999
+
+Positions:
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+Professor of the Practice in the Department of Electrical and Computer Engineering
+Associate Dean of Undergraduate Education
+
+Awards:
+ASEE Southeast Section Outstanding Teaching Award. American Society of Engineering Education - Southeast Section. 2021
+ASEE ECE Division Distinguished Educator Award. ASEE ECE Division. 2021
+IEEE Undergraduate Teaching Award. IEEE. 2019
+Lois and John L. Imhoff Distinguished Teaching Award. Duke University Pratt School of Engineering. 2013
+Outstanding Service Award. ASEE Division of Experimentation and Laboratory Oriented Studies. 2010
+IEEE Mac Van Valkenburg Early Career Teaching Award. IEEE Education Society. 2006
+Klein Family Distinguished Teaching Award. Duke University Pratt School of Engineering. 2004
+
+Courses Taught:
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 381: Fundamentals of Digital Signal Processing
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Publications:
+Hjalmarson MA, Nelson JK, Huettel LG, Wage KE, Buck JR, Padgett WT.Practices for Implementing Interactive Teaching Development Groups. Advances in Engineering Education. 2021 Oct 1;9(4).
+Barger MM, Wormington SV, Huettel LG, Linnenbrink-Garcia L.Developmental changes in college engineering students' personal epistemology profiles. Learning and Individual Differences. 2016 May 1;48:1–8.
+Huettel L, Gustafson MR, Nadeau JC, Schaad D, Barger MM, Linnenbrink-Garcia L.A grand challenge-based framework for contextual learning in engineering: Impact on student outcomes and motivation. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2015.
+Huettel L, Gustafson MR, Nadeau JC, Schaad DE, Barger MM, Linnenbrink-Garcia L.Evidence for the effectiveness of a grand challenge-based framework for contextual learning. ASEE Annual Conference and Exposition, Conference Proceedings. 2014 Jan 1;
+Connor KA, Huettel L.Virtual community of practice: Electric circuits. ASEE Annual Conference and Exposition, Conference Proceedings. 2014 Jan 1;

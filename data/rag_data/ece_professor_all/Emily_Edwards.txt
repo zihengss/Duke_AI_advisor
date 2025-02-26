@@ -1,0 +1,31 @@
+Name: Emily Edwards
+Department: Electrical and Computer Engineering
+Short Description: Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Science communication and visualization related to physics and engineering, informal STEM Education, science policy, public engagement
+
+Bio:
+Emily Edwards is an Associate Research Professor in the Department of Electrical and Computer Engineering, and Duke Quantum Center. She is primarily interested in science communication and informal STEM education, with a focus on increasing adult and youth interest in and engagement with quantum information science and engineering topics and technology.
+
+Education:
+B.S. Appalachian State University, 2002
+M.S. University of Maryland, College Park, 2008
+Ph.D. University of Maryland, College Park, 2009
+
+Positions:
+Associate Research Professor in the Department of Electrical and Computer Engineering
+Member of the Duke Quantum Center
+
+Awards:
+
+
+Courses Taught:
+
+
+Publications:
+Liu T, Gonzalez-Maldonado D, Harlow DB, Edwards EE, Franklin D.Qupcakery: A Puzzle Game that Introduces Quantum Gates to Young Learners. In: SIGCSE 2023 - Proceedings of the 54th ACM Technical Symposium on Computer Science Education. 2023. p. 1143–9.
+Asfaw A, Blais A, Brown KR, Candelaria J, Cantwell C, Carr LD, et al.Building a Quantum Engineering Undergraduate Program. IEEE Transactions on Education. 2022 May 1;65(2):220–42.
+Islam R, Campbell WC, Choi T, Clark SM, Conover CWS, Debnath S, et al.Beat note stabilization of mode-locked lasers for quantum information processing. Optics Letters. 2014 Jun 1;39(11):3238–41.
+Islam R, Senko C, Campbell WC, Korenblit S, Smith J, Lee A, et al.Emergence and frustration of magnetism with variable-range interactions in a quantum simulator. Science. 2013 Jan 1;340(6132):583–7.
+Korenblit S, Kafri D, Campbell WC, Islam R, Edwards EE, Gong ZX, et al.Quantum simulation of spin models on an arbitrary lattice with trapped ions. New Journal of Physics. 2012;14.

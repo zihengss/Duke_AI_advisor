@@ -1,2 +1,0 @@
-COMPSCI 288: logic-and-its-applications
-Topics in proof theory, model theory, and recursion theory; applications to computer science, formal linguistics, mathematics, and philosophy. Usually taught jointly by faculty members from the departments of computer science, mathematics, and philosophy. Prerequisite: a course in logic or consent of instructor.

@@ -1,0 +1,5 @@
+Course Code: ECE 532
+Course Name: Analog Integrated Circuit Design
+
+Description:
+Design and layout of CMOS analog integrated circuits. Qualitative review of the theory of pn junctions, bipolar and MOS devices, and large and small signal models. Emphasis on MOS technology. Continuous time operational amplifiers. Frequency response, stability and compensation. Complex analog subsystems including phase-locked loops, A/D and D/A converters, switched capacitor simulation, layout, extraction, verification, and MATLAB modeling. Projects make extensive use of full custom VLSI CAD software. Prerequisite: [(ECE 330L or 331L) and ECE 230L and 250D and 270DL and 280L and (Mathematics 353 or 356) and (Statistical Science 130L or Mathematics 230 or ECE 555 or ECE 380 or Statistical Science 240L or EGR 238L or Mathematics 340) and (Physics 152L or 26) and (Chemistry 101DL or 20 or 21)] or graduate-student standing.

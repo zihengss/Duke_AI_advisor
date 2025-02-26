@@ -1,0 +1,50 @@
+Name: Kishor S. Trivedi
+Department: Electrical and Computer Engineering
+Short Description: Hudson Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+Markov models, Fault trees, Stochastic Petri nets, Reliability Modeling, Availability Modeling, Performability modeling, Survivability modeling, Cyber Security, Software reliability, Software Fault Tolerance, Software Aging and Rejuvenation
+
+Bio:
+Kishor Trivedi holds the Hudson Chair in the Department of Electrical and Computer Engineering at Duke University. He is known as a leading international expert in the domain of reliability and performability evaluation of Dependable systems, and has made seminal contributions to stochastic modeling formalisms and their efficient solution. He is currently carrying out experimental research in software reliability during operation where he is researching software fault tolerance through environmental diversity. This work, including software bug classification, empirical study of real failure data and associated theory of affordable software fault tolerance, has already gained significant attention.He has made key contributions to his field in many ways. He has encapsulated developed algorithms into usable and well circulated software packages, and applied research results to practical problems working directly with industry. This work has not only been able to solve difficult real-life problems but also produce new research based on the problems. He has published over 600 articles, has supervised 48 Ph.D. dissertations and more than 50 postdoctoral associates. He is a Life Fellow of the Institute of Electrical and Electronics Engineers and a Golden Core Member of IEEE Computer Society. He has served on many editorial boards and conference committees and is the recipient of IEEE Computer Society Technical Achievement Award for his research on Software Aging and Rejuvenation. He is the recipient of IEEE Reliability Society's Life Time Achievement Award. He is on ISI’s highly cited list with an h-index of 108, and has received grants from such governmental agencies as NASA, NATO, NSF, DARPA, AFOSR, ARO, NIH, NSWC, ONR, and RADC.Trivedi has also helped several high-profile companies carry out reliability/availability prediction of their products under design or in existence, including 3Com, Avaya, Boeing, Cisco, DEC, EMC, GE, HP, Huawei, IBM, Lucent, NEC, TCS, Union Switch and Signals, Wipro. Most notable among these, is his help in reliability modeling of the current return network subsystem of the Boeing 787 for FAA certification. The algorithm he developed for this problem has been jointly patented by Boeing and Trivedi. He led the reliability/availability modeling of SIP on IBM WebSphere; this model was responsible for the sale of the system by IBM to AT & T.Furthermore, Trivedi has written several influential books, including textbooks. He is the author of a well-known text entitled, Probability and Statistics with Reliability, Queuing and Computer Science Applications, originally published by Prentice-Hall; a thoroughly revised second edition (including its Indian edition) has been published by John Wiley. This book is translated into Chinese in Nov. 2015. This book has  appeared as a paperback in July 2016.He has also published two other books titled, Performance and Reliability Analysis of Computer Systems, published by Springer and Queueing Networks and Markov Chains by John Wiley. His latest book, Reliability and Availability Engineering: Modeling, Analysis and Applications, is published by Cambridge University Press in 2017.
+
+Education:
+B.Tech. Indian Institute of Technology, Bombay (India), 1968
+M.S. University of Illinois, 1972
+Ph.D. University of Illinois, 1974
+
+Positions:
+Hudson Distinguished Professor of Electrical and Computer Engineering
+Professor of Electrical and Computer Engineering
+Professor of Electrical and Computer Engineering at Duke Kunshan University
+Professor of Computer Science
+
+Awards:
+Lifetime Achievement Award. IEEE Reliability Society. 2021
+Life Fellow. IEEE. 2017
+ONR Faculty Fellow Summer 2015. ONR. 2015
+NordsecMob Scholar. Norwegian University of Science and Technology. 2014
+Fellow. Japan Society for the Promotion of Science. 2014
+Doctor Honoris Causa. USMP, Lima, Peru. 2012
+Technical Achievement Award. IEEE Computer Society. 2008
+Traditional Fulbright Scholarship. Council for International Exchange of Scholars. 2002
+Highly Cited Researcher. Thomson Reuters. 2001
+Fellow. Institute for Electrical and Electronics Engineers. 1992
+
+Courses Taught:
+K_ECE 590K: ADVANCED TOPICS IN ECE
+K_CMPSCI 320: Software Reliability
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590K: Advanced Topics in Electrical and Computer Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 555: Probability for Electrical and Computer Engineers
+COMPSCI 555: Probability for Electrical and Computer Engineers
+COMPSCI 393: Research Independent Study
+
+Publications:
+Qin F, Zheng Z, Sui Y, Gong S, Shi Z, Trivedi KS.Cross-project concurrency bug prediction using domain-adversarial neural network. Journal of Systems and Software. 2024 Aug 1;214.
+Trivedi K, Bobbio A.Reliability and Availability Analysis in Practice: Toward Multilevel Models for Complex Systems. Computer. 2024 Apr 1;57(4):82–92.
+Trivedi K.Reliability and Availability Assessment. In: IEEE Transactions on Reliability. 2024. p. 17–8.
+Trivedi KS, Grottke M, Lopez JA.Rethinking Software Fault Tolerance. IEEE Transactions on Reliability. 2024 Mar 1;73(1):67–72.
+Bai J, Chang X, Machida F, Trivedi KS.Understanding Container-based Services under Software Aging: Dependability and Performance Views. IEEE Transactions on Sustainable Computing. 2024 Jan 1;

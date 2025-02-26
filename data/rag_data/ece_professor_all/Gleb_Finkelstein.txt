@@ -1,0 +1,46 @@
+Name: Gleb Finkelstein
+Department: Physics
+Short Description: Professor of Physics
+
+Research Interests:
+My main research topic is the study of the coexistence of superconductivity and the quantum Hall effect. The highlights of this work include: the first observation of a superconducting current induced in the regime of the quantum Hall effect, realization of the quantum Hall-based SQUID, and the first observation of the chiral Andreev edge states predicted 20 years ago. The unique combination of the two of the most robust quantum states – quantum Hall effect and superconductivity – is interesting in its own right
+it also promises future applications in quantum information science, e.g. for creation of topologically protected states and excitations. Other research directions of our lab include: multi-terminal Josephson junctions which we developed in ballistic graphene
+thermal conductivity measurements
+studies of the novel two-dimensional superconductor KTaO_3.
+
+Bio:
+Gleb Finkelstein is an experimentalist interested in physics of quantum nanostructures, such as Josephson junctions and quantum dots made of carbon nanotubes, graphene, and topological materials. These objects reveal a variety of interesting electronic properties that may form a basis for future quantum devices.
+
+Education:
+B.S. Moscow Institute of Physics and Technology (Russia), 1991
+Ph.D. Weizmann Institute of Science (Israel), 1998
+
+Positions:
+Professor of Physics
+Professor in the Department of Electrical and Computer Engineering
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+Fellow. American Physical Society. 2015
+Faculty Early Career Development (CAREER) Program. National Science Foundation. 2003
+Faculty Early Career Development (CAREER) Award. National Science Foundation. 2003
+Award for excellence in graduate research. Wolf Foundation. 1998
+Daniel Brener Memorial Prize for Ph.D. studies. Graduate School, Weizmann Institute of Science. 1996
+Distinction Prize for M.Sc. studies. Graduate School, Weizmann Institute of Science. 1993
+
+Courses Taught:
+PHYSICS 760: Mathematical Methods of Physics
+PHYSICS 509: Quantum Nanophysics
+PHYSICS 495: Thesis Independent Study
+PHYSICS 493: Research Independent Study
+PHYSICS 465: Quantum Mechanics II
+PHYSICS 371L: Electronics for physics measurements and instrumentation
+PHYSICS 271L: Electronics
+
+Publications:
+Arnault EG, Chiles J, Larson TFQ, Chen C-C, Zhao L, Watanabe K, et al.Multiplet Supercurrents in a Josephson Circuit. 2024.
+Zhao L, Larson TFQ, Iftikhar Z, Chiles J, Watanabe K, Taniguchi T, et al.Thermal properties of the superconductor-quantum Hall interfaces. 2024.
+Zhao L, Arnault EG, Larson TFQ, Watanabe K, Taniguchi T, Amet F, et al.Nonlocal transport measurements in hybrid quantum Hall-superconducting devices. Physical Review B. 2024 Mar 15;109(11).
+Zhao L, Arnault EG, Larson TFQ, Watanabe K, Taniguchi T, Amet F, et al.Non-local transport measurements in hybrid quantum Hall -
+  superconducting devices. 2023.
+Zhao L, Iftikhar Z, Larson TFQ, Arnault EG, Watanabe K, Taniguchi T, et al.Loss and Decoherence at the Quantum Hall-Superconductor Interface.Physical review letters. 2023 Oct;131(17):176604.

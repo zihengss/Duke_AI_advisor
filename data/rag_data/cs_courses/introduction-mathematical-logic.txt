@@ -1,0 +1,2 @@
+COMPSCI  487
+An introduction to mathematical logic focusing on first-order logic and the relationship between truth and provability. Topics include Peano arithmetic, Gödel's completeness and incompleteness theorems, and some elementary model theory. Recommended prerequisite: Mathematics 216, 218, or 221.

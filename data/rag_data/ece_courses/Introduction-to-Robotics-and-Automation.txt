@@ -1,0 +1,5 @@
+Course Code: ECE 383
+Course Name: Introduction to Robotics and Automation
+
+Description:
+Fundamental notions in robotics, basic configurations of manipulator arm design, coordinate transformations, control functions, and robot programming. Applications of artificial intelligence, machine vision, force/torque, touch and other sensory subsystems. Design for automatic assembly concepts, tools, and techniques. Application of automated and robotic assembly costs, benefits, and economic justification. Selected laboratory and programming assignments. Prerequisites: ECE 280L or EGR 224L.

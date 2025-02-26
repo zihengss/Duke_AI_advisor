@@ -1,0 +1,5 @@
+Course Code: ECE 543
+Course Name: Statistical Optics
+
+Description:
+Theoretical treatment of the statistical nature of optical fields via concepts such as second-order spatial and temporal coherence. Especially focuses on the theory of partial coherence and its applications including imaging with partially coherent light, laser speckle, and propagation through turbid/random media. Prerequisite: ECE 270DL or graduate student standing.

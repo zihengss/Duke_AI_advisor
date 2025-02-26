@@ -1,0 +1,4 @@
+COMPSCI  445
+Geometry of high dimensional data sets. Linear dimension reduction, principal component analysis, kernel methods. Nonlinear dimension reduction, manifold models. Graphs. Random walks on graphs, diffusions, page rank. Clustering, classification and regression in high-dimensions. Sparsity. Computational aspects, randomized algorithms. Prerequisite: Mathematics 218 or 221.
+Prerequisites
+Prerequisite: Mathematics 218 or 221

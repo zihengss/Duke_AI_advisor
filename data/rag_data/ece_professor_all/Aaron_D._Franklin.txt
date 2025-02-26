@@ -1,0 +1,49 @@
+Name: Aaron D. Franklin
+Department: Electrical and Computer Engineering
+Short Description: Associate Dean for Faculty Affairs, Addy Professor of ECE
+
+Research Interests:
+Nanomaterials in electronic devices, nanofabrication, printed electronics and internet of things (IoT), biosensing
+
+Bio:
+Dr. Aaron Franklin received his Ph.D. in Electrical Engineering from Purdue University in 2008 and then spent six years on the research staff at the IBM T. J. Watson Research Center in Yorktown Heights, NY.  His work at IBM focused on low-dimensional nanoelectronics with specific emphasis on carbon nanotube (CNT) transistors, including device scaling, transport studies, and diverse integration approaches.  While at IBM, Dr. Franklin was awarded an Outstanding Technical Achievement recognition for his work on nanoscale CNT transistors. He was also involved in many other projects with applications including photovoltaics, thin-film transistors, and supercapacitors.  Dr. Franklin joined the Duke faculty in 2014.Research in the Franklin group is focused on improving the performance and functionality of nanomaterial-enabled electronic devices.  This includes high-performance devices from low-dimensional materials, such as 2D semiconductors, 1D carbon nanotubes, and nanowires. Also included is the low-cost realm of printed electronics, which benefits from the incorporation of nanomaterials to enhance electrical transport over large printed features, along with other application-specific advantages. The primary drive of the Franklin group's research is to improve performance of, and expand applications for, electronic devices, including those with more custom form factors and/or functionality (e.g., flexibility, transparency, biocompatibility, recyclability).  A growing thrust in the lab is the application of ultrasensitive, inexpensively processed nanomaterials to electronic biosensing applications.  There is an increasing variety of new electronics applications that nanomaterials are uniquely capable of enabling -- the Franklin group works to make such applications possible.
+
+Education:
+B.S.E. Arizona State University, 2004
+Ph.D. Purdue University, 2008
+
+Positions:
+Addy Professor of Electrical and Computer Engineering
+Professor in the Department of Electrical and Computer Engineering
+Associate Dean for Faculty Affairs
+Professor of Chemistry
+
+Awards:
+
+
+Courses Taught:
+NANOSCI 511: Foundations of Nanoscale Science and Technology
+ME 392: Undergraduate Projects in Mechanical Engineering
+EGR 790: Special Topics in Engineering
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 512: Emerging Nanoelectronic Devices
+ECE 511: Foundations of Nanoscale Science and Technology
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 292: Projects in Electrical and Computer Engineering
+ECE 291: Projects in Electrical and Computer Engineering
+ECE 230L: Introduction to Microelectronic Devices and Circuits
+ECE 230L9: Introduction to Microelectronic Devices and Circuits-Lab
+CHEM 611: Foundations of Nanoscale Science and Technology
+
+Publications:
+Mastrocinque F, Bullard G, Alatis JA, Albro JA, Nayak A, Williams NX, et al.Band gap opening of metallic single-walled carbon nanotubes via noncovalent symmetry breaking.Proceedings of the National Academy of Sciences of the United States of America. 2024 Mar;121(12):e2317078121.
+Smith BN, Ballentine P, Doherty JL, Wence R, Hobbie HA, Williams NX, et al.Aerosol Jet Printing Conductive 3D Microstructures from Graphene Without Post-Processing.Small (Weinheim an der Bergstrasse, Germany). 2024 Mar;20(12):e2305170.
+Albarghouthi FM, Semeniak D, Khanani I, Doherty JL, Smith BN, Salfity M, et al.Addressing Signal Drift and Screening for Detection of Biomarkers with Carbon Nanotube Transistors.ACS nano. 2024 Feb;
+Franklin AD.Creating high-performance transistors by coating carbon nanotube arrays: Low-dimensional electronics. Nature Electronics. 2024 Jan 1;
+Rich J, Cole B, Li T, Lu B, Fu H, Smith BN, et al.Aerosol jet printing of surface acoustic wave microfluidic devices.Microsystems & nanoengineering. 2024 Jan;10:2.

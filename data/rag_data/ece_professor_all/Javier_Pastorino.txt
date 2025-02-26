@@ -1,0 +1,32 @@
+Name: Javier Pastorino
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Software Engineering and Data ManagementArtificial IntelligenceMachine LearningPrivacy in MLCybersecurityComputer Engineering Education
+
+Bio:
+N/A
+
+Education:
+M.S. Universidad de la Republica (Uruguay), 2012
+Ph.D. University of Colorado, Denver, 2022
+
+Positions:
+Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+ECE 651: Software Engineering
+ECE 590D: Advanced Topics in Electrical and Computer Engineering
+ECE 551D: Programming, Data Structures, and Algorithms in C++
+
+Publications:
+Pastorino J, Biswas AK.Data adequacy bias impact in a data-blinded semi-supervised GAN for privacy-Aware COVID-19 chest X-ray classification. In: Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics, BCB 2022. 2022.
+Pastorino J, Director JW, Biswas AK, Hawbaker TJ.Determination of optimal set of spatio-Temporal features for predicting burn probability in the state of California, USA. In: Proceedings of the 2022 ACMSE Conference - ACMSE 2022: The Annual ACM Southeast Conference. 2022. p. 151–8.
+Pastorino J, Biswas AK.Data-Blind ML: Building privacy-aware machine learning models without direct data access. In: Proceedings - 2021 IEEE 4th International Conference on Artificial Intelligence and Knowledge Engineering, AIKE 2021. 2021. p. 95–8.
+Pastorino J, Biswas AK.Hey ML, what can you do for me?In: Proceedings - 2020 IEEE 3rd International Conference on Artificial Intelligence and Knowledge Engineering, AIKE 2020. 2020. p. 116–9.
+Pastorino J, Biswas AK.TexAnASD: Text Analytics for ASD Risk Gene Predictions. In: Proceedings - 2019 IEEE International Conference on Bioinformatics and Biomedicine, BIBM 2019. 2019. p. 1350–7.

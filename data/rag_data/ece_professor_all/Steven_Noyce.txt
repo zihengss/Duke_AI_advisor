@@ -1,0 +1,30 @@
+Name: Steven Noyce
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.S. Brigham Young University, 2015
+M.S. Duke University, 2020
+Ph.D. Duke University, 2020
+
+Positions:
+Adjunct Assistant Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 651: Software Engineering
+
+Publications:
+Albarghouthi FM, Semeniak D, Khanani I, Doherty JL, Smith BN, Salfity M, et al.Addressing Signal Drift and Screening for Detection of Biomarkers with Carbon Nanotube Transistors.ACS nano. 2024 Feb;
+Williams NX, Carroll B, Noyce SG, Hobbie HA, Joh DY, Rogers JG, et al.Fully printed prothrombin time sensor for point-of-care testing.Biosens Bioelectron. 2021 Jan 15;172:112770.
+Noyce SG, Doherty JL, Zauscher S, Franklin AD.Understanding and Mapping Sensitivity in MoS2Field-Effect-Transistor-Based Sensors.ACS nano. 2020 Sep;14(9):11637–47.
+Doherty JL, Noyce SG, Cheng Z, Abuzaid H, Franklin AD.Capping Layers to Improve the Electrical Stress Stability of MoS2Transistors.ACS applied materials & interfaces. 2020 Aug;12(31):35698–706.
+Cardenas JA, Andrews JB, Noyce SG, Franklin AD.Carbon nanotube electronics for IoT sensors. Nano Futures. 2020 Jan 1;4(1).

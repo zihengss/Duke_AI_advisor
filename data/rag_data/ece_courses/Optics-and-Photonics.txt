@@ -1,0 +1,5 @@
+Course Code: ECE 340L
+Course Name: Optics and Photonics
+
+Description:
+Ray optics, wave optics, beam optics, resonators, atom-photons, interaction, interference, diffraction, polarization, lasers, light detection, electromagnetic optics. Laboratory experiments apply concepts in basic optics. Prerequisite: Electrical and Computer Engineering 270L or equivalent.

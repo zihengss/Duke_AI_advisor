@@ -1,0 +1,44 @@
+Name: Guillermo Sapiro
+Department: Electrical and Computer Engineering
+Short Description: James B. Duke Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+Image and video processing, computer vision, computer graphics, computational vision, biomedical imaging, brain imaging, cryo-tomography of viruses, computational tools in cryo-tomography, computational tools in early diagnosis of psychiatric disorders, differential geometry and differential equations, scientific computation, learning and high dimensional data analysis, sparse modeling and dictionary learning, applied mathematics.
+
+Bio:
+Guillermo Sapiro received his B.Sc. (summa cum laude), M.Sc., and Ph.D. from the Department of Electrical Engineering at the Technion, Israel Institute of Technology, in 1989, 1991, and 1993 respectively. After post-doctoral research at MIT, Dr. Sapiro became Member of Technical Staff at the research facilities of HP Labs in Palo Alto, California. He was with the Department of Electrical and Computer Engineering at the University of Minnesota, where he held the position of Distinguished McKnight University Professor and Vincentine Hermes-Luh Chair in Electrical and Computer Engineering. Currently he is the Edmund T. Pratt, Jr. School Professor with Duke University.G. Sapiro works on theory and applications in computer vision, computer graphics, medical imaging, image analysis, and machine learning. He has authored and co-authored over 300 papers in these areas and has written a book published by Cambridge University Press, January 2001.G. Sapiro was awarded the Gutwirth Scholarship for Special Excellence in Graduate Studies in 1991,  the Ollendorff Fellowship for Excellence in Vision and Image Understanding Work in 1992,  the Rothschild Fellowship for Post-Doctoral Studies in 1993, the Office of Naval Research Young Investigator Award in 1998,  the Presidential Early Career Awards for Scientist and Engineers (PECASE) in 1998, the National Science Foundation Career Award in 1999, and the National Security Science and Engineering Faculty Fellowship in 2010. He received the test of time award at ICCV 2011. He was elected to the American Academy of Arts and Sciences on 2018.G. Sapiro is a Fellow of IEEE and SIAM.G. Sapiro was the founding Editor-in-Chief of the SIAM Journal on Imaging Sciences.
+
+Education:
+D.Sc. Israel Institute of Technology (Israel), 1993
+
+Positions:
+James B. Duke Distinguished Professor of Electrical and Computer Engineering
+Professor of Electrical and Computer Engineering
+Professor of Mathematics
+Professor of Computer Science
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+Member. National Academy of Engineering. 2022
+Member. American Academy of Arts & Sciences. 2018
+Stansell Family Distinguished Research Award. Pratt School of Engineering. 2017
+Distinguished Israel Pollack Lecturer. Technion (Haifa, Israel). 2016
+Plenary Speaker. European Signal Processing Conference (EUSIPCO). 2014
+Science Advisory Board. Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University. 2014
+Fellow. Institute of Electrical and Electronics Engineers (IEEE). 2014
+Member, Board on Mathematical Sciences and their Applications (BMSA). The National Academies. 2014
+Fellow. Society for Industrial and Applied Mathematics. 2013
+Helmholtz Prize. IEEE Computer Society. 2011
+National Security Science and Engineering Faculty Fellow. US Department of Defense. 2010
+
+Courses Taught:
+ECE 891: Internship
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+
+Publications:
+Gianneschi JR, Washington KA, Nicholas J, Pilato I, LeMay-Russell S, Rivera-Cancel AM, et al.Assessing Fears of Negative Consequences in Children With Symptoms of Avoidant Restrictive Food Intake Disorder.The International journal of eating disorders. 2024 Nov;
+Aikat V, Krishnappa Babu PR, Carpenter KLH, Di Martino JM, Espinosa S, Davis N, et al.Digital Phenotyping based on a Mobile App Identifies Distinct and Overlapping Features in Children Diagnosed with Autism versus ADHD. In: UIST Adjunct 2024 - Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology. 2024.
+Schlesinger O, Kundu R, Isaev D, Choi JY, Goetz SM, Turner DA, et al.Scalp surface estimation and head registration using sparse sampling and 3D statistical models.Comput Biol Med. 2024 Aug;178:108689.
+Isaev DY, Sabatos-DeVito M, Di Martino JM, Carpenter K, Aiello R, Compton S, et al.Computer Vision Analysis of Caregiver-Child Interactions in Children with Neurodevelopmental Disorders: A Preliminary Report.J Autism Dev Disord. 2024 Jun;54(6):2286–97.
+Krishnappa Babu PR, Di Martino JM, Carpenter KLH, Compton S, Davis N, Eichner B, et al.Large-scale Validation of a Scalable and Portable Behavioral Digital Screening Tool for Autism at Home. In: Conference on Human Factors in Computing Systems - Proceedings. 2024.

@@ -1,0 +1,5 @@
+Course Code: ECE 526
+Course Name: Semiconductor Devices for Integrated Circuits
+
+Description:
+Semiconductor devices - pn junctions (including solar cells, light emitting diodes, photodetectors), metal-semiconductor junctions (as contacts and as Schottky diodes), MOS capacitors, MOSFETs (including short channel transistors), Bipolar Junction Transistors, heterojunctions. Prerequisite: Electrical and Computer Engineering 230L or a graduate student standing.

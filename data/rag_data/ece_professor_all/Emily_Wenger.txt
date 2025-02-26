@@ -1,0 +1,31 @@
+Name: Emily Wenger
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.S. Wheaton College, 2016
+M.S. The University of Chicago, 2020
+Ph.D. The University of Chicago, 2023
+
+Positions:
+Assistant Professor of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 291: Projects in Electrical and Computer Engineering
+
+Publications:
+Wenger E.AI produces gibberish when trained on too much AI-generated data. Nature. 2024 Jul 25;631(8022):742–3.
+Nolte N, Malhou M, Wenger E, Stevens S, Li C, Charton F, et al.The Cool and the Cruel: Separating Hard Parts of LWE Secrets. In: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). 2024. p. 428–53.
+Li CY, Malhou M, Sotáková J, Garcelon E, Lauter K, Wenger E, et al.Salsa Picante: A Machine Learning Attack On LWE with Binary Secrets. In: CCS 2023 - Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security. 2023. p. 2606–20.
+Li CY, Wenger E, Allen-Zhu Z, Charton F, Lauter K.SALSA VERDE: a machine learning attack on Learning With Errors with sparse small secrets. In: Advances in Neural Information Processing Systems. 2023. p. 53343–61.
+Wenger E, Shan S, Zheng H, Zhao BY.SoK: Anti-Facial Recognition Technology. In: Proceedings - IEEE Symposium on Security and Privacy. 2023. p. 864–81.

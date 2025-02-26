@@ -1,0 +1,5 @@
+Course Code: ECE 560
+Course Name: Computer and Information Security
+
+Description:
+An intense trip through many facets of computer and information security. Includes discussion and practical exercises in risk management, threat modeling, applied cryptography, malicious software, network security, intrusion detection and prevention, software and OS security, auditing and forensics, reverse engineering, and social engineering. Includes many hands-on security assignments. Prerequisite: Computer Science 310, ECE 353, or ECE 650.

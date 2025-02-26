@@ -1,0 +1,5 @@
+Course Code: ECE 381
+Course Name: Fundamentals of Digital Signal Processing
+
+Description:
+An introduction to theory and applications of digital signal processing. Concepts, analytical tools and design techniques to process signals in digital form. Signal sampling and reconstruction, discrete-time transforms including the z-transform, discrete-time Fourier transform, and discrete Fourier transform. Discrete systems including the analysis and design of FIR and IIR filters. Introduction to applications of digital signal processing such as image processing, and optimal detection of signals in noise. Discrete system simulations using MATLAB. Prerequisite: Electrical and Computer Engineering 280L.

@@ -1,0 +1,5 @@
+Course Code: ECE 542
+Course Name: Holography and Coherent Imaging
+
+Description:
+Coherent imaging techniques generate images based on measurements of the amplitude/phase of the electromagnetic field rather than the time averaged energy flow (irradiance). In some frequency ranges, there exist technologies that allow for direct measurement of amplitude and phase, however, at higher frequencies only irradiance sensitive detectors exist. Here, coherent imaging requires the use of techniques like holography and interferometry that encode information about the amplitude/phase into the irradiance. This course examines coherent imaging in both these regimes and develops an understanding of the associated performance limits. Prerequisite: ECE 270DL or graduate student standing.

@@ -1,0 +1,5 @@
+Course Code: ECE 524
+Course Name: Introduction to Solid-State Physics
+
+Description:
+Discussion of solid-state phenomena including crystalline structures, X-ray and particle diffraction in crystals, lattice dynamics, free electron theory of metals, energy bands, and superconductivity, with emphasis on understanding electrical and optical properties of solids. Prerequisite: quantum physics at the level of Physics 264L or Electrical and Computer Engineering 521.

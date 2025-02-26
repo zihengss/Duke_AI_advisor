@@ -1,0 +1,40 @@
+Name: Michael Zavlanos
+Department: Thomas Lord Department of Mechanical Engineering and Materials Science
+Short Description: Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Research Interests:
+Control theory, optimization, and learning
+in particular, robotics and autonomous systems, networked and distributed control systems, and cyber-physical systems.
+
+Bio:
+Michael M. Zavlanos research focuses on control theory, optimization, learning, and AI and, in particular, autonomous systems and robotics, networked and distributed control systems, and cyber-physical systems.
+
+Education:
+Ph.D. University of Pennsylvania, 2008
+
+Positions:
+Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+Professor in Computer Science
+Professor in the Department of Electrical and Computer Engineering
+Associate of the Duke Initiative for Science & Society
+
+Awards:
+Young Investigator Program Award. Office of Naval Research. 2014
+Faculty Early Career Development (CAREER) Program. National Science Foundation. 2012
+Faculty Early Career Development (CAREER) Program. National Science Foundation. 2011
+
+Courses Taught:
+ME 758S: Curricular Practical Training
+ME 627: Linear System Theory
+ME 591: Research Independent Study in Mechanical Engineering or Material Science
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 291: Projects in Electrical and Computer Engineering
+COMPSCI 394: Research Independent Study
+CEE 627: Linear System Theory
+
+Publications:
+Kantaros Y, Zavlanos MM.Sampling-based optimal control synthesis for multirobot systems under global temporal tasks. IEEE Transactions on Automatic Control. 2019 May 1;64(5):1916–31.
+Ma WJ, Oh C, Liu Y, Dentcheva D, Zavlanos MM.Risk-averse access point selection in wireless communication networks. IEEE Transactions on Control of Network Systems. 2019 Mar 1;6(1):24–36.
+Freundlich C, Zhang Y, Zavlanos MM.Distributed Hierarchical Control for State Estimation with Robotic Sensor Networks. IEEE Transactions on Control of Network Systems. 2018 Dec 1;5(4):2023–35.
+Guo M, Zavlanos MM.Probabilistic Motion Planning Under Temporal Tasks and Soft Constraints. IEEE Transactions on Automatic Control. 2018 Dec 1;63(12):4051–66.
+Lee S, Zavlanos MM.Approximate projection methods for decentralized optimization with functional constraints. IEEE Transactions on Automatic Control. 2018 Oct 1;63(10):3248–60.

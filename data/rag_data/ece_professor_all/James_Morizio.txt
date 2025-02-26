@@ -1,0 +1,34 @@
+Name: James Morizio
+Department: Electrical and Computer Engineering
+Short Description: Adjunct Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Mixed-Signal CMOS circuit design, layout and testingrnBioelectronic circuits for wireless neural interfaces: Recording and StimulationrnSigma Delta ADC and DACs architecture and circuit designrnUltrasound Pre-Amplifier and multiplexingrnLiquid Crystal on Silicon (LCOS) Pixel driver and interfacernBroadband Phase Lock Loop Design and ModelingrnUltra Wide Band (Ghz) Transceiver Design: VCOs, PLLs, Antenna Drivers, Buffers
+
+Bio:
+Over the last two decades Dr. Morizio's research has been focused on CMOS mixed-signal microelectronics and ASICs used in translational closed-loop, bioelectronic therapies for wireless neural interfaces. These interfaces include sub-system architectures for neural recording and modulation and analog circuits for low noise preamplifier, high channel count multiplexer and programmable current sources. Dr. Morizio's current research is focused on biomedical instrumentation intended for neurological, digestive and immune system disorders with the research goal for human clinical translation. He has over 35 years of analog circuit design experience in industry and academics and co-inventor of 8 patents.
+
+Education:
+B.S. Virginia Polytech Institute and State University, 1982
+M.S.E.E. University of Colorado, Denver, 1984
+Ph.D. Duke University, 1995
+
+Positions:
+Adjunct Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+15 year service award at Triangle BioSystems International. Harvard Bioscience Inc.. 2016
+
+Courses Taught:
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 539: CMOS VLSI Design Methodologies
+ECE 532: Analog Integrated Circuit Design
+ECE 495: Special Topics in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 292: Projects in Electrical and Computer Engineering
+
+Publications:
+

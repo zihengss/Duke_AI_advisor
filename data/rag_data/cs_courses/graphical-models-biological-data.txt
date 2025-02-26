@@ -1,0 +1,4 @@
+COMPSCI  763
+Introduction to probabilistic graphical models and structured prediction, with applications in genetics and genomics. Hidden Markov Models, conditional random fields, stochastic grammars, Bayesian hierarchical models, neural networks, and approaches to integrative modeling. Algorithms for exact and approximate inference. Applications in DNA/RNA analysis, phylogenetics, sequence alignment, gene expression, allelic phasing and imputation, genome/epigenome annotation, and gene regulation. Department consent required.
+Enroll Consent
+Department Consent Required

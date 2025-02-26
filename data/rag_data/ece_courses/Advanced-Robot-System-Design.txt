@@ -1,0 +1,5 @@
+Course Code: ECE 489
+Course Name: Advanced Robot System Design
+
+Description:
+Teams of students will design, implement, and integrate a robotic system to perform intelligent physical tasks. Example tasks might include navigation, coordinated movement, or object manipulation, among others. Perception, control, and artificial intelligence software will be applied to operate sensing and actuation hardware. Robot middleware for distributed system integration. Simulation prototyping, unit testing, and metrics for performance evaluation. Major design project. Prerequisite: ECE 383, one of (ECE 353 or ECE 356 or ECE 382), ECE 230L, ECE 250D, ECE 270L, ECE 280L; Mathematics 353; Physics 152L; Chemistry 101DL; and statistics. Instructor: Brooke or Hauser

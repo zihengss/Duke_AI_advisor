@@ -1,0 +1,36 @@
+Name: Michael E. Gehm
+Department: Electrical and Computer Engineering
+Short Description: Director of Graduate Studies, Professor of ECE
+
+Research Interests:
+Primarily computational and compressive sensing and measurement in all modalities (with special emphasis in Electromagnetic/Optical from RF to x-ray and all forms of Mass spectrometry), with side interests in optical physics, high-performance x-ray simulation, and rapid-prototyping as a means of creating advanced electromagnetic structures
+
+Bio:
+Michael Gehm received a B.S. in Mechanical Engineering from Washington University in St. Louis in 1992. He earned his A.M. and Ph.D. degrees in Physics from Duke University in 1998 and 2003, respectively. From 2003–2005, he was a Research Associate in ECE at Duke, followed by a year as an Assistant Research Professor. In 2007 he was appointed an Assistant Professor of ECE and was jointly appointed an Assistant Professor of Optical Sciences in 2009. He was promoted to Associate Professor of ECE and Optical Sciences in 2013 before returning to Duke as an Associate Professor of ECE later that year. He added a secondary appointment in Physics in 2021. In 2022, he was promoted to Professor of ECE and Physics.His current research interests are primarily computational and compressive sensing and measurement in all modalities (with special emphasis in Electromagnetic/Optical from RF to x-ray and all forms of Mass spectrometry), with side interests in optical physics, high-performance x-ray simulation, and rapid-prototyping as a means of creating advanced electromagnetic structures.He is a Fellow of both Optica (formerly, OSA) and SPIE.
+
+Education:
+B.S. Washington University in St. Louis, 1992
+M.S. Duke University, 1998
+Ph.D. Duke University, 2003
+
+Positions:
+Professor of Electrical and Computer Engineering
+Director of Graduate Studies in the Department of Electrical and Computer Engineering
+
+Awards:
+Fellow. SPIE. 2022
+Fellow. Optica (formerly, OSA). 2020
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+ECE 543: Statistical Optics
+ECE 542: Holography and Coherent Imaging
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+
+Publications:
+Aloui T, Serpa RB, Ross D, Francini S, Wu C, Lee K, et al.A super-resolution coded aperture miniature mass spectrometer proof-of-concept for planetary science (Accepted). International Journal of Mass Spectrometry. 2025 Jan 1;507.
+Martinez M, Stohn A, Gehm ME.Asymmetric imaging in the presence of a bright interferent. Applied Optics. 2024 Sep 1;63(25):6776–85.
+Guo S, Boyarsky M, Vigil SA, Yu Y, Moreno-Hernandez IA, Gehm ME, et al.Toward One-Way Smoke: Synthesis of Copper-Based Microclubs with Asymmetric Scattering and Absorption. Advanced Functional Materials. 2024 Jul 17;34(29).
+DiDona S, Russell Z, Glass J, Gehm M.A high resolution miniature electron energy spectrometer. Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment. 2024 Jul 1;1064.
+Aloui T, Vyas R, Francini S, Serpa RB, Horvath KL, Keogh J, et al.Spectral Reconstruction Improvement in a Cycloidal Coded-Aperture Mass Spectrometer.Journal of the American Society for Mass Spectrometry. 2024 May;35(5):855–61.

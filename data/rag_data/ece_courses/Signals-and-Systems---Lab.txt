@@ -1,0 +1,5 @@
+Course Code: ECE 280L9
+Course Name: Signals and Systems - Lab
+
+Description:
+Continuous and discrete signal representation and classification; system classification and response; transfer functions. Fourier series; Fourier, Laplace, and z transforms. Applications to Integrated Sensing and Information Processing; networks, modulation, sampling, filtering, and digital signal processing. Laboratory projects using digital signal processing hardware and microcontrollers. Computational solutions of problems using Matlab and Maple. Prerequisite: (Engineering 103L or Computer Science 201) and (Electrical and Computer Engineering 110L or Biomedical Engineering 253L).

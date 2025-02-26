@@ -1,0 +1,7 @@
+Name: Michael E. Gehm
+Department: Electrical and Computer Engineering
+Short Description: Director of Graduate Studies, Professor of ECE
+
+Research Interests:
+Primarily computational and compressive sensing and measurement in all modalities (with special emphasis in Electromagnetic/Optical from RF to x-ray and all forms of Mass spectrometry), with side interests in optical physics, high-performance x-ray simulation, and rapid-prototyping as a means of creating advanced electromagnetic structures
+

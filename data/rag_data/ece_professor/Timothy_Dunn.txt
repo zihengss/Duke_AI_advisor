@@ -1,0 +1,7 @@
+Name: Timothy Dunn
+Department: Biomedical Engineering
+Short Description: Assistant Professor of Biomedical Engineering
+
+Research Interests:
+Machine learning, computer vision, neurobiology, animal behavior, computational neuroscience, prognostic modeling, traumatic brain injury
+

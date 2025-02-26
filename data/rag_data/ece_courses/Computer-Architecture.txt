@@ -1,0 +1,5 @@
+Course Code: ECE 250D
+Course Name: Computer Architecture
+
+Description:
+Computer structure, assembly language, instruction execution, addressing techniques, and digital representation of data. Computer system organization, logic design, microprogramming, cache and memory systems, and input/output interfaces. Prerequisite: Computer Science 201.

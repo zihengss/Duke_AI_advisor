@@ -1,0 +1,5 @@
+Course Code: ECE 512
+Course Name: Emerging Nanoelectronic Devices
+
+Description:
+Brief review of semiconductor device physics followed by coverage of the most prominent emerging nanoelectronic devices. Topics include: nanoelectronic logic devices (advanced silicon transistors, carbon nanotube transistors, spintronics, 2D FETs, NEMS, tunnel FETs, negative capacitance FETs and piezoelectronics), and nanoelectronic memory devices (phase change, spin transfer torque, nanomechanical, ferroelectric FET, and molecular memory). Students will understand basic operation, pros/cons of performance, and primary integration challenges. Students conduct case study project, culminating with class presentation. Prerequisite: ECE 230L or graduate student standing.

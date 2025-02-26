@@ -1,0 +1,4 @@
+COMPSCI  345
+Learn the fundamentals of modern 2D software graphics, and how these can be efficiently implemented in C/C++. Core topics include color, geometric primitives, scan conversion, clipping, transformations, alpha blending, sampling. Advanced topics may include gradients, parametric curves, and triangle meshes. Students will develop their own graphics engine, evolving it over the course of the semester as new principles and techniques are introduced. At each milestone, their work will be evaluated for functionality, clarity, and performance. Students will learn firsthand how to evaluate implementation tradeoffs. Prerequisite: Computer Science 201; and Computer Science 210 or 250; and Mathematics 216, 218, or 221.
+Prerequisites
+Prerequisite: Computer Science 201 and (Computer Science 210 or 250) and (Mathematics 216, 218, or 221).

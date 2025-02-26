@@ -1,2 +1,0 @@
-COMPSCI 290S: topics-computer-science-0
-Seminar version of Computer Science 290.

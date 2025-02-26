@@ -1,0 +1,5 @@
+Course Code: ECE 688
+Course Name: Sensor Array Signal Processing
+
+Description:
+An in-depth treatment of the fundamental concepts, theory, and practice of sensor array processing of signals carried by propagating waves. Topics include: multidimensional frequency-domain representations of space-time signals and linear systems; apertures and sampling of space-time signals; beamforming and filtering in the space-time and frequency domains, discrete random fields; adaptive beamforming methods; high resolution spatial spectral estimation; optimal detection, estimation, and performance bounds for sensor arrays; wave propagation models used in sensor array processing; blind beamforming and source separation methods; multiple-input-multiple-output (MIMO) array processing; application examples from radar, sonar, and communications systems. Instructor: Krolik

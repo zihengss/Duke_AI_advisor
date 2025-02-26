@@ -1,4 +1,0 @@
-COMPSCI 310: introduction-operating-systems-1
-Basic concepts and principles of multiprogrammed operating systems. Processes, interprocess communication, CPU scheduling, mutual exclusion, deadlocks, memory management, I/O devices, file systems, protection mechanisms. Also taught as Electrical and Computer Engineering 353. Prerequisites: Computer Science 201; and either of Computer Science 210D, Computer Science 250D or Electrical and Computer Engineering 250D.
-Prerequisites
-Prerequisite: Computer Science 201 and (Computer Science 210D or Computer Science/Electrical & Computer Egr 250D)

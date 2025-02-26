@@ -1,0 +1,2 @@
+Overview of professor Bruce Maggs: 
+Director of Engineering,Emerald InnovationsResearch focuses on distributed systems, including content delivery networks, computer networks, and computer and network security.

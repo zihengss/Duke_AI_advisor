@@ -1,0 +1,5 @@
+Course Code: ECE 721
+Course Name: Nanotechnology Materials Lab
+
+Description:
+This course provides an introduction to advanced methods for the characterization and fabrication of materials, nanostructures, and devices. Cleanroom methods to be covered include lithography, evaporation, and etching. Characterization methods include electron microscopy, atomic force microscopy, X-ray photoelectron spectroscopy, and optical spectroscopy. Students will receive an overview of the techniques in the Shared Materials Instrumentation Facility through lectures and demonstrations. In the lab section, each student will engage in a project that focuses on those capabilities that are needed for their research, and will receive training and certification on that equipment.

@@ -1,0 +1,5 @@
+Course Code: ECE 534
+Course Name: Graduate Rainforest Engineering
+
+Description:
+An open-format project-based class for graduate student team design with a focus on rainforests and related environments. Engages graduate students in cross-disciplinary team challenges that will teach them to work together with other students of differing backgrounds and skills. Design challenges are similar to the XPRIZE contests, or the NAE Grand Challenges. Graduate students taking this class will collaborate with undergraduates taking a similar class and are expected to provide mentorship and leadership for their undergraduate collaborators. Prerequisite: Graduate student standing.

@@ -1,0 +1,7 @@
+Name: Henry Pfister
+Department: Electrical and Computer Engineering
+Short Description: Jeffrey N. Vinik Professor of Electrical and Computer Engineering
+
+Research Interests:
+Information theory, communications, probabilistic graphical models, machine learning, and deep neural networks
+

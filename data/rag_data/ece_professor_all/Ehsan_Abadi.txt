@@ -1,0 +1,32 @@
+Name: Ehsan Abadi
+Department: Radiology
+Short Description: Associate Professor in Radiology
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Duke University, 2018
+
+Positions:
+Associate Professor in Radiology
+Assistant Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+MEDPHY 791: Independent Study in Medical Physics
+EGR 393: Research Projects in Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+BME 791: Graduate Independent Study
+
+Publications:
+Rajagopal J, Zarei M, Vrbaski S, Pritchard WF, Abadi E, Jones E, et al.Impact of image formation factors on material discrimination in spectral CT.Phys Med Biol. 2024 Dec 11;
+Sharma S, Vrbaški S, Bhattarai M, Abadi E, Longo R, Samei E.A framework to model charge sharing and pulse pileup for virtual imaging trials of photon-counting CT.Phys Med Biol. 2024 Nov 6;69(22).
+Abadi E, Barufaldi B, Lago M, Badal A, Mello-Thoms C, Bottenus N, et al.Toward widespread use of virtual trials in medical imaging innovation and regulatory science.Med Phys. 2024 Oct 6;
+Felice N, Wildman-Tobriner B, Segars WP, Bashir MR, Marin D, Samei E, et al.Photon-counting computed tomography versus energy-integrating computed tomography for detection of small liver lesions: comparison using a virtual framework imaging.J Med Imaging (Bellingham). 2024 Sep;11(5):053502.
+Yamaguchi S, Tanaka R, Matsumoto I, Ohkura N, Segars WP, Abadi E, et al.Estimation of threshold thickness of residual normal tissue in lung dysfunction detectable by dynamic chest radiography: A virtual imaging trial.Med Phys. 2024 Sep;51(9):5978–89.

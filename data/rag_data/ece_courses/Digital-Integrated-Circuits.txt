@@ -1,0 +1,5 @@
+Course Code: ECE 529
+Course Name: Digital Integrated Circuits
+
+Description:
+Analysis and design of digital integrated circuits in deep submicron MOS technology. Brief review of IC technology, MOSFETs, and interconnects. Switching characteristics (propagation delay) and power consumption in NMOS/CMOS devices and interconnects. Analysis of static and dynamic logic circuits (inverters, gates) and memory circuits (SRAMs, DRAMs, Flash). Influence of technology and device structure on performance and reliability of digital ICs. SPICE modeling. Memory array design project. Prerequisite: Electrical and Computer Engineering 331L or graduate student standing.

@@ -1,0 +1,45 @@
+Name: Michael Reiter
+Department: Computer Science
+Short Description: James B. Duke Distinguished Professor of Computer Science
+
+Research Interests:
+Prof. Reiter's research interests include all areas of computer and communications security, fault-tolerant distributed computing, and applied cryptography.
+
+Bio:
+Michael Reiter is a James B. Duke Distinguished Professor of Computer Science and Electrical & Computer Engineering at Duke University.  His previous positions include Director of Secure Systems Research at Bell Labs; Professor of Electrical & Computer Engineering and Computer Science at Carnegie Mellon University, where he was the founding Technical Director of CyLab; and Distinguished Professor of Computer Science at the University of North Carolina at Chapel Hill.
+
+Education:
+Ph.D. Cornell University, 1993
+
+Positions:
+James B. Duke Distinguished Professor of Computer Science
+Professor of Computer Science
+Professor of Electrical and Computer Engineering
+
+Awards:
+Test of Time Award. Intel Hardware Security Academic Awards. 2024
+Lasting Research Award. ACM Conference on Data and Application Security and Privacy. 2024
+Test of Time Award. ACM Conference on Computer and Communications Security. 2022
+Test of Time Award. ACM Conference on Computer and Communications Security. 2019
+Outstanding Contributions Award. ACM Special Interest Group on Security, Audit and Control (SIGSAC). 2016
+Fellow. IEEE. 2014
+Fellow. ACM. 2008
+
+Courses Taught:
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 656: Cryptography
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+COMPSCI 590: Advanced Topics in Computer Science
+COMPSCI 582: Cryptography
+COMPSCI 581: Computer Security
+COMPSCI 393: Research Independent Study
+COMPSCI 391: Independent Study
+COMPSCI 351: Introduction to Computer Security
+
+Publications:
+Bandarupalli A, Bhat A, Bagchi S, Kate A, Reiter MK.Random Beacons in Monte Carlo: Efficient Asynchronous Random BeaconwithoutThreshold Cryptography. In: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security. ACM; 2024. p. 2621–35.
+Jin C, Yin C, van Dijk M, Duan S, Massacci F, Reiter MK, et al.PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. In: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security. ACM; 2024. p. 3272–86.
+Huang Z, Gong NZ, Reiter MK.A General Framework for Data-Use Auditing of ML Models. In: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security. ACM; 2024. p. 1300–14.
+Lucas K, Lin W, Bauer L, Reiter MK, Sharif M.Training Robust ML-based Raw-Binary Malware Detectors in Hours, not Months. In: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security. ACM; 2024. p. 124–38.
+Zhou L, Liu Z, Zhang F, Reiter MK.CrudiTEE: A Stick-And-Carrot Approach to Building Trustworthy Cryptocurrency Wallets with TEEs. In: Leibniz International Proceedings in Informatics, LIPIcs. 2024.

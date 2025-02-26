@@ -1,2 +1,0 @@
-COMPSCI 650: advanced-computer-architecture-ii
-Parallel computer architecture design and evaluation. Design topics include parallel programming, message passing, shared memory, cache coherence, cache coherence, memory consistency models, symmetric multiprocessors, distributed shared memory, interconnection networks, and synchronization. Evaluation topics include modeling, simulation, and benchmarking. Prerequisite: Computer Science 550 or Electrical and Computer Engineering 552 or consent of instructor.

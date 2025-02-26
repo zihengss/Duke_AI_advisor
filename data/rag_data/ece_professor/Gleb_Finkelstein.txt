@@ -1,0 +1,10 @@
+Name: Gleb Finkelstein
+Department: Physics
+Short Description: Professor of Physics
+
+Research Interests:
+My main research topic is the study of the coexistence of superconductivity and the quantum Hall effect. The highlights of this work include: the first observation of a superconducting current induced in the regime of the quantum Hall effect, realization of the quantum Hall-based SQUID, and the first observation of the chiral Andreev edge states predicted 20 years ago. The unique combination of the two of the most robust quantum states – quantum Hall effect and superconductivity – is interesting in its own right
+it also promises future applications in quantum information science, e.g. for creation of topologically protected states and excitations. Other research directions of our lab include: multi-terminal Josephson junctions which we developed in ballistic graphene
+thermal conductivity measurements
+studies of the novel two-dimensional superconductor KTaO_3.
+

@@ -1,0 +1,5 @@
+Course Code: ECE 480
+Course Name: Applied Probability for Statistical Learning
+
+Description:
+This course discusses topics in Bayesian probability and its application to foundations of statistical learning. The primary objectives of the course are to provide a mathematically rigorous foundation in Bayesian probability and inference, develop strong intuition for Bayesian constructs, provide a foundation in statistical learning, and to show how Bayesian methods are fundamental to a variety of modern statistical learning techniques. Topics include probabilistic reasoning, Bayesian inference, linear models, mixture models, and model selection. Prerequisite: (Mathematics 216, 218, or 221) and (Statistical Science 130L, Statistical Science 240L, Mathematics 230, Mathematics 340, ECE 380, ECE 555, or EGR 238L) and (EGR 103L, Computer Science 101L, or Computer Science 201).

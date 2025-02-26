@@ -1,0 +1,5 @@
+COMPSCI  290
+This course serves as an introduction to a wide range of user-centered research study design methods and data analysis techniques that students can use to capture users' perceived and real attitudes and behaviors toward technologies and policies.
+Topics from various areas of computer science, changing each year. Prerequisite: Computer Science 201 or equivalent.
+Prerequisites
+Prerequisite: Computer Science 201 or equivalent

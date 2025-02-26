@@ -1,0 +1,46 @@
+Name: Michael Richard Gustafson
+Department: Electrical and Computer Engineering
+Short Description: ECE Director of Undergraduate Studies, Associate Professor of the Practice
+
+Research Interests:
+Computational methods for image analysis and information extraction, discrete event simulations, curriculum development and deployment
+
+Bio:
+Dr. Gustafson received a B.S.E. in 1993 from Duke University, majoring in Electrical Engineering and Mechanical Engineering and Materials Science. He continued on at Duke to earn his M.S. (1998) and Ph.D. (1999) in Mechanical Engineering and Materials Science. He received his appointment as Assistant Professor of the Practice of Electrical & Computer Engineering in 2005 and was promoted to Associate Professor of the Practice in 2009. Previously, he has served as Adjunct Assistant Professor of Mechanical Engineering and Materials Science and as Lecturing Fellow and Assistant Chair of the Civil and Environmental Engineering Department, both at Duke. He currently holds a secondary appointment with the Mechanical Engineering and Materials Science Department.Professor Gustafson's primary focus is on undergraduate curriculum and laboratory development. He was previously responsible for the first-year Computational Methods in Engineering (EGR 103L) course and has also taught seventeen other courses totaling over 100 course offerings and over 9000 students. He previously served as a Lieutenant Commander in the United States Navy as a Naval Reservist and is authorized to wear the Navy and Marine Corps Commendation Medal (two awards), the Navy and Marine Corps Achievement Medal (two awards), the National Defense Service Medal (two awards), and the Military Outstanding Volunteer Service Medal.  He is the 2005 recipient of the first Capers and Marion McDonald Award for Excellence in Mentoring and Advising at Duke University and the 2023 recipient of the Lois and John L. Imhoff Distinguished Teaching Award from the Pratt School of Engineering.  He is also the 2019 recipient of the Pratt School of Engineering Alumni Council Distinguished Service Award and the 2022 Alumnus Award of Distinction from the North American Interfraternity Council.
+
+Education:
+Ph.D. Duke University, 1999
+
+Positions:
+Associate Professor of the Practice of Electrical and Computer Engineering
+Director of Undergraduate Studies in the Department of Electrical and Computer Engineering
+Associate Professor of the Practice in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Awards:
+Lois and John L. Imhoff Distinguished Teaching Award. Pratt School of Engineering. 2023
+Alumnus Award of Distinction. North American Interfraternity Conference. 2022
+Distinguished Service Award. Engineering Alumni Council. 2019
+The McDonald Award for Excellence in Mentoring and Advising. Duke University, Pratt School of Engineering. 2005
+
+Courses Taught:
+ME 392: Undergraduate Projects in Mechanical Engineering
+ME 391: Undergraduate Projects in Mechanical Engineering
+ME 344L: Control of Dynamic Systems
+EGR 224L: Electrical Fundamentals of Mechatronics
+EGR 103L: Computational Methods in Engineering
+EGR 103L9: Computational Methods in Engineering (Lab)
+ECE 899: Special Readings in Electrical Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 382L: Control of Dynamic Systems
+ECE 280L: Introduction to Signals and Systems
+ECE 280L9: Signals and Systems - Lab
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Publications:
+Williams J, Gustafson M, Bai Y, Prater S, Wade CE, Guillamondegui OD, et al.Limitations of Available Blood Products for Massive Transfusion During Mass Casualty Events at US Level 1 Trauma Centers.Shock (Augusta, Ga). 2021 Dec;56(1S):62–9.
+Carlos EC, Wollin DA, Winship BB, Jiang R, Radvak D, Chew BH, et al.In Vitro Comparison of a Novel Single Probe Dual-Energy Lithotripter to Current Devices.J Endourol. 2018 Jun;32(6):534–40.
+Huettel L, Gustafson MR, Nadeau JC, Schaad D, Barger MM, Linnenbrink-Garcia L.A grand challenge-based framework for contextual learning in engineering: Impact on student outcomes and motivation. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2015.
+Huettel L, Gustafson MR, Nadeau JC, Schaad DE, Barger MM, Linnenbrink-Garcia L.Evidence for the effectiveness of a grand challenge-based framework for contextual learning. ASEE Annual Conference and Exposition, Conference Proceedings. 2014 Jan 1;
+Huettel LG, Gustafson MR, Nadeau JC, Schaad D, Barger MM, Linnenbrink-Garcia L.A grand challenge-based framework for contextual learning in engineering. ASEE Annual Conference and Exposition, Conference Proceedings. 2013 Sep 24;

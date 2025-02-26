@@ -1,0 +1,5 @@
+Course Code: ECE 575
+Course Name: Microwave Electronic Circuits
+
+Description:
+Microwave circuit analysis and design techniques. Properties of planar transmission lines for integrated circuits. Matrix and computer-aided methods for analysis and design of circuit components. Analysis and design of input, output, and interstage networks for microwave transistor amplifiers and oscillators. Topics on stability, noise, and signal distortion. Prerequisite: Electrical and Computer Engineering 270DL or equivalent.

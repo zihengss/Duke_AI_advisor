@@ -1,0 +1,7 @@
+Name: William T. Joines
+Department: Electrical and Computer Engineering
+Short Description: Professor Emeritus of Electrical and Computer Engineering
+
+Research Interests:
+Electromagnetic field and wave interactions with materials and structures
+

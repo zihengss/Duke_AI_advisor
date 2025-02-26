@@ -1,0 +1,32 @@
+Name: Afsaneh Rahbar
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Compilers,High-Performance Computing,Compute Clusters,Distributed Systems,Data Center Networks
+
+Bio:
+N/A
+
+Education:
+M.S. Rice University, 2018
+Ph.D. Rice University, 2021
+
+Positions:
+Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 651: Software Engineering
+ECE 650: Systems Programming and Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 495: Special Topics in Electrical and Computer Engineering
+
+Publications:
+Rahbar A.An e-ambulatory healthcare system using mobile network. In: ITNG2010 - 7th International Conference on Information Technology: New Generations. 2010. p. 1269–73.
+Debnath N, Rahbar A, Mohsenzadeh M.Combination of a MANET data communication protocol with a MANET service discovery protocol. Journal of Computational Methods in Sciences and Engineering. 2010 Jan 1;10:27–37.
+Forsati R, Rahbar A, Mahdavi M.Effective page recommendation algorithms based on distributed learning automata. In: 4th International Multi-Conference on Computing in the Global Information Technology, ICCGI 2009. 2009. p. 41–6.
+Debnath NC, Rahbar A, Mohsenzadeh M.Combination of a MANET data communication protocol with a service discovery protocol for mobile ad hoc networks in a framework. In: 18th International Conference on Software Engineering and Data Engineering 2009, SEDE 2009. 2009. p. 194–9.
+Rahbar A, Mohsenzadeh M, Rahmani AM.A new data communication protocol for distributed mobile databases in mobile ad hoc networks. In: ITNG 2009 - 6th International Conference on Information Technology: New Generations. 2009. p. 1663–7.

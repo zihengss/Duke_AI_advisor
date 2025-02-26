@@ -1,0 +1,39 @@
+Name: Kyle Bradbury
+Department: Electrical and Computer Engineering
+Short Description: Assistant Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+Kyle Bradbury is the Managing Director of the Energy Data Analytics Lab at the Duke University Energy Initiative. He brings experience in machine learning and statistical modeling to energy problems. He completed his Ph.D. at Duke University, with research focused on modeling the reliability and cost trade-offs of energy storage systems for integrating wind and solar power into the grid. Kyle holds a M.S. in Electrical Engineering from Duke University where he specialized in statistical signal processing and machine learning, and a B.S. in Electrical Engineering from Tufts University. He has worked for ISO New England, MIT Lincoln Laboratories, and Dominion.
+
+Education:
+Ph.D. Duke University, 2013
+
+Positions:
+Assistant Research Professor in the Department of Electrical and Computer Engineering
+Managing Director, Energy Data Analytics Lab, Nicholas Institute for Energy, Environment & Sustainability
+
+Awards:
+Bass Connections Award for Outstanding Leadership. Duke University. 2022
+
+Courses Taught:
+IDS 794: Independent Study
+IDS 705: Principles of Machine Learning
+HOUSECS 59: House Course
+ENERGY 796T: Bass Connections Energy & Environment Research Team
+ENERGY 795T: Bass Connections Energy & Environment Research Team
+ENERGY 795: Connections in Energy: Interdisciplinary Team Projects
+ENERGY 396T: Bass Connections Energy & Environment Research Team
+ENERGY 395T: Bass Connections Energy & Environment Research Team
+EGR 393: Research Projects in Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+
+Publications:
+Ren S, Luzi F, Lahrichi S, Kassaw K, Collins LM, Bradbury K, et al.Segment anything, from space?In: Proceedings - 2024 IEEE Winter Conference on Applications of Computer Vision, WACV 2024. 2024. p. 8340–50.
+Robinson C, Bradbury K, Borsuk ME.Remotely sensed above-ground storage tank dataset for object detection and infrastructure assessment.Scientific data. 2024 Jan;11(1):67.
+Yaras C, Kassaw K, Huang B, Bradbury K, Malof JM.Randomized Histogram Matching: A Simple Augmentation for Unsupervised Domain Adaptation in Overhead Imagery. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2024 Jan 1;17:1988–98.
+Hakizimana M, Mavis E, Chiu Y, Malof J, Bradbury K.Enhanced Remote Sensing Model Performance Through Self-Supervised Learning with Multi-Spectral Data. In: International Geoscience and Remote Sensing Symposium (IGARSS). 2024. p. 2833–6.
+Luzi F, Gupta A, Collins L, Bradbury K, Malof J.Transformers For Recognition In Overhead Imagery: A Reality Check. In: Proceedings - 2023 IEEE Winter Conference on Applications of Computer Vision, WACV 2023. 2023. p. 3767–76.

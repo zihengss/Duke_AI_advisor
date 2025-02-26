@@ -1,0 +1,7 @@
+Name: Galen Reeves
+Department: Electrical and Computer Engineering
+Short Description: Associate Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Information theory, high-dimensional statistical inference, statistical signal processing, compressed sensing, machine learning
+

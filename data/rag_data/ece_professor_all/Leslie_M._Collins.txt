@@ -1,0 +1,48 @@
+Name: Leslie M. Collins
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Physics-based machine learning algorithms for big data, including developing remediation strategies for the hearing impaired and sensor-based algorithms for the detection of hazardous buried objects
+
+Bio:
+Leslie M. Collins earned the BSEE degree from the University of Kentucky, and the MSEE, and PhD degrees from the University of Michigan, AArbor. From 1986 through 1990 she was a Senior Engineer at Westinghouse Research and Development Center in Pittsburgh, PA. She joined Duke in 1995 as an Assistant Professor and was promoted to Associate Professor in 2002 and to Professor in 2007. Her research interests include physics-based statistical signal processing, subsurface sensing, auditory prostheses and pattern recognition. She is a member of the Tau Beta Pi, Sigma Xi, and Eta Kappa Nu honor societies. Dr. Collins has been a member of the team formed to transition MURI-developed algorithms and hardware to the Army HSTAMIDS and GSTAMIDS landmine detection systems. She has been the principal investigator on research projects from ARO, NVESD, SERDP, ESTCP, NSF, and NIH. Dr. Collins was the PI on the DoD UXO Cleanup Project of the Year in 2000. As of 2015, Dr. Collins has graduated 15 PhD students.
+
+Education:
+B.S.E. University of Kentucky, 1985
+M.Sc.Eng. University of Michigan, Ann Arbor, 1986
+Ph.D. University of Michigan, Ann Arbor, 1995
+
+Positions:
+Professor of Electrical and Computer Engineering
+Professor of Biomedical Engineering
+Professor in the Department of Head and Neck Surgery & Communication Sciences
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+
+
+Courses Taught:
+IDS 793: Independent Study
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 585: Signal Detection and Extraction Theory
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 292: Projects in Electrical and Computer Engineering
+ECE 280L: Introduction to Signals and Systems
+ECE 280L9: Signals and Systems - Lab
+BME 791: Graduate Independent Study
+BME 494: Projects in Biomedical Engineering (GE)
+BME 493: Projects in Biomedical Engineering (GE)
+
+Publications:
+Karpurapu A, Williams HA, DeBenedittis P, Baker CE, Ren S, Thomas MC, et al.Deep Learning Resolves Myovascular Dynamics in the Failing Human Heart.JACC Basic Transl Sci. 2024 May;9(5):674–86.
+Shahidi LK, Collins LM, Mainsah BO.Objective intelligibility measurement of reverberant vocoded speech for normal-hearing listeners: Towards facilitating the development of speech enhancement algorithms for cochlear implants.The Journal of the Acoustical Society of America. 2024 Mar;155(3):2151–68.
+Ren S, Luzi F, Lahrichi S, Kassaw K, Collins LM, Bradbury K, et al.Segment anything, from space?In: Proceedings - 2024 IEEE Winter Conference on Applications of Computer Vision, WACV 2024. 2024. p. 8340–50.
+Spell GP, Ren S, Collins LM, Malof JM.Mixture Manifold Networks: A Computationally Efficient Baseline for Inverse Modeling. In: Proceedings of the 37th AAAI Conference on Artificial Intelligence, AAAI 2023. 2023. p. 9874–81.
+Luzi F, Gupta A, Collins L, Bradbury K, Malof J.Transformers For Recognition In Overhead Imagery: A Reality Check. In: Proceedings - 2023 IEEE Winter Conference on Applications of Computer Vision, WACV 2023. 2023. p. 3767–76.

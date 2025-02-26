@@ -1,0 +1,5 @@
+Course Code: ECE 270L
+Course Name: Introduction to Electromagnetic Fields
+
+Description:
+Fundamentals and application of transmission lines and electromagnetic fields and waves, antennas, field sensing, and signal transmission. Transmission line transients and digital signal transmission; transmission lines in sinusoidal steady state, impedance transformation, and impedance matching; electrostatics and magnetostatics, including capacitance and inductance; electromagnetic waves in uniform media and their interaction with interfaces; antennas and antenna arrays. Alternating laboratories and recitations. Laboratory experiments include transmission line transients, impedance matching, static and dynamic electromagnetic fields, and antennas. Prerequisite: Engineering 103L, Physics 152L, Mathematics 216 and either Electrical and Computer Engineering 110L or Biomedical Engineering 253L. Instructor: Carin, Cummer, Gehm, Joines, Liu, or Smith

@@ -1,0 +1,7 @@
+Name: David Carlson
+Department: Civil and Environmental Engineering
+Short Description: Associate Professor of Civil and Environmental Engineering
+
+Research Interests:
+Machine learning, predictive modeling, health data science, statistical neuroscience
+

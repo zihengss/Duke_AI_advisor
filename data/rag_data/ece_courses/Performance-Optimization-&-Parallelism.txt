@@ -1,0 +1,5 @@
+Course Code: ECE 565
+Course Name: Performance Optimization & Parallelism
+
+Description:
+Analyzing and optimizing the performance of software, in both a single- and multi-threaded setting. Apply knowledge of hardware, programming, and assembly to both tasks. Single-threaded performance topics include code profiling & analysis, loop transformation, analysis of interaction of code & memory hierarchy, assembly level instruction scheduling impacts. Multi-threaded topics include scalability & load balance. For students with strong foundation of programming skills in high-level languages, assembly language, and computer architecture & design. Prerequisite: [(ECE/CompSci 250D and [CompSci 310 or ECE 353]) or (ECE 550D and (ECE 551D or ECE 751D))] and ECE 552 (may be taken concurrently).

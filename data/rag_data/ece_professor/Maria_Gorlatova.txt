@@ -1,0 +1,7 @@
+Name: Maria Gorlatova
+Department: Electrical and Computer Engineering
+Short Description: Nortel Networks Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+Architectures, algorithms, and protocols for emerging mobile pervasive systems and the Internet of Things. Our work crosses traditional discipline boundaries and requires thinking across multiple layers of system and protocol stacks. We are focusing on breaking the barriers for technologies that enable fundamentally new deployments and experiences, such as energy harvesting, artificial intelligence adapted to the Internet of Things constraints, and augmented reality.
+

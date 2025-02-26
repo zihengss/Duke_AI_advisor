@@ -1,0 +1,2 @@
+COMPSCI  571D
+Introduction to concepts in probabilistic machine learning with a focus on discriminative and hierarchical generative models. Topics include directed and undirected graphical models, kernel methods, exact and approximate parameter estimation methods, and structure learning. Prerequisite: Linear algebra, Statistical Science 250 or Statistical Science 611.

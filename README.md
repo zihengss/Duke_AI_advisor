@@ -30,8 +30,9 @@ pip install -r requirements.txt
 ### 本地部署
 ``` bash
 # backend
-python ./deployment/back_end/qwen2_fastapi_v1.py 
+cd 4.deployment/        
+uvicorn fastapi_v1:app --reload  
 
 # frontend
-streamlit run ./deployment/front_end/qwen2_frontend_no_history.py
+streamlit run ./4.deployment/hello.py
 ```

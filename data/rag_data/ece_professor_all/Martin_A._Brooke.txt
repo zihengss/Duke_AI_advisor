@@ -1,0 +1,56 @@
+Name: Martin A. Brooke
+Department: Electrical and Computer Engineering
+Short Description: Associate Professor of Electrical and Computer Engineering
+
+Research Interests:
+Analog, RF, and optoelectronic circuits. Sensor interface circuits. Deployable sensor systems
+
+Bio:
+Martin A. Brooke received the B.E. (Elect.) Degree (1st. Class Hons.) from Auckland University in New Zealand in 1981. He received the M.S. and Ph. D. in Electrical Engineering from The University of Southern California in 1984, and 1988, respectively. He is currently an Associate Professor of Electrical Engineering at Duke University. Professor Brooke was an Analog Devices Career development award recipient from 1988-1993, won a National Science Foundation Research Initiation Award in 1990, the 1992 IEEE Midwest Symposium on Circuits and Systems, Myril B. Reed Best Paper Award, and the Georgia Tech Outstanding Thesis Advisor Award in 2003. He has graduated twenty three PhD students from his research group and has eight U.S. patents awarded. He has published more than 160 articles in technical Journals and Proceedings, and articles on his work have appeared in several trade and news publications. Dr. Brooke is a senior member of the IEEE.
+
+Education:
+M.S.E.E. University of Southern California, 1982
+Ph.D. University of Southern California, 1988
+
+Positions:
+Associate Professor of Electrical and Computer Engineering
+
+Awards:
+CAPERS AND MARION MCDONALD AWARD FOR EXCELLENCE IN TEACHING AND RESEARCH. Duke Pratt School of Engineering. 2022
+Outstanding Thesis Advisor Award. Georgia Institute of Technology. 2003
+
+Courses Taught:
+MENG 551: Master of Engineering Internship/Project Assessment
+MENG 550: Master of Engineering Internship/Project
+ME 555: Advanced Topics in Mechanical Engineering
+ME 426: Ocean Engineering
+ENVIRON 590: Special Topics
+ENVIRON 554: Graduate Rainforest Engineering
+ENVIRON 461: Ocean Engineering
+ENVIRON 454: Rainforest Engineering
+ENERGY 796T: Bass Connections Energy & Environment Research Team
+ENERGY 795T: Bass Connections Energy & Environment Research Team
+ENERGY 396T: Bass Connections Energy & Environment Research Team
+ENERGY 395T: Bass Connections Energy & Environment Research Team
+EGR 393: Research Projects in Engineering
+EGR 101L: Engineering Design and Communication
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 534: Graduate Rainforest Engineering
+ECE 496: Special Topics in Electrical and Computer Engineering
+ECE 495: Special Topics in Electrical and Computer Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 461: Ocean Engineering
+ECE 449: Sensors and Sensor Interface Design
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 365: Rainforest Engineering
+
+Publications:
+Custer JP, Low JD, Hill DJ, Teitsworth TS, Christesen JD, McKinney CJ, et al.Ratcheting quasi-ballistic electrons in silicon geometric diodes at room temperature.Science (New York, NY). 2020 Apr;368(6487):177–80.
+Andrews JB, Cao C, Brooke MA, Franklin AD.Noninvasive material thickness detection by aerosol jet printed sensors enhanced through metallic carbon nanotube ink. IEEE Sensors Journal. 2017 Jul 15;17(14):4612–8.
+Nichols BS, Llopis A, Palmer GM, McCachren SS, Senlik O, Miller D, et al.Miniature spectral imaging device for wide-field quantitative functional imaging of the morphological landscape of breast tumor margins.J Biomed Opt. 2017 Feb 1;22(2):26007.
+Coonley K, Manturuk K, Miles J, Lipp G, Lorch C, Woodard C, et al.Massive open online laboratories? Ongoing work with microelectronics experiments performed outside of the traditional laboratory. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2016.
+Brooke MA, Cole E, Dale J, Prasad A, Quach H, Bau R, et al.An Ocean Sensor for Measuring the Seawater Electrochemical Response of 8 Metals Referenced to Zinc, for Determining Ocean pH. (Accepted)In: Sensing Technology (ICST), 2015 Ninth International Conference on. Auckland, New Zealand: IEEE; 2015.

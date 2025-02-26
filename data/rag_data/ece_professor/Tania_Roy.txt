@@ -1,0 +1,7 @@
+Name: Tania Roy
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+Energy-efficient electronicsTwo-dimensional materialsNeuromorphic ComputingOptoelectronicsWide bandgap materialsHigh power electronicsRadiation effects and reliability
+

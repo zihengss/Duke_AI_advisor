@@ -1,0 +1,51 @@
+Name: Kenneth R Brown
+Department: Electrical and Computer Engineering
+Short Description: Michael J. Fitzpatrick Distinguished Professor of Engineering
+
+Research Interests:
+Quantum error correction, quantum control, quantum computer architecture, ion trap quantum computing, and the spectroscopy of sympathetically cooled molecular ions
+
+Bio:
+Prof. Brown's research interest is the control of quantum systems for both understanding the natural world and developing new technologies. His current research areas are the development of robust quantum computers and the study of molecular properties at cold and ultracold temperatures.
+
+Education:
+B.S. University of Puget Sound, 1998
+Ph.D. University of California, Berkeley, 2003
+
+Positions:
+Michael J. Fitzpatrick Distinguished Professor of Engineering
+Professor in the Department of Electrical and Computer Engineering
+Associate Director of the Duke Quantum Center
+Professor of Physics
+Member of the Duke Quantum Center
+
+Awards:
+Stansell Family Distinguished Research Award. Pratt School of Engineering. 2020
+Fellow. American Physical Society. 2018
+Experienced Research Fellow. Alexander von Humboldt Foundation. 2015
+Kavli Fellow. Kavli Foundation and National Academy of Science. 2013
+
+Courses Taught:
+PHYSICS 995: Graduate Training Internship
+PHYSICS 628: Quantum Error Correction
+PHYSICS 495: Thesis Independent Study
+PHYSICS 493: Research Independent Study
+HOUSECS 59: House Course
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 621: Quantum Error Correction
+ECE 520: Graduate Introduction to Quantum Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 420: Introduction to Quantum Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+
+Publications:
+Lim S, Baek S, Whitlow J, Onofrio MD, Chen T, Phiri S, et al.Design and characterization of individual addressing optics based on multi-channel acousto-optic modulator for171Yb+qubits (Accepted). Optics and Laser Technology. 2025 Jan 1;180.
+Campos JA, Brown KR.Clifford-Deformed Compass Codes. 2024.
+Patel S, Brown KR.Precise Determination of Excited State Rotational Constants and
+  Black-Body Thermometry in Coulomb Crystals of Ca$^+$ and CaH$^+$. 2024.
+Qi L, Reed EC, Yu B, Brown KR.Experimental evidence for dipole-phonon quantum logic in a trapped
+  calcium monoxide and calcium ion chain. 2024.
+Huang S, Brown KR, Cetina M.Comparing Shor and Steane error correction using the Bacon-Shor code.Science advances. 2024 Nov;10(45):eadp2008.

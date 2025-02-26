@@ -1,0 +1,5 @@
+Course Code: ECE 656
+Course Name: Cryptography
+
+Description:
+Introduction to the design and analysis of cryptographic algorithms. Topics include basics of abstract algebra and number theory; symmetric and asymmetric encryption algorithms; cryptographic hash functions; message authentication codes; digital signature schemes; elliptic curve algorithms; side-channel attacks; and selected advanced topics. Prerequisite: COMPSCI 230 or equivalent or graduate standing.

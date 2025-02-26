@@ -1,0 +1,5 @@
+Course Code: ECE 365
+Course Name: Rainforest Engineering
+
+Description:
+An open-format project-based class for student team design with a focus on rainforests and related environments. Engages students in cross-disciplinary team challenges that teach them to work together with other students of differing backgrounds and skills. Design challenges are similar to the XPRIZE contests, or the NAE Grand Challenges. Prerequisite: Electrical and Computer Engineering 230L or 250D or 270DL or 280L or Mechanical Engineering 221L or Engineering 244L or Environment 102.

@@ -1,0 +1,57 @@
+Name: Tingjun Chen
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Wireless networking, next-generation wireless and optical networks, edge cloud and computing, Internet-of-Things (IoT), mobile and embedded systems, platforms and testbeds
+
+Bio:
+N/A
+
+Education:
+B.S. Tsinghua University (China), 2014
+M.S. Columbia University, 2018
+Ph.D. Columbia University, 2020
+
+Positions:
+Assistant Professor in the Department of Electrical and Computer Engineering
+Assistant Professor of Computer Science
+
+Awards:
+Top-Scored Paper. IEEE/Optica OFC'24. 2024
+Corning Outstanding Student Paper Competition Finalist. IEEE/Optica OFC'24. 2024
+Top-Scored Paper. IEEE/Optica OFC'23. 2023
+Highest Scoring Paper. ECOC'23. 2023
+IBM Academic Award. IBM. 2023
+Morton B. Friedman Memorial Prize for Excellence. Columbia Engineering. 2021
+IBM Academic Award. IBM. 2021
+Google Research Scholar Award. Google. 2021
+Eli Jury Award. Columbia University. 2021
+ACM SIGMOBILE Doctoral Dissertation Award, Runner-up. ACM SIGMOBILE. 2021
+Student Research Competition (SRC) Winner u2013 First Place. ACM MobiCom'19. 2019
+Best Paper Finalist. ACM MobiHoc'19. 2019
+Facebook Fellowship. Facebook. 2019
+Oscar and Verna Byron Fellowship. Columbia University Engineering School. 2018
+Best Paper Award. ACM CoNEXT'16. 2016
+Edwin Howard Armstrong Memorial Award. Columbia University. 2015
+Wei Family Private Foundation Fellowship. Wei Family Private Foundation. 2014
+
+Courses Taught:
+ECE 891: Internship
+ECE 655L: Full-Stack IoT Systems
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 556: Wireless Networking and Mobile Computing
+ECE 495: Special Topics in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+COMPSCI 655L: Full-Stack IoT Systems
+COMPSCI 590: Advanced Topics in Computer Science
+COMPSCI 515: Wireless Networking and Mobile Computing
+COMPSCI 390: Topics in Computer Science
+
+Publications:
+Wang Z, Huang Y-K, Han S, Kilper D, Chen T.Multi-span optical power spectrum prediction using cascaded learning with one-shot end-to-end measurement. Journal of Optical Communications and Networking. 2025 Jan 1;17(1):A23–A23.
+Garikapati S, Nagulu A, Kadota I, Essawy M, Chen T, Wang S, et al.Full-Duplex Receiver With Wideband, High-Power RF Self-Interference Cancellation Based on Capacitor Stacking in Switched-Capacitor Delay Lines. IEEE Journal of Solid-State Circuits. 2024 Jul 1;59(7):2105–20.
+Gao Z, Qi Z, Chen T.Mambas: Maneuvering Analog Multi-User Beamforming using an Array of Subarrays in mmWave Networks. In: ACM MobiCom 2024 - Proceedings of the 30th International Conference on Mobile Computing and Networking. 2024. p. 694–708.
+Xu Y, Kong X, Chen T, Zhuo D.Conveyor: Efficient Tool-aware LLM Serving with Tool Partial Execution. 2024.
+Wang Z, Huang YK, Ip E, Qi Z, Zussman G, Kilper D, et al.Field Trial of Coexistence and Simultaneous Switching of Real-Time Fiber Sensing and Coherent 400 GbE in a Dense Urban Environment. Journal of Lightwave Technology. 2024 Feb 15;42(4):1304–11.

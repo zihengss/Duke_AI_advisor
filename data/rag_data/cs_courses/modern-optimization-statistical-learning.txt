@@ -1,0 +1,4 @@
+COMPSCI  565
+Introduce several modern optimization algorithms which are useful in statistics and machine learning problems from a computational perspective. As most statistics and machine learning problems can be formulated as optimization problems, it is important for students to have a powerful toolbox of optimization algorithms. After taking the course, students are expected to acquire reasonable working skills to applying different algorithms to solve optimization problems practically. Prerequisite: Students are expected to have reasonable working knowledge on probability and linear algebra. Taking a programming/computing in the past is helpful, but not required.
+Prerequisites
+Prerequisite: (Math 230, 230S, 231 or 340) and (Math 216, 218, or 221) or graduate student standing

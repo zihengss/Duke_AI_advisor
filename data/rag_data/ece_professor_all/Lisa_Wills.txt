@@ -1,0 +1,34 @@
+Name: Lisa Wills
+Department: Computer Science
+Short Description: Assistant Professor of Computer Science
+
+Research Interests:
+I enjoy solving difficult problems surrounding computations with the goal to process large volumes of data efficiently. My research interests include computer architecture and microarchitecture, hardware-software co-designs, accelerators, and emerging application domains u2015 especially those in big data analytics such as genomics, graphs, and databases. One of my research goals is to greatly simplify the design, deployment, and usage of custom hardware and to leverage this research in hardware acceleration to advance state-of-the-art research in the healthcare domain as well as other natural sciences.
+
+Bio:
+N/A
+
+Education:
+Ph.D. Columbia University, 2014
+
+Positions:
+Assistant Professor of Computer Science
+Assistant Professor of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 552: Advanced Computer Architecture I
+ECE 494: Projects in Electrical and Computer Engineering
+COMPSCI 590: Advanced Topics in Computer Science
+COMPSCI 550: Advanced Computer Architecture I
+COMPSCI 210D: Introduction to Computer Systems
+
+Publications:
+Xu C, Sharma P, Wang T, Wills LW.Fast, Robust and Transferable Prediction for Hardware Logic Synthesis. In: Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2023. 2023. p. 167–79.
+Alcorta ES, Gerstlauer A, Deng C, Sun Q, Zhang Z, Xu C, et al.Special Session: Machine Learning for Embedded System Design. In: Proceedings - 2023 International Conference on Hardware/Software Codesign and System Synthesis, CODES+ISSS 2023. 2023. p. 28–37.
+Xu C, Kjellqvist C, Wills LW.SNS's not a Synthesizer: A Deep-Learning-Based Synthesis Predictor. In: Proceedings - International Symposium on Computer Architecture. 2022. p. 847–59.
+Robson E, Xu C, Wills LW.Prose: The architecture and design of a protein discovery engine. In: International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS. 2022. p. 655–68.
+Ang P, Dhingra B, Wills LW.Characterizing the Efficiency vs. Accuracy Trade-off for Long-Context NLP Models. In: NLP-Power 2022 - 1st Workshop on Efficient Benchmarking in NLP, Proceedings of the Workshop. 2022. p. 113–21.

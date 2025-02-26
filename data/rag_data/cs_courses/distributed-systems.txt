@@ -1,0 +1,2 @@
+COMPSCI  512
+Principles and techniques for sharing information and resources in computer networks, ranging from high-speed clusters and data centers to the global Internet. Topics include advanced distributed storage, distributed programming environments, replication, caching and consistency, transactional concurrency control, reliable update and recovery, and issues of scale and security for Internet services. Recommended prerequisite: Computer Science 310 or 510.

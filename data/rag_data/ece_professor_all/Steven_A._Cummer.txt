@@ -1,0 +1,44 @@
+Name: Steven A. Cummer
+Department: Electrical and Computer Engineering
+Short Description: Associate Chair, William H. Younger Distinguished Professor of Engineering
+
+Research Interests:
+Theoretical and experimental electromagnetic problems related to geophysical remote sensing and engineered electromagnetic materials.
+
+Bio:
+Dr. Steven Cummer received his Ph.D. in Electrical Engineering from Stanford University in 1997 and prior to joining Duke University in 1999 he spent two years at NASA Goddard Space Flight Center as an NRC postdoctoral research associate. Awards he has received include a National Science Foundation CAREER award and a Presidential Early Career Award for Scientists and Engineers (PECASE) in 2001. His current work is in a variety of theoretical and experimental electromagnetic problems related to geophysical remote sensing and engineered electromagnetic materials.
+
+Education:
+B.S.E.E. Stanford University, 1991
+M.S.E.E. Stanford University, 1993
+Ph.D. Stanford University, 1997
+
+Positions:
+William H. Younger Distinguished Professor of Engineering
+Associate Chair of Faculty Affairs in the Department of Electrical and Computer Engineering
+Professor of Electrical and Computer Engineering
+Bass Fellow
+
+Awards:
+Stansell Family Distinguished Research Award. Pratt School of Engineering. 2018
+Fellow. Institute for Electrical and Electronics Engineers. 2011
+Presidential Early Career Awards for Scientists and Engineers. President of the United States of America. 2001
+
+Courses Taught:
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 574: Waves in Matter
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Publications:
+Martí-Sabaté M, Li J, Djafari-Rouhani B, Cummer SA, Torrent D.Observation of two-dimensional acoustic bound states in the continuum. Communications Physics. 2024 Dec 1;7(1).
+Dong HW, Shen C, Liu Z, Zhao SD, Ren Z, Liu CX, et al.Inverse design of phononic meta-structured materials. Materials Today. 2024 Nov 1;80:824–55.
+Malla H, Guo Y, Hare BM, Cummer S, Malagón-Romero A, Ebert U, et al.Calculating Radio Emissions of Positive Streamer Phenomena Using 3D Simulations. Journal of Geophysical Research: Atmospheres. 2024 Oct 28;129(20).
+Pu Y, Cummer SA.Continuous Initial Breakdown Development of In-Cloud Lightning Flashes. Journal of Geophysical Research: Atmospheres. 2024 Oct 28;129(20).
+Lyu F, Qin Z, Cummer SA, Zheng Y, Jiang S, Zheng T, et al.Source Altitude of Energetic In-Cloud Pulses Inside Thunderstorms and Implication for the Intrinsic Brightness of Terrestrial Gamma-Ray Flashes. Geophysical Research Letters. 2024 Oct 28;51(20).

@@ -1,0 +1,4 @@
+COMPSCI  351
+Principles of securing the creation, storage, and transmission of data and ensuring its integrity, confidentiality, and availability. Topics include access control and authentication in distributed systems; cryptography and cryptographic protocols (mainly key exchange protocols); user authentication; software vulnerabilities and software engineering to reduce vulnerabilities; firewalls and related technologies; technologies to support online privacy; and selected advanced topics. Prerequisite: Computer Science 210D or 250D and Computer Science 230.
+Prerequisites
+Prerequisite: CompSci 210D or 250D; and CompSci 230 or 232

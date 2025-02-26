@@ -1,0 +1,7 @@
+Name: Christopher R Monroe
+Department: Electrical and Computer Engineering
+Short Description: Gilhuly Family Presidential Distinguished Professor
+
+Research Interests:
+quantum physics, applications in quantum information science
+

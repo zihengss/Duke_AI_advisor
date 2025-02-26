@@ -1,0 +1,29 @@
+Name: Sonia Grego
+Department: Electrical and Computer Engineering
+Short Description: Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+M.S. Università di Pisa (Italy), 1995
+Ph.D. University of Copenhagen (Denmark), 1999
+
+Positions:
+Associate Research Professor in the Department of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+
+
+Publications:
+Morrison L, Milliken C, Shurgot M, Grego S, Rajamanickam S, Ramalingam S.Women’s toilet use behaviors and water use in a urine diversion squat pan toilet pilot. Journal of Water Sanitation and Hygiene for Development. 2024 Sep 1;14(9):886–94.
+Zhou J, Luo Y, Darcy JW, Lafata KJ, Ruiz JR, Grego S.Long-term, automated stool monitoring using a novel smart toilet: A feasibility study. Neurogastroenterology and Motility. 2024 Jan 1;
+Rosario P, Seenivasan T, Viswash R, Ramalingam S, Barani V, Welling CM, et al.Impact of heat-treatment on wastewater analytical parameters.Water science and technology : a journal of the International Association on Water Pollution Research. 2023 Dec;88(11):2931–9.
+Subramani P, Basil M, Rosario P, Jalaja DR, Choudhary V, Renganathan J, et al.Water recycling public toilets based on onsite electrochemical wastewater treatment. Environmental Science: Water Research and Technology. 2023 Nov 13;10(1):157–67.
+Zhou J, McNabb J, Decapite N, Ruiz JR, Fisher DA, Grego S, et al.Stool Image Analysis for Digital Health Monitoring By Smart Toilets. IEEE Internet of Things Journal. 2023 Mar 1;10(5):3720–34.

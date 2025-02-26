@@ -1,0 +1,42 @@
+Name: Rabih Younes
+Department: Electrical and Computer Engineering
+Short Description: Associate Director of Undergraduate Studies, Assistant Professor of the Practice in the Department of ECE
+
+Research Interests:
+Wearable computing, activity recognition, context awareness, machine learning, artificial intelligence, engineering education, and Middle Eastern politics
+
+Bio:
+Rabih Younes received his PhD in Computer Engineering from Virginia Tech in 2018 after receiving his BE and MSE in Computer Engineering from the Lebanese American University in 2011 and 2013, respectively. Rabih speaks nine languages (fluent in three) and holds a number of certificates in education, networking, IT, and skydiving. He is also a member of several honor societies, including Tau Beta Pi, Eta Kappa Nu, Phi Kappa Phi, and Golden Key.Rabih has a passion for both teaching and research; he has been teaching since he was a teenager, and his research interests include wearable computing, activity recognition, context awareness, machine learning, engineering education, and Middle Eastern politics. As a professor, Rabih is committed to helping his students achieve their goals and providing them with opportunities to realize that. He also focuses on their personal development and on improving their abilities to be critical thinkers, better communicators, and active members of their community and the world.More information can be found on his personal website: www.rabihyounes.com.
+
+Education:
+M.S. Lebanese American University (Lebanon), 2013
+Ph.D. Virginia Polytech Institute and State University, 2018
+
+Positions:
+Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+
+
+Courses Taught:
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 650: Systems Programming and Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 551D: Programming, Data Structures, and Algorithms in C++
+ECE 550D: Fundamentals of Computer Systems and Engineering
+ECE 496: Special Topics in Electrical and Computer Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 469: Wearable and Ubiquitous Computing Systems Design
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 291: Projects in Electrical and Computer Engineering
+
+Publications:
+Chikwetu L, Younes R.Carbohydrate Content Classification Using Postprandial Heart Rate Responses from Non-Invasive Wearables.Sensors (Basel, Switzerland). 2024 Aug;24(16):5331.
+Gray MJ, Younes R.Predicting Student Performance Using Discussion Forums' Participation Data. In: ASEE Annual Conference and Exposition, Conference Proceedings. 2024.
+Haywood C, Younes R.Real-time Blind Deblurring Based on Lightweight Deep-Wiener-Network. In: Proceedings of the International Joint Conference on Neural Networks. 2023.
+Zhao C, Li X, Younes R.Self-supervised Multi-Modal Video Forgery Attack Detection. In: IEEE Wireless Communications and Networking Conference, WCNC. 2023.
+Yan Z, Younes R, Forsyth J.ResNet-Like CNN Architecture and Saliency Map for Human Activity Recognition. In: Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST. 2022. p. 129–43.

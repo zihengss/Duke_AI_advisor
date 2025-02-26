@@ -1,0 +1,2 @@
+COMPSCI   20
+Credit for Advanced Placement Computer Science Principles on the basis of College Board Examination.

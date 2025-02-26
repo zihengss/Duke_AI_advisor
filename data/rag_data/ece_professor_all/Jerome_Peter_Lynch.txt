@@ -1,0 +1,60 @@
+Name: Jerome Peter Lynch
+Department: Civil and Environmental Engineering
+Short Description: Vinik Dean of Engineering
+
+Research Interests:
+structural health monitoring
+cyber-physical system architectures
+infrastructure resilience
+multifunctional nanocomposites
+non-destructive evaluation
+community engagement
+academic leadership
+
+Bio:
+Prof. Lynch's research interests are in advancing cyber-physical system architectures that combine sensing, computing, and control to create intelligent civil infrastructure systems.  He is best known for his research portfolio in structural health monitoring (SHM) that allow the performance and health of civil infrastructure systems to be assessed based on monitoring data to improve system safety and resilience.
+
+Education:
+B.S. The Cooper Union, 1997
+M.S.C.E. Stanford University, 1998
+Ph.D. Stanford University, 2002
+M.S.E.E. Stanford University, 2003
+
+Positions:
+Fitzpatrick Family University Distinguished Professor of Engineering
+Professor in the Department of Civil and Environmental Engineering
+Vinik Dean of Engineering
+Professor in the Department of Electrical & Computer Engineering
+
+Awards:
+Fellow. ASCE Engineering Mechanics Institute. 2021
+Faculty Award. Civil and Environmental Friends Association (CEEFA), University of Michigan. 2016
+George J. Huebner, Jr. Research Excellence Award. College of Engineering, University of Michigan. 2015
+Walter L. Huber Civil Engineering Research Prize. American Society of Civil Engineers (ASCE). 2014
+John F. Ullrich Education Excellence Award. College of Engineering, University of Michigan. 2013
+EMI Leonardo da Vinci Award. American Society of Civil Engineers (ASCE). 2012
+Region 3 Outstanding Faculty Advisor Award. American Society of Civil Engineers (ASCE). 2011
+Professor of the Year Award. ASCE Student Chapter, University of Michigan. 2010
+Faculty Achievement Award. Rackham Graduate School, University of Michigan. 2010
+Shah Family Innovation Prize. Earthquake Engineering Research Institute. 2009
+Structural Health Monitoring Person of the Year Award. International Workshop of Structural Health Monitoring. 2009
+Presidential Early Career Awards for Scientists and Engineers (PECASE Awards). National Science Foundation (NSF). 2009
+National Science Foundation CAREER Award. National Science Foundation (NSF). 2009
+Department Award. Department of Civil and Environmental Engineering, University of Michigan. 2009
+Professor of the Year Award . ASCE Student Chapter, University of Michigan. 2009
+1938E Award. College of Engineering, University of Michigan. 2008
+Henry Russel Award. Rackham Graduate School, University of Michigan. 2007
+Professor of the Year Award. ASCE Student Chapter, University of Michigan. 2005
+Young Investigator Award. Office of Naval Research (ONR). 2005
+Short-Stay Fellowship. Japan Society for The Promotion of Science (JSPS). 2003
+
+Courses Taught:
+EGR 393: Research Projects in Engineering
+CEE 691: Independent Study: Advanced Topics in Civil and Environmental Engineering
+
+Publications:
+Wu M, Wang B, Yin Y, Lynch JP.Participatory traffic control: Leveraging connected and automated vehicles to enhance network efficiency. Transportation Research Part C: Emerging Technologies. 2024 Sep 1;166.
+Admassu KA, Lynch J, Athanasopoulos-Zekkos A, Zekkos D, Benhamida B.Risk-based asset management framework for highway retaining wall systems using wireless structural health monitoring data. Advances in Structural Engineering. 2024 Jan 1;
+Draughon G, Lynch J, Salvino L.Integrated Vision-Body Sensing System for Tracking People in Intelligent Environments. In 2023. p. 885–93.
+Flanigan KA, Lynch JP.Optimal Event-Based Policy for Remote Parameter Estimation in Wireless Sensing Architectures Under Resource Constraints. IEEE Transactions on Wireless Communications. 2022 Jul 1;21(7):5293–304.
+Zhou H, Lynch J, Zekkos D.Autonomous wireless sensor deployment with unmanned aerial vehicles for structural health monitoring applications. Structural Control and Health Monitoring. 2022 Jun 1;29(6).

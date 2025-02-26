@@ -1,0 +1,7 @@
+Name: Michael Richard Gustafson
+Department: Electrical and Computer Engineering
+Short Description: ECE Director of Undergraduate Studies, Associate Professor of the Practice
+
+Research Interests:
+Computational methods for image analysis and information extraction, discrete event simulations, curriculum development and deployment
+

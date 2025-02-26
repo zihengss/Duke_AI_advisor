@@ -1,0 +1,5 @@
+Course Code: ECE 654
+Course Name: Edge Computing
+
+Description:
+A seminar-format examination of design principles and recent advances in edge computing, a distributed networked system architecture that places computing and storage at multiple locations between the user and the cloud. The class covers edge computing platforms, edge-adapted algorithms, and the use of edge in mobile and Internet of Things systems and applications. The class focuses on in-depth examinations of key scientific advances in the field. Students complete and present a research-based project, individual or team-based. Prerequisite: ECE/COMPSCI 356 or ECE/COMPSCI 350L or ECE 353/COMPSCI 310 or Graduate Standing.

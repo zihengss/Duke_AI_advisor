@@ -1,0 +1,33 @@
+Name: April S. Brown
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+Dr. April Brown received her B.S.E.E. from North Carolina State University in 1981, her M.S.E.E. and Ph.D. from Cornell University in 1984 and 1985, respectively. She worked at the Hughes Research Laboratories (now HRL LLC) in Malibu, Ca. from 1986-1993, and spent one year at the Army Research Office in the Physics Division (1988). She joined the Georgia Institute of Technology in 1994 as an Associate Professor and was promoted to Professor in 1999. She was Associate Dean in the College of Engineering from 1999-2001 and Executive Assistant to the President from 2001-2002. In addition, she was named Pettit Professor in Microelectronics in 2001. She joined Duke University as Professor and Chair in July 2002.
+
+Education:
+Ph.D. Cornell University, 1985
+
+Positions:
+Professor of Electrical and Computer Engineering
+
+Awards:
+Fellow. American Physical Society. 2011
+Fellows. Institute for Electrical and Electronics Engineers. 1998
+Paul Rappaport Award. IEEE Electron Devices Society. 1992
+
+Courses Taught:
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 495: Special Topics in Electrical and Computer Engineering
+ECE 230L: Introduction to Microelectronic Devices and Circuits
+ECE 230L9: Introduction to Microelectronic Devices and Circuits-Lab
+
+Publications:
+Losurdo M, Gutiérrez Y, Suvorova A, Giangregorio MM, Rubanov S, Brown AS, et al.Gallium Plasmonic Nanoantennas Unveiling Multiple Kinetics of Hydrogen Sensing, Storage, and Spillover.Advanced materials (Deerfield Beach, Fla). 2021 Jul;33(29):e2100500.
+Gutiérrez Y, García-Fernández P, Junquera J, Brown AS, Moreno F, Losurdo M.Polymorphic gallium for active resonance tuning in photonic nanostructures: From bulk gallium to two-dimensional (2D) gallenene. Nanophotonics. 2020 Oct 1;9(14):4233–52.
+Gutiérrez Y, Brown AS, Moreno F, Losurdo M.Plasmonics beyond noble metals: Exploiting phase and compositional changes for manipulating plasmonic performance. Journal of Applied Physics. 2020 Aug 28;128(8).
+Gutiérrez Y, Giangregorio MM, Palumbo F, González F, Brown AS, Moreno F, et al.Sustainable and Tunable Mg/MgO Plasmon-Catalytic Platform for the Grand Challenge of SF6Environmental Remediation.Nano letters. 2020 May;20(5):3352–60.
+Gutiérrez Y, Giangregorio MM, Brown AS, Moreno F, Losurdo M.Understanding electromagnetic interactions and electron transfer in Ga nanoparticle-graphene-metal substrate sandwich systems. Applied Sciences (Switzerland). 2019 Oct 1;9(19).

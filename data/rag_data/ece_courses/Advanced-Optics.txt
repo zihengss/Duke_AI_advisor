@@ -1,0 +1,5 @@
+Course Code: ECE 541
+Course Name: Advanced Optics
+
+Description:
+This course presents a rigorous treatment of topics in Photonics and Optics targeted at students with an existing photonics or optics background. Topics will include, Optical Sources, Statistical Optics and Coherence Theory, Detection of Radiation; Nonlinear Optics; Waveguides and Optical Fibers; Modern Optical Modulators; Ultrafast lasers and Applications. These topics will be considered individually and then from a system level perspective. Prerequisite: Electrical and Computer Engineering 340L or equivalent.

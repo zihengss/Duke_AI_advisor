@@ -1,0 +1,5 @@
+Course Code: ECE 520
+Course Name: Graduate Introduction to Quantum Engineering
+
+Description:
+Quantum mechanics was discovered at the beginning of the 20th century and has had a profound effect on the development of modern technology. This course is about the potential for quantum technologies in the 21st century. The focus of the course this semester will be a survey of quantum computation, a field that promises to revolutionize the way we compute by using the dynamics of quantum mechanics. Topics include quantum circuits, introduction to quantum algorithms, hardware, and architectures. Prerequisite: [ECE 270DL and ECE 280L and one of (Math 216, 218D-1, 218D-2, or 221)] or graduate standing. Not open to students who have taken ECE 420.

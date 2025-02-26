@@ -1,0 +1,36 @@
+Name: Stefan M Goetz
+Department: Psychiatry & Behavioral Sciences, Behavioral Medicine & Neurosciences
+Short Description: Assistant Professor in Psychiatry and Behavioral Sciences
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Technical University of Munich, School of Medicine (Germany), 2012
+
+Positions:
+Assistant Professor in Psychiatry and Behavioral Sciences
+Assistant Professor in the Department of Electrical and Computer Engineering
+Assistant Professor in Neurosurgery
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+
+
+Courses Taught:
+ME 493: Engineering Undergraduate Fellows Projects
+EGR 393: Research Projects in Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+
+Publications:
+Murphy DLK, Koponen LM, Wood E, Li Y, Bukhari-Parlakturk N, Goetz SM, et al.Reduced auditory perception and brain response with quiet TMS coil.Brain Stimul. 2024 Oct 10;17(6):1197–207.
+Schlesinger O, Kundu R, Isaev D, Choi JY, Goetz SM, Turner DA, et al.Scalp surface estimation and head registration using sparse sampling and 3D statistical models.Comput Biol Med. 2024 Aug;178:108689.
+Fang J, Si W, Xing L, Goetz SM.Analysis and Improvement of Transient Voltage Stability for Grid-Forming Converters. IEEE Transactions on Industrial Electronics. 2024 Jul 1;71(7):7230–40.
+Qin M, Chen W, Niu J, Gao Q, Lu M, Zhang F, et al.Maximum Power Factor Tracking Technique for LCC-Capacitor Charging Power Supply Through Variable DC Link Voltage. IEEE Transactions on Industrial Electronics. 2024 Jul 1;71(7):7322–31.
+Li Z, Yang A, Chen G, Tashakor N, Zeng Z, Peterchev AV, et al.A Rapidly Reconfigurable DC Battery for Increasing Flexibility and Efficiency of Electric Vehicle Drive Trains. IEEE Transactions on Transportation Electrification. 2024 Jun 1;10(2):2322–31.

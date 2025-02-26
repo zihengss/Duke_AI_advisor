@@ -1,0 +1,5 @@
+Course Code: ECE 572
+Course Name: Electromagnetic Communication Systems
+
+Description:
+Review of fundamental laws of Maxwell, Gauss, Ampere, and Faraday. Elements of waveguide propagation and antenna radiation. Analysis of antenna arrays by images. Determination of gain, loss, and noise temperature parameters for terrestrial and satellite electromagnetic communication systems. Prerequisite: Electrical and Computer Engineering 270DL or 571.

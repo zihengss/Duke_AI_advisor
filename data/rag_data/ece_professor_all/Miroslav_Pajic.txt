@@ -1,0 +1,47 @@
+Name: Miroslav Pajic
+Department: Electrical and Computer Engineering
+Short Description: Director of Master's Studies, Professor in the Department of ECE
+
+Research Interests:
+Design and analysis of autonomous cyber-physical systems (CPS), and in particular, embedded systems, AI, learning and controls, CPS security and high-assurance autonomy, with various application domains including robotics, automotive, and medical systems
+
+Bio:
+Miroslav Pajic's research focuses on design and analysis of cyber-physical systems with varying levels of autonomy and human interaction, at the intersection of (more traditional) areas of embedded systems, AI, learning and controls, formal methods and robotics.
+
+Education:
+Ph.D. University of Pennsylvania, 2012
+
+Positions:
+Professor in the Department of Electrical and Computer Engineering
+Director of Master Studies in the Department of Electrical and Computer Engineering
+Associate Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+Associate Professor of Computer Science
+
+Awards:
+
+
+Courses Taught:
+MENG 552: Master of Engineering Supplemental Internship
+MENG 551: Master of Engineering Internship/Project Assessment
+MENG 550: Master of Engineering Internship/Project
+ME 592: Research Independent Study in Mechanical Engineering or Material Science
+ME 591: Research Independent Study in Mechanical Engineering or Material Science
+EGRCOOP 501: Engineering Graduate Cooperative Education 1
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 701S: Being a Successful ECE Masters Student
+ECE 567: Cyber-Physical System Design
+ECE 495: Special Topics in Electrical and Computer Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 459: Introduction to Embedded Systems
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 292: Projects in Electrical and Computer Engineering
+
+Publications:
+Chen Y, Banerjee S, Daily S, Krolik J, Li H, Limbrick D, et al.Athena – The NSF AI Institute for Edge Computing. AI Magazine. 2024 Mar 1;45(1):15–21.
+Schmidt SL, Chowdhury AH, Mitchell KT, Peters JJ, Gao Q, Lee H-J, et al.At home adaptive dual target deep brain stimulation in Parkinson's disease with proportional control.Brain. 2024 Mar 1;147(3):911–22.
+Yang X, Wang Z, Hu XS, Kim CH, Yu S, Pajic M, et al.Neuro-Symbolic Computing: Advancements and Challenges in Hardware-Software Co-Design. IEEE Transactions on Circuits and Systems II: Express Briefs. 2024 Mar 1;71(3):1683–9.
+French A, Cummings ML, Zhu H, Pajic M.Determining Novice and Expert Status in Human–Automation Interaction Through Hidden Markov Models. Applied Artificial Intelligence. 2024 Jan 1;38(1).
+Hsu HL, Pajic M.Robust Exploration with Adversary via Langevin Monte Carlo. In: Proceedings of Machine Learning Research. 2024. p. 1592–605.

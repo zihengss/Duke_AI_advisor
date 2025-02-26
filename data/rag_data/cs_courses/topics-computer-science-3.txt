@@ -1,0 +1,2 @@
+COMPSCI  190S
+Seminar version of Computer Science 190, topics from various areas of computer science, changing each year.

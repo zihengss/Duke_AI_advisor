@@ -1,0 +1,2 @@
+COMPSCI  638
+This is an advanced course in theoretical computer science covering some of the most influential work in graph algorithms. Given the broad impact that graph algorithms have had on the general algorithmic toolkit, this course also provides exposure to many key techniques that have been developed in algorithmic theory. Specific topics covered include network flows, graph connectivity, spectral graph theory, and network design algorithms. Recommended prerequisite: Computer Science 532 or an equivalent course in algorithms at a graduate level.

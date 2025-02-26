@@ -1,0 +1,2 @@
+Overview of professor Benjamin Rossman: 
+My research interests lie in computational complexity and logic, specifically the areas ofcircuit complexity(the quest for lower bounds in combinatorial models of computation) andfinite model theory(the study of logical definability on finite structures). My work is supported by NSERC Discovery and Accelerator Grants, the Ontario Early Researcher Award, and a Sloan Research Fellowship.

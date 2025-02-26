@@ -1,0 +1,59 @@
+Name: Maria Gorlatova
+Department: Electrical and Computer Engineering
+Short Description: Nortel Networks Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+Architectures, algorithms, and protocols for emerging mobile pervasive systems and the Internet of Things. Our work crosses traditional discipline boundaries and requires thinking across multiple layers of system and protocol stacks. We are focusing on breaking the barriers for technologies that enable fundamentally new deployments and experiences, such as energy harvesting, artificial intelligence adapted to the Internet of Things constraints, and augmented reality.
+
+Bio:
+Dr. Maria Gorlatova's research is focused on reaching the next level of adaptive intelligent behavior in Internet of Things systems and applications. This research involves the development of architectures, algorithms, and protocols for emerging pervasive systems. It crosses traditional discipline boundaries and requires thinking across multiple layers of system and protocol stacks.Dr. Gorlatova earned her Ph.D. in Electrical Engineering from Columbia University, and her M.Sc. and B.Sc. (Summa Cum Laude) degrees in Electrical Engineering from University of Ottawa, Canada. She has several years of industry experience, where she had been affiliated with Telcordia Technologies, IBM, and D. E. Shaw Research. She came to Duke from Princeton University, where she held the positions of an Associate Research Scholar in the Electrical Engineering Department and an Associate Director of the Princeton EDGE Lab.Dr. Gorlatova is a recipient of the Google Anita Borg USA Fellowship, Canadian Graduate Scholar CGS NSERC Fellowships, the Columbia University Presidential Fellowship, and the Columbia University Jury Award for Outstanding Achievement in Communications. She is a co-recipient of the ACM SenSys Best Student Demonstration Award, the IEEE Communications Society Young Author Best Paper Award, and the IEEE Communications Society Award for Advances in Communications.
+
+Education:
+B.S. University of Ottawa (Canada), 2004
+M.S. University of Ottawa (Canada), 2007
+Ph.D. Columbia University, 2013
+
+Positions:
+Nortel Networks Assistant Professor of Electrical and Computer Engineering
+Assistant Professor of Electrical and Computer Engineering
+Assistant Professor of Computer Science
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+Best Research Artifact Award. IEEE IPSN. 2020
+N2 Women Rising Star. Networking Networking Women (N2Women). 2019
+Young Author Best Paper Award. IEEE Communications Society. 2016
+Jury Award for Outstanding Achievement in Communications. Columbia University Electrical Engineering Department. 2013
+Anita Borg USA Fellowship. Google. 2012
+Best Student Demonstration Award. ACM SenSys. 2011
+Award for Advances in Communications. IEEE Communications Society. 2011
+Presidential Fellowship. Columbia University. 2008
+Alexander Graham Bell Canada Graduate CGS-D Scholarship. Natural Sciences and Engineering Research Council Canada. 2008
+
+Courses Taught:
+NEUROSCI 494: Research Independent Study 2
+NEUROSCI 493: Research Independent Study 1
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 654: Edge Computing
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 356: Computer Network Architecture
+ECE 292: Projects in Electrical and Computer Engineering
+ECE 291: Projects in Electrical and Computer Engineering
+COMPSCI 590: Advanced Topics in Computer Science
+COMPSCI 564: Edge Computing
+COMPSCI 394: Research Independent Study
+COMPSCI 393: Research Independent Study
+COMPSCI 356: Computer Network Architecture
+
+Publications:
+Scargill T, Janamsetty R, Fronk C, Eom S, Gorlatova M.Environment Texture Optimization for Augmented Reality. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2024 Sep 9;8(3).
+Eom S, Kim S, Jackson J, Sykes D, Rahimpour S, Gorlatova M.Augmented Reality-based Contextual Guidance through Surgical Tool Tracking in Neurosurgery.IEEE transactions on visualization and computer graphics. 2024 Apr;PP.
+Chen Y, Omoma S, Kwon H, Inaltekin H, Gorlatova M.Quantifying and Exploiting VR Frame Correlations: An Application of a Statistical Model for Viewport Pose. IEEE Transactions on Mobile Computing. 2024 Jan 1;23(12):11466–82.
+Eom S, Mat T, Hu T, Vutakuri N, Jackson J, Gorlatova M.Did I Do Well? Personalized Assessment of Trainees' Performance in Augmented Reality-Assisted Neurosurgical Training. In: Proceedings - 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, VRW 2024. 2024. p. 117–24.
+Duan L, Scargill T, Chen Y, Gorlatova M.3D Object Detection with VI-SLAM Point Clouds: The Impact of Object and Environment Characteristics on Model Performance. In: Proceedings - IEEE International Conference on Robotics and Automation. 2024. p. 14014–20.

@@ -1,0 +1,8 @@
+Name: John A. Board
+Department: Electrical and Computer Engineering
+Short Description: Associate Professor of Electrical and Computer Engineering
+
+Research Interests:
+High performance scientific computing and simulation, novel computer architectures, cluster computing and parallel processing
+ubiquitous computing.
+

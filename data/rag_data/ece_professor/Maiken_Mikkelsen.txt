@@ -1,0 +1,7 @@
+Name: Maiken Mikkelsen
+Department: Electrical and Computer Engineering
+Short Description: James N. and Elizabeth H. Barton Associate Professor of Electrical and Computer Engineering
+
+Research Interests:
+Quantum nanophotonics, plasmonics, light-matter interactions in artificially structured nanoscale materials, hybrid molecular-scale materials and spin phenomena in the solid state
+

@@ -1,0 +1,33 @@
+Name: Tania Roy
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor of Electrical and Computer Engineering
+
+Research Interests:
+Energy-efficient electronicsTwo-dimensional materialsNeuromorphic ComputingOptoelectronicsWide bandgap materialsHigh power electronicsRadiation effects and reliability
+
+Bio:
+Roy's work focuses on developing hardware for artificial intelligence applications using novel functional materials including two-dimensional materials. By modeling computer architecture after the basic structure of synapses and neurons, hardware can be manufactured to be better adapted to pattern recognition algorithms. She also focuses on high-power electronics made with gallium nitride and other wide bandgap semiconductors. She is currently working on investigating the defects produced by ionizing radiation in GaN devices. She is particularly interested in studying the reliability of emerging devices and materials systems using electrical characterization techniques.
+
+Education:
+M.S. Vanderbilt University, 2008
+Ph.D. Vanderbilt University, 2011
+
+Positions:
+Assistant Professor of Electrical and Computer Engineering
+
+Awards:
+
+
+Courses Taught:
+ECE 526: Semiconductor Devices for Integrated Circuits
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 230L: Introduction to Microelectronic Devices and Circuits
+ECE 230L9: Introduction to Microelectronic Devices and Circuits-Lab
+
+Publications:
+Islam MM, Rahman MS, Heldmyer H, Han SS, Jung Y, Roy T.Bio-inspired “Self-denoising” capability of 2D materials incorporated optoelectronic synaptic array. npj 2D Materials and Applications. 2024 Dec 1;8(1).
+Roy T.A 2D route to 3D computer chips.Nature. 2024 Jan;625(7994):249–50.
+Krishnaprasad A, Dev D, Shawkat MS, Martinez-Martinez R, Islam MM, Chung HS, et al.Graphene/MoS2/SiOxmemristive synapses for linear weight update. npj 2D Materials and Applications. 2023 Dec 1;7(1).
+Islam MM, Krishnaprasad A, Dev D, Martinez-Martinez R, Okonkwo V, Wu B, et al.Multiwavelength Optoelectronic Synapse with 2D Materials for Mixed-Color Pattern Recognition.ACS nano. 2022 Jul;16(7):10188–98.
+Yoo C, Ko TJ, Kaium MG, Martinez R, Islam MM, Li H, et al.A minireview on 2D materials-enabled optoelectronic artificial synaptic devices. APL Materials. 2022 Jul 1;10(7).

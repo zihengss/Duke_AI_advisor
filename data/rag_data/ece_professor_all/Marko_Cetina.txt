@@ -1,0 +1,34 @@
+Name: Marko Cetina
+Department: Physics
+Short Description: Assistant Professor of Physics
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+B.S. California Institute of Technology, 2004
+Ph.D. Massachusetts Institute of Technology, 2011
+
+Positions:
+Assistant Professor of Physics
+Assistant Professor in the Department of Electrical and Computer Engineering
+Member of the Duke Quantum Center
+
+Awards:
+
+
+Courses Taught:
+PHYSICS 671: Atomic Physics and Quantum Optics
+PHYSICS 361: Intermediate Mechanics
+PHYSICS 151L9D: Introductory Mechanics (Discussion Component)
+PHYSICS 141D: General Physics I  (DIS)
+
+Publications:
+Huang S, Brown KR, Cetina M.Comparing Shor and Steane error correction using the Bacon-Shor code.Science advances. 2024 Nov;10(45):eadp2008.
+Lewis L, Zhu D, Gheorghiu A, Noel C, Katz O, Harraz B, et al.Experimental implementation of an efficient test of quantumness. Physical Review A. 2024 Jan 1;109(1).
+Feng L, Katz O, Haack C, Maghrebi M, Gorshkov AV, Gong Z, et al.Continuous symmetry breaking in a trapped-ion spin chain.Nature. 2023 Nov;623(7988):713–7.
+Zhu D, Kahanamoku-Meyer GD, Lewis L, Noel C, Katz O, Harraz B, et al.Interactive cryptographic proofs of quantumness using mid-circuit measurements. Nature Physics. 2023 Nov 1;19(11):1725–31.
+Seetharam K, Biswas D, Noel C, Risinger A, Zhu D, Katz O, et al.Digital quantum simulation of NMR experiments.Science advances. 2023 Nov;9(46):eadh2594.

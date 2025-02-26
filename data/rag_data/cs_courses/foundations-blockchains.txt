@@ -1,0 +1,4 @@
+COMPSCI  584
+Blockchains form a key infrastructure for decentralizing trust from a single entity to multiple different entities. Many fields such as finance, supply chain industry, and the design of central bank digital currencies today are considering the use of blockchains to decentralize trust. At a high level, blockchain consists of stack of three key layers: 1) Consensus - agreement among parties 2) Scalability, and 3) Application layer. In this course, we will learn about the foundations that enable each of these layers. Prerequisite: CompSci 230/Discrete Math; CompSci 210 Computer Systems or CompSci 250 Computer Architecture. CompSci 330 Algorithms is helpful but not required.
+Prerequisites
+Prerequisite: For Undergraduates: Computer Science 230, Computer Science 210D or Computer Science 250

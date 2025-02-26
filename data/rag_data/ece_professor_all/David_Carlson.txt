@@ -1,0 +1,42 @@
+Name: David Carlson
+Department: Civil and Environmental Engineering
+Short Description: Associate Professor of Civil and Environmental Engineering
+
+Research Interests:
+Machine learning, predictive modeling, health data science, statistical neuroscience
+
+Bio:
+My general research focus is on developing novel machine learning and artificial intelligence techniques that can be used to accelerate scientific discovery.  I work extensively both on the fundamental theory and algorithms as well as translating them into scientific applications.  I have extensive partnerships deploying machine learning techniques in environmental health, mental health, and neuroscience.
+
+Education:
+Ph.D. Duke University, 2015
+
+Positions:
+Associate Professor of Civil and Environmental Engineering
+Assistant Professor in Biostatistics & Bioinformatics
+Assistant Professor in the Department of Electrical and Computer Engineering
+Assistant Professor of Computer Science
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Awards:
+
+
+Courses Taught:
+ME 555: Advanced Topics in Mechanical Engineering
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+COMPSCI 394: Research Independent Study
+COMPSCI 393: Research Independent Study
+CEE 780: Internship
+CEE 702: Graduate Colloquium
+CEE 690: Advanced Topics in Civil and Environmental Engineering
+
+Publications:
+Jain V, Mukherjee A, Banerjee S, Madhwal S, Bergin MH, Bhave P, et al.A hybrid approach for integrating micro-satellite images and sensors network-based ground measurements using deep learning for high-resolution prediction of fine particulate matter (PM2.5) over an indian city, lucknow. Atmospheric Environment. 2024 Dec 1;338.
+Carson WE, Major S, Akkineni H, Fung H, Peters E, Carpenter KLH, et al.Model selection to achieve reproducible associations between resting state EEG features and autism.Sci Rep. 2024 Oct 25;14(1):25301.
+Walder-Christensen KK, Goffinet J, Bey AL, Syed R, Benton J, Mague SD, et al.Sleep-wake states are encoded across emotion-regulation regions of the mouse brain. Cold Spring Harbor Laboratory. 2024.
+Calhoun ZD, Black MS, Bergin M, Carlson D.Refining Citizen Climate Science: Addressing Preferential Sampling for Improved Estimates of Urban Heat. Environmental Science and Technology Letters. 2024 Aug 13;11(8):845–50.
+Isaev D, Major S, Carpenter KLH, Grapel J, Chang Z, Martino MD, et al.Use of Computer Vision Analysis for Labeling Inattention Periods in Eeg Recordings With Visual Stimuli. Springer Science and Business Media LLC. 2024.

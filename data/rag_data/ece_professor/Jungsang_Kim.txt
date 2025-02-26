@@ -1,0 +1,7 @@
+Name: Jungsang Kim
+Department: Electrical and Computer Engineering
+Short Description: Schiciano Family Distinguished Professor of Electrical and Computer Engineering
+
+Research Interests:
+Quantum Computing with Trapped Ions, Quantum Information Science, Novel Photonic Devices, Application of Quantum Computers
+

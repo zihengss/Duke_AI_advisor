@@ -1,0 +1,4 @@
+COMPSCI  230
+Mathematical notations, logic, and proof; linear and matrix algebra; graphs, digraphs, trees, representations, and algorithms; counting, permutations, combinations, discrete probability, Markov models; advanced topics from algebraic structures, geometric structures, combinatorial optimization, number theory. Pre/corequisite: Computer Science 201. Not open to students who have taken CompSci 232.
+Prerequisites
+Pre/corequisite: Computer Science 201. Not open to students who have taken Computer Science 232.

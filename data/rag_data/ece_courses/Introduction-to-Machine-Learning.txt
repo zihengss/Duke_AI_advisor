@@ -1,0 +1,5 @@
+Course Code: ECE 580K
+Course Name: Introduction to Machine Learning
+
+Description:
+Introduction to core concepts in machine learning and statistical pattern recognition, with a focus on discriminative and generative classifiers (nearest-neighbors, Bayes, logistic regression, linear discriminant, support vector machine, and relevance vector machine). Dimensionality reduction and feature selection. Classifier performance evaluation, bias-variance tradeoff, and cross-validation. Taught at Duke Kunshan University in Kunshan, China.

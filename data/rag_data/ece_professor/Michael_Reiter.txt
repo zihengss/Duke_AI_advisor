@@ -1,0 +1,7 @@
+Name: Michael Reiter
+Department: Computer Science
+Short Description: James B. Duke Distinguished Professor of Computer Science
+
+Research Interests:
+Prof. Reiter's research interests include all areas of computer and communications security, fault-tolerant distributed computing, and applied cryptography.
+

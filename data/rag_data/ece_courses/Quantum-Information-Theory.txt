@@ -1,0 +1,5 @@
+Course Code: ECE 623
+Course Name: Quantum Information Theory
+
+Description:
+This course introduces fundamental ideas of Quantum Information theory, such as entanglement, quantum entropy and mutual information, decoherence and quantum data compression. A primary goal of this field is to understand how quantum effects, such as entanglement, can enhance communication and cryptography protocols. Furthermore, the tools and ideas discussed in this course are essential for understanding and quantifying noise and decoherence in quantum computers. These concepts have also found various applications in different areas of Physics, including quantum thermodynamics, many-body systems and quantum gravity. Prerequisite: ECE 521, ECE 586, PHYSICS 464, MATH 216, MATH 218D-1, MATH 218D-2, or MATH 221.

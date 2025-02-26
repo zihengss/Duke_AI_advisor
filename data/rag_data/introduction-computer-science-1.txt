@@ -1,4 +1,0 @@
-COMPSCI 101LA: introduction-computer-science-1
-Introduction practices and principles of computer science and programming and their impact on and potential to change the world. Algorithmic, problem-solving, and programming techniques in domains such as art, data visualization, mathematics, natural and social sciences. Programming using high-level languages and design techniques emphasizing abstraction, encapsulation, and problem decomposition. Design, implementation, testing, and analysis of algorithms and programs. No previous programming experience required. Not open to students who have taken Computer Science 102, 116, Engineering 103 or Computer Science 201. Offered at Marine Lab.
-Prerequisites
-Not open to students who have taken Computer Science 102, 116, Engineering 103 or Computer Science 201

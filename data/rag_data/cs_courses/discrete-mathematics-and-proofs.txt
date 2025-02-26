@@ -1,0 +1,4 @@
+COMPSCI  232
+This course takes a theoretical approach to probability, directed graphs, and Markov chains. Students will engage with proofs (both understanding proofs and constructing their own proofs) to investigate topics including discrete distributions, conditional probability, graphs, directed graphs, and Markov chains. Students will apply Markov models to novel contexts. Not open to students who have taken Computer Science 230.
+Prerequisites
+Not open to students who have taken Computer Science 230

@@ -1,2 +1,0 @@
-COMPSCI 92L: technical-and-social-analysis-information-and-internet-0
-Study of standards, software, policy, and the impact of computing and the Internet on science and society. Analysis and creation of software and other computational and digital artifacts to solve problems in many domains using different approaches, including data mining, web-based communication, algorithmic and data-driven approaches, crowd-sourcing. Use of real-world problems in understanding evolving international standards. Analysis of tradeoffs in ethical, economic, and technical areas.

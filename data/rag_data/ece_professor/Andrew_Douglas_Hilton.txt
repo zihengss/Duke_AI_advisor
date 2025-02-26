@@ -1,0 +1,7 @@
+Name: Andrew Douglas Hilton
+Department: Electrical and Computer Engineering
+Short Description: Director, Innovation in Computing Education, Professor of the Practice in the Department of ECE
+
+Research Interests:
+Computer architecture, specifically architectural support for security and energy-efficient performance
+

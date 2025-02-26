@@ -1,0 +1,5 @@
+Course Code: ECE 253
+Course Name: User Research Methods in Human-Centered Computing
+
+Description:
+This course serves as an introduction to a wide range of user-centered research study design methods and quantitative and qualitative data analysis techniques that students can use to capture users' perceived and real attitudes and behaviors toward technologies and policies. The course is most suitable for students who have some programming, algorithms, and data analysis background (e.g., an undergraduate computer programming course, such as Computer Science 201). In addition, having statistical knowledge and experience using statistical analysis tools, including R, Python, and STATA, is encouraged but not required.

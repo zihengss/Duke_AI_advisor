@@ -1,0 +1,4 @@
+COMPSCI  572
+Introduction to the modern methodologies underlying natural language processing, with a focus on machine learning and deep learning. Topics include language modeling, classification, generative and discriminative models of sequences and trees, and semantics. The course will also cover important NLP applications, such as question answering, machine translation, and summarization. Prerequisites: undergraduate machine learning (COMPSCI 370 or 371) or statistical inference (STA 250D / MATH 342D), probability (MATH 230 / STA 230), linear algebra (MATH 221, 218 or 216), and programming in python.
+Prerequisites
+Prerequisite: COMPSCI 370D or 371; OR STA 230/MATH 230 and STA 250D/MATH 342D and (MATH 221, 216, or 218); OR graduate standing

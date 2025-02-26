@@ -1,0 +1,2 @@
+Overview of professor Robert C. Duvall: 
+Object-oriented programming, design patterns, graphics, animation and visualization, artificial life, and programming languages.

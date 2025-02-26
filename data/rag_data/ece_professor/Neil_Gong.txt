@@ -1,0 +1,7 @@
+Name: Neil Gong
+Department: Electrical and Computer Engineering
+Short Description: Associate Professor of Electrical and Computer Engineering
+
+Research Interests:
+Cybersecurity and trustworthy AI
+

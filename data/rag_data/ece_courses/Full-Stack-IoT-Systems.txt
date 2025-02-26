@@ -1,0 +1,5 @@
+Course Code: ECE 655L
+Course Name: Full-Stack IoT Systems
+
+Description:
+This course focuses on the principles and applications of full-stack Internet-of-Things (IoT). It covers the hardware and software components of building cyber-physical systems (CPS) for IoT applications, including embedded platforms with various sensors and actuators, wireless and wired networks, cloud service, and platforms, data visualization and analytics, and end-to-end IoT applications. This course includes lab sessions and group projects, where students create and build working CPS/IoT systems. Prerequisite: Computer Science 210D, Computer Science 250D, Electrical & Computer Engineering 250D, or Electrical & Computer Engineering 550D.

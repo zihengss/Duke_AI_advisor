@@ -1,0 +1,35 @@
+Name: Lawrence Carin
+Department: Electrical and Computer Engineering
+Short Description: Professor of Electrical and Computer Engineering
+
+Research Interests:
+Applied statistics and machine learning
+
+Bio:
+Lawrence Carin earned the BS, MS, and PhD degrees in electrical engineering at the University of Maryland, College Park, in 1985, 1986, and 1989, respectively. In 1989 he joined the Electrical Engineering Department at Brooklyn Polytechnic Institute (now part of NYU) as an Assistant Professor, and became an Associate Professor there in 1994. In September 1995 he joined the Electrical and Computer Engineering (ECE) Department at Duke University, where he is now a Professor. He was ECE Department Chair from 2011-2014, and Vice Provost and Vice President for Research from 2014-2020. He was the Provost at King Abdullah University of Science & Technology (KAUST) from 2020-2023, returning to Duke in 2023. From 2003-2014 he held the William H. Younger Distinguished Professorship, and since 2018 he has held the James L. Meriam Distinguished Professorship. Dr. Carin's research focuses on machine learning (ML) and artificial intelligence (AI). He publishes widely in the main ML/AI forums, and has addressed many applications of AI, including in  medicine and security. He was co-founder of the small business Signal Innovations Group, which was acquired by BAE Systems in 2014, and in 2017 he co-founded the company Infinia ML, which was acquired by Aspirion in 2023. He is an IEEE Fellow.
+
+Education:
+B.S.E. University of Maryland, College Park, 1985
+M.Sc.Eng. University of Maryland, College Park, 1986
+Ph.D. University of Maryland, College Park, 1989
+
+Positions:
+Professor of Electrical and Computer Engineering
+Professor of Computer Science
+
+Awards:
+Fellows. Institute for Electrical and Electronics Engineers. 2001
+
+Courses Taught:
+IDS 793: Independent Study
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 495: Special Topics in Electrical and Computer Engineering
+
+Publications:
+Zhang H, Cong Y, Wang Z, Zhang L, Zhao M, Chen L, et al.Text Feature Adversarial Learning for Text Generation With Knowledge Transfer From GPT2.IEEE Trans Neural Netw Learn Syst. 2024 May;35(5):6558–69.
+Assaad S, Dov D, Park C, Davis R, Kovalsky SZ, Lee WT, et al.A Preliminary Study Comparing the Performance of Thyroid Molecular Tests to a Deep Learning Algorithm in Predicting Malignancy in Indeterminate Thyroid Fine Needle Aspiration Biopsies.Thyroid. 2024 Apr;34(4):531–5.
+Verma V, Mehta N, Liang KJ, Mishra A, Carin L.Meta-Learned Attribute Self-Interaction Network for Continual and Generalized Zero-Shot Learning. In: Proceedings - 2024 IEEE Winter Conference on Applications of Computer Vision, WACV 2024. 2024. p. 2709–19.
+Glass M, Ji Z, Davis R, Pavlisko EN, DiBernardo L, Carney J, et al.A machine learning algorithm improves the diagnostic accuracy of the histologic component of antibody mediated rejection (AMR-H) in cardiac transplant endomyocardial biopsies.Cardiovasc Pathol. 2024;72:107646.
+Dow ER, Jeong HK, Katz EA, Toth CA, Wang D, Lee T, et al.A Deep-Learning Algorithm to Predict Short-Term Progression to Geographic Atrophy on Spectral-Domain Optical Coherence Tomography.JAMA Ophthalmol. 2023 Nov 1;141(11):1052–61.

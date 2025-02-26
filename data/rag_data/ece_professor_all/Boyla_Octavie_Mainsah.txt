@@ -1,0 +1,31 @@
+Name: Boyla Octavie Mainsah
+Department: Electrical and Computer Engineering
+Short Description: Assistant Research Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Duke University, 2016
+
+Positions:
+Assistant Research Professor in the Department of Electrical and Computer Engineering
+Assistant Professor in Neurology
+
+Awards:
+
+
+Courses Taught:
+IDS 793: Independent Study
+ECE 899: Special Readings in Electrical Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+
+Publications:
+Karpurapu A, Williams HA, DeBenedittis P, Baker CE, Ren S, Thomas MC, et al.Deep Learning Resolves Myovascular Dynamics in the Failing Human Heart.JACC Basic Transl Sci. 2024 May;9(5):674–86.
+Shahidi LK, Collins LM, Mainsah BO.Objective intelligibility measurement of reverberant vocoded speech for normal-hearing listeners: Towards facilitating the development of speech enhancement algorithms for cochlear implants.The Journal of the Acoustical Society of America. 2024 Mar;155(3):2151–68.
+Chu K, Collins L, Mainsah B.Suppressing reverberation in cochlear implant stimulus patterns using time-frequency masks based on phoneme groups. In: Proceedings of Meetings on Acoustics. 2022.
+Shahidi LK, Collins LM, Mainsah BO.Parameter tuning of time-frequency masking algorithms for reverberant artifact removal within the cochlear implant stimulus.Cochlear implants international. 2022 Nov;23(6):309–16.
+Chen XJ, Collins LM, Mainsah BO.Language Model-Guided Classifier Adaptation for Brain-Computer Interfaces for Communication.In: Conference proceedings IEEE International Conference on Systems, Man, and Cybernetics. 2022. p. 1642–7.

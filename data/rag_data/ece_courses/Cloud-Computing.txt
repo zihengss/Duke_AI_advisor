@@ -1,0 +1,5 @@
+Course Code: ECE 563
+Course Name: Cloud Computing
+
+Description:
+In a seminar format, explore a number of the underlying technologies, business models, and innovations underpinning current widespread deployment of "cloud" computing systems, services, and applications. Each student will be expected to choose a relevant subject, identify appropriate advance readings for the class, and lead one discussion on topics of interest to the group. There will be a project component to the course; some projects may be in the form of literature reviews and papers, others will involve practical experience creating and deploying a useful service or application in a cloud environment. Instructor: Board

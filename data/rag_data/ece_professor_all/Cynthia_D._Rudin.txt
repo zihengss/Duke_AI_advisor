@@ -1,0 +1,49 @@
+Name: Cynthia D. Rudin
+Department: Computer Science
+Short Description: Gilbert, Louis, and Edward Lehrman Distinguished Professor
+
+Research Interests:
+
+
+Bio:
+N/A
+
+Education:
+Ph.D. Princeton University, 2004
+
+Positions:
+Gilbert, Louis, and Edward Lehrman Distinguished Professor
+Professor of Computer Science
+Professor of Electrical and Computer Engineering
+Professor of Biostatistics and Bioinformatics
+Professor of Statistical Science
+Professor of Mathematics
+
+Awards:
+
+
+Courses Taught:
+STA 693: Research Independent Study
+STA 671D: Theory and Algorithms for Machine Learning
+STA 493: Research Independent Study
+STA 393: Research Independent Study
+ME 555: Advanced Topics in Mechanical Engineering
+MATH 494: Research Independent Study
+MATH 491: Independent Study
+ISS 796T: Bass Connections Information, Society & Culture Research Team
+ISS 396T: Bass Connections Information, Society & Culture Research Team
+ECE 687D: Theory and Algorithms for Machine Learning
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+COMPSCI 671D: Theory and Algorithms for Machine Learning
+COMPSCI 474: Data Science Competition
+COMPSCI 394: Research Independent Study
+COMPSCI 393: Research Independent Study
+COMPSCI 391: Independent Study
+
+Publications:
+Zhang H, Mahabadi RK, Rudin C, Guilleminot J, Brinson LC.Uncertainty quantification of acoustic metamaterial bandgaps with stochastic material properties and geometric defects. Computers and Structures. 2024 Dec 1;305.
+Chen SF, Guo Z, Ding C, Hu X, Rudin C.Sparse learned kernels for interpretable and efficient medical time series processing. Nature Machine Intelligence. 2024 Oct 1;6(10):1132–44.
+Semenova L, Wang Y, Falcinelli S, Archin N, Cooper-Volkheimer AD, Margolis DM, et al.Machine learning approaches identify immunologic signatures of total and intact HIV DNA during long-term antiretroviral therapy.Elife. 2024 Sep 9;13.
+Hahn S, Yin J, Zhu R, Xu W, Jiang Y, Mak S, et al.SentHYMNent: An Interpretable and Sentiment-Driven Model for Algorithmic Melody Harmonization. In: Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2024. p. 5050–60.
+Ding C, Guo Z, Chen Z, Lee RJ, Rudin C, Hu X.SiamQuality: a ConvNet-based foundation model for photoplethysmography signals.Physiological measurement. 2024 Aug;45(8).

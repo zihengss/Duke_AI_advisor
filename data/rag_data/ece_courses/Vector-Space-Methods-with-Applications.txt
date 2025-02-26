@@ -1,0 +1,5 @@
+Course Code: ECE 586K
+Course Name: Vector Space Methods with Applications
+
+Description:
+Covers key concepts from advanced linear algebra that are used regularly in ECE/CS journal papers on signal processing, communications, circuit design, and machine learning (e.g., logic, topology, vector spaces, optimization). For each topic, key mathematical ideas/proofs will be presented and applied. The goal is to use application topics such as Markov chains, alternating projections, and pattern classification to illustrate important mathematical topics. Background in linear algebra, a high-level programming language, and probability is assumed. Taught at Duke Kunshan University in Kunshan, China.

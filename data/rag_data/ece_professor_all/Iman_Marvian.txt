@@ -1,0 +1,39 @@
+Name: Iman Marvian
+Department: Electrical and Computer Engineering
+Short Description: Assistant Professor in the Department of Electrical and Computer Engineering
+
+Research Interests:
+Quantum information and computation theory
+
+Bio:
+Iman Marvian received his Ph.D. in Physics in 2012 at the University of Waterloo and Perimeter Institute for Theoretical Physics in Waterloo, Canada. Before moving to Duke, he worked as a postdoctoral researcher at the University of Southern California and MIT.Marvian's main research interest is quantum information and computation theory. He has worked on a wide range of topics in this field, including quantum algorithms, quantum circuits, symmetry-protected topological order, quantum error suppression, open quantum systems, quantum resource theories, and quantum thermodynamics.
+
+Education:
+Ph.D. University of Waterloo (Canada), 2012
+
+Positions:
+Assistant Professor in the Department of Electrical and Computer Engineering
+Assistant Professor in the Department of Physics
+Member of the Duke Quantum Center
+
+Awards:
+National Science Foundation CAREER Award. National Science Foundation (NSF). 2021
+
+Courses Taught:
+PHYSICS 627: Quantum Information Science
+PHYSICS 623: Quantum Information Theory
+PHYSICS 380: Introduction to Quantum Information Science
+MATH 363: Introduction to Quantum Information Science
+ECE 623: Quantum Information Theory
+ECE 523: Quantum Information Science
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Publications:
+Yadavalli SA, Marvian I.Optimal Distillation of Coherent States with Phase-Insensitive
+  Operations. 2024.
+Liu H, Hulse A, Marvian I.Unitary Designs from Random Symmetric Quantum Circuits. 2024.
+Zhukas LA, Wang Q, Katz O, Monroe C, Marvian I.Observation of the Symmetry-Protected Signature of 3-body Interactions. 2024.
+Hulse A, Liu H, Marvian I.A framework for semi-universality: Semi-universality of 3-qudit
+  SU(d)-invariant gates. 2024.
+Bai G, Marvian I.Synthesis of Energy-Conserving Quantum Circuits with XY interaction. 2023.
