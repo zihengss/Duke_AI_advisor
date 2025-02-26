@@ -1,24 +1,5 @@
 # Duke_AI_advisor
-基于与训练大语言模型，创造Duke学生选课助手
-
-## 目录
-文件结构
-```
-.
-├── data             # 数据
-│   ├── finetune_data
-│   └── rag_data
-├── deployment       # 部署代码
-│   ├── back_end
-│   └── front_end
-├── fine_tune        # 微调代码
-│   └── mac
-└── models           # 模型
-    ├── Qwen2-0.5B-Instruct
-    ├── Qwen2-1.5B-Instruct
-    ├── bge-small-en-v1.5
-    └── gte-base-en-v1.5
-```
+智能领域顾问系统，集成检索增强生成（RAG）与函数调用能力，为复杂决策提供AI支持。
 
 
 ## 快速部署
