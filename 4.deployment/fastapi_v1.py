@@ -31,16 +31,18 @@ llm_model = AutoModelForCausalLM.from_pretrained("../models/Qwen2.5-0.5B-Finetun
 llm_tokenizer = AutoTokenizer.from_pretrained("../models/Qwen2.5-0.5B-Finetuned")
 
 # OpenAI API key
-openai_api_key = os.getenv('API_KEY')
-openai.api_key = openai_api_key
+# openai_api_key = os.getenv('API_KEY')
+# openai.api_key = openai_api_key
 
 # Define request and response schemas
 class QueryRequest(BaseModel):
     user_input: str
     rag_num_return: int = 10
+    api_key: str = ""
 
 class GenerateRequest(BaseModel):
     final_prompt: str
+    api_key: str = "No_API_Key"
 
 class ToolRequest(BaseModel):
     TOOLS: list
@@ -192,7 +194,7 @@ def tool_use_qwen(request: ToolRequest):
 def generate_response_openai(request: GenerateRequest):
     """Generate a response using the OpenAI API."""
     try:
-        opanai_client = openai.OpenAI(api_key=openai_api_key)
+        opanai_client = openai.OpenAI(api_key=request.api_key)
         response = opanai_client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
@@ -210,9 +212,9 @@ def generate_response_openai(request: GenerateRequest):
             )
         return {"response": response.choices[0].message.content}
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail=str(e)+ request.api_key)
 
-@app.post("/process_all")
+@app.post("/process_all_local")
 def process_all(query: QueryRequest):
     """Chained endpoint: Calls RAG, Rerank, and preprocesses final_prompt."""
     try:
@@ -225,12 +227,12 @@ def process_all(query: QueryRequest):
         reranked_docs = rerank_response["reranked_docs"]
 
         # Step 3: Choose model
-        qwen_used = True
+        rag_used = True
         if not reranked_docs:
-            qwen_used = False
+            rag_used = False
         
         # use qwen
-        if qwen_used:
+        if rag_used:
             rag_str = '\n\n'.join(reranked_docs)
             final_prompt = f"Answer the following question based on:\n{rag_str}\nQuestion: {query.user_input}"
 
@@ -238,8 +240,42 @@ def process_all(query: QueryRequest):
             return {"response":llm_response['response'], "retrieved_docs":retrieved_docs, "reranked_docs":reranked_docs, "model_used":"Qwen"}
         else:
             final_prompt = query.user_input
-            llm_response = generate_response_openai(GenerateRequest(final_prompt=final_prompt))
-            return {"response":llm_response['response'], "retrieved_docs":retrieved_docs, "reranked_docs":reranked_docs, "model_used":"ChatGPT"}
+            llm_response = generate_response_qwen(GenerateRequest(final_prompt=final_prompt))
+            return {"response":llm_response['response'], "retrieved_docs":retrieved_docs, "reranked_docs":reranked_docs, "model_used":"Qwen"}
+
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/process_all_openai")
+def process_all(query: QueryRequest):
+    """Chained endpoint: Calls RAG, Rerank, and preprocesses final_prompt."""
+    try:
+        # Step 1: RAG search
+        rag_response = rag_search(query)
+        retrieved_docs = rag_response["results"]
+
+        # Step 2: Rerank
+        rerank_response = rerank(query, retrieved_docs=retrieved_docs)
+        reranked_docs = rerank_response["reranked_docs"]
+
+        # Step 3: Choose model
+        rag_used = True
+        if not reranked_docs:
+            rag_used = False
+        
+        # use qwen
+        if rag_used:
+            rag_str = '\n\n'.join(reranked_docs)
+            final_prompt = f"Answer the following question based on:\n{rag_str}\nQuestion: {query.user_input}"
+
+            llm_response = generate_response_openai(GenerateRequest(final_prompt=final_prompt, api_key=query.api_key))
+            return {"response":llm_response['response'], "retrieved_docs":retrieved_docs, "reranked_docs":reranked_docs, "model_used":"GPT-4o"}
+        else:
+            final_prompt = query.user_input
+            llm_response = generate_response_openai(GenerateRequest(final_prompt=final_prompt, api_key=query.api_key))
+            return {"response":llm_response['response'], "retrieved_docs":retrieved_docs, "reranked_docs":reranked_docs, "model_used":"GPT-4o"}
 
 
     except Exception as e:

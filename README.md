@@ -34,5 +34,5 @@ cd 4.deployment/
 uvicorn fastapi_v1:app --reload  
 
 # frontend
-streamlit run ./4.deployment/debug_frontend.py
+streamlit run ./4.deployment/hello.py
 ```

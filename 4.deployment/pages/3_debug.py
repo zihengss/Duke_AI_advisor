@@ -2,10 +2,10 @@ import streamlit as st
 import requests
 
 # Streamlit app title
-st.title("Process All Endpoint Frontend")
+st.title("Debug Endpoint Frontend")
 
 # Backend API URL (adjust this to match your backend server's URL)
-API_URL = "http://localhost:8000/process_all"
+API_URL = "http://localhost:8000/process_all_local"
 
 # Input section for user query
 query_input = st.text_area("Enter your query:", placeholder="Type your query here...")
